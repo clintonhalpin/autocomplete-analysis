@@ -1,0 +1,797 @@
+[
+  {
+    "query": "iPhone",
+    "results": [
+      {
+        "index": 0,
+        "text": "instagram",
+        "html": "instagram",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "indeed",
+        "html": "indeed",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "iga swiatek",
+        "html": "iga swiatek",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "itunes",
+        "html": "itunes",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "irs",
+        "html": "irs",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "ikea",
+        "html": "ikea",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "icloud",
+        "html": "icloud",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "imdb",
+        "html": "imdb",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "Laptop",
+    "results": [
+      {
+        "index": 0,
+        "text": "iphone 14",
+        "html": "iphone 14",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "iphone 13",
+        "html": "iphone 13",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "iphone",
+        "html": "iphone",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "iphone 11",
+        "html": "iphone 11",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "iphone 12",
+        "html": "iphone 12",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "iphone xr",
+        "html": "iphone xr",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "iphone 12 pro",
+        "html": "iphone 12 pro",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "iphone 13 pro max",
+        "html": "iphone 13 pro max",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "socks",
+    "results": [
+      {
+        "index": 0,
+        "text": "iphone 14",
+        "html": "iphone 14",
+        "height": 0
+      },
+      {
+        "index": 1,
+        "text": "iphone 13",
+        "html": "iphone 13",
+        "height": 0
+      },
+      {
+        "index": 2,
+        "text": "iphone",
+        "html": "iphone",
+        "height": 0
+      },
+      {
+        "index": 3,
+        "text": "iphone 11",
+        "html": "iphone 11",
+        "height": 0
+      },
+      {
+        "index": 4,
+        "text": "iphone 12",
+        "html": "iphone 12",
+        "height": 0
+      },
+      {
+        "index": 5,
+        "text": "iphone xr",
+        "html": "iphone xr",
+        "height": 0
+      },
+      {
+        "index": 6,
+        "text": "iphone 12 pro",
+        "html": "iphone 12 pro",
+        "height": 0
+      },
+      {
+        "index": 7,
+        "text": "iphone 13 pro max",
+        "html": "iphone 13 pro max",
+        "height": 0
+      }
+    ]
+  },
+  {
+    "query": "shoes",
+    "results": [
+      {
+        "index": 0,
+        "text": "spotify",
+        "html": "spotify",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "sudoku",
+        "html": "sudoku",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "shein",
+        "html": "shein",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "shoprite",
+        "html": "shoprite",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "steam",
+        "html": "steam",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "staples",
+        "html": "staples",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "shakira",
+        "html": "shakira",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "speed test",
+        "html": "speed test",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "shirt",
+    "results": [
+      {
+        "index": 0,
+        "text": "spotify",
+        "html": "spotify",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "sudoku",
+        "html": "sudoku",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "shein",
+        "html": "shein",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "shoprite",
+        "html": "shoprite",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "steam",
+        "html": "steam",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "staples",
+        "html": "staples",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "shakira",
+        "html": "shakira",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "speed test",
+        "html": "speed test",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "new york",
+    "results": [
+      {
+        "index": 0,
+        "text": "shirtspace",
+        "html": "shirtspace",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "shirt",
+        "html": "shirt",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "shirt design",
+        "html": "shirt design",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "shirtmax",
+        "html": "shirtmax",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "shirt roblox template",
+        "html": "shirt roblox template",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "shirt maker",
+        "html": "shirt maker",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "shirts for men",
+        "html": "shirts for men",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "shirt dress",
+        "html": "shirt dress",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "helsinki",
+    "results": [
+      {
+        "index": 0,
+        "text": "shirtspace",
+        "html": "shirtspace",
+        "height": 0
+      },
+      {
+        "index": 1,
+        "text": "shirt",
+        "html": "shirt",
+        "height": 0
+      },
+      {
+        "index": 2,
+        "text": "shirt design",
+        "html": "shirt design",
+        "height": 0
+      },
+      {
+        "index": 3,
+        "text": "shirtmax",
+        "html": "shirtmax",
+        "height": 0
+      },
+      {
+        "index": 4,
+        "text": "shirt roblox template",
+        "html": "shirt roblox template",
+        "height": 0
+      },
+      {
+        "index": 5,
+        "text": "shirt maker",
+        "html": "shirt maker",
+        "height": 0
+      },
+      {
+        "index": 6,
+        "text": "shirts for men",
+        "html": "shirts for men",
+        "height": 0
+      },
+      {
+        "index": 7,
+        "text": "shirt dress",
+        "html": "shirt dress",
+        "height": 0
+      }
+    ]
+  },
+  {
+    "query": "bali",
+    "results": [
+      {
+        "index": 0,
+        "text": "helsinki",
+        "html": "<span class=\"t-normal\">helsinki</span>",
+        "height": 0
+      },
+      {
+        "index": 1,
+        "text": "helsinki finland",
+        "html": "<span class=\"t-normal\">helsinki</span> finland",
+        "height": 0
+      },
+      {
+        "index": 2,
+        "text": "helsinki weather",
+        "html": "<span class=\"t-normal\">helsinki</span> weather",
+        "height": 0
+      },
+      {
+        "index": 3,
+        "text": "helsinki accords",
+        "html": "<span class=\"t-normal\">helsinki</span> accords",
+        "height": 0
+      },
+      {
+        "index": 4,
+        "text": "helsinki airport",
+        "html": "<span class=\"t-normal\">helsinki</span> airport",
+        "height": 0
+      },
+      {
+        "index": 5,
+        "text": "helsinki time",
+        "html": "<span class=\"t-normal\">helsinki</span> time",
+        "height": 0
+      },
+      {
+        "index": 6,
+        "text": "helsinki declaration",
+        "html": "<span class=\"t-normal\">helsinki</span> declaration",
+        "height": 0
+      },
+      {
+        "index": 7,
+        "text": "helsinki syndrome",
+        "html": "<span class=\"t-normal\">helsinki</span> syndrome",
+        "height": 0
+      }
+    ]
+  },
+  {
+    "query": "new orleans",
+    "results": [
+      {
+        "index": 0,
+        "text": "bali",
+        "html": "bali",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "bali bras",
+        "html": "bali bras",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "bali indonesia",
+        "html": "bali indonesia",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "bali blinds",
+        "html": "bali blinds",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "balisong",
+        "html": "balisong",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "bali carte monde",
+        "html": "bali carte monde",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "balinese cat",
+        "html": "balinese cat",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "balise bivose",
+        "html": "balise bivose",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "marrakesh",
+    "results": [
+      {
+        "index": 0,
+        "text": "new orleans",
+        "html": "<span class=\"t-normal\">new orleans</span>",
+        "height": 0
+      },
+      {
+        "index": 1,
+        "text": "new orleans saints",
+        "html": "<span class=\"t-normal\">new orleans</span> saints",
+        "height": 0
+      },
+      {
+        "index": 2,
+        "text": "new orleans weather",
+        "html": "<span class=\"t-normal\">new orleans</span> weather",
+        "height": 0
+      },
+      {
+        "index": 3,
+        "text": "new orleans pelicans",
+        "html": "<span class=\"t-normal\">new orleans</span> pelicans",
+        "height": 0
+      },
+      {
+        "index": 4,
+        "text": "new orleans tornado",
+        "html": "<span class=\"t-normal\">new orleans</span> tornado",
+        "height": 0
+      },
+      {
+        "index": 5,
+        "text": "new orleans airport",
+        "html": "<span class=\"t-normal\">new orleans</span> airport",
+        "height": 0
+      },
+      {
+        "index": 6,
+        "text": "new orleans outbreak",
+        "html": "<span class=\"t-normal\">new orleans</span> outbreak",
+        "height": 0
+      },
+      {
+        "index": 7,
+        "text": "new orleans jazz festival 2022",
+        "html": "<span class=\"t-normal\">new orleans</span> jazz festival 2022",
+        "height": 0
+      }
+    ]
+  },
+  {
+    "query": "intel",
+    "results": [
+      {
+        "index": 0,
+        "text": "marrakesh",
+        "html": "marrakesh",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "marrakesh express",
+        "html": "marrakesh express",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "marrakesh oil",
+        "html": "marrakesh oil",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "marrakesh restaurant",
+        "html": "marrakesh restaurant",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "marrakesh express lyrics",
+        "html": "marrakesh express lyrics",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "marrakech morocco",
+        "html": "marrakech morocco",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "marrakesh express lyrics meaning",
+        "html": "marrakesh express lyrics meaning",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "marrakesh country club",
+        "html": "marrakesh country club",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "coinbase",
+    "results": [
+      {
+        "index": 0,
+        "text": "marrakesh",
+        "html": "marrakesh",
+        "height": 0
+      },
+      {
+        "index": 1,
+        "text": "marrakesh express",
+        "html": "marrakesh express",
+        "height": 0
+      },
+      {
+        "index": 2,
+        "text": "marrakesh oil",
+        "html": "marrakesh oil",
+        "height": 0
+      },
+      {
+        "index": 3,
+        "text": "marrakesh restaurant",
+        "html": "marrakesh restaurant",
+        "height": 0
+      },
+      {
+        "index": 4,
+        "text": "marrakesh express lyrics",
+        "html": "marrakesh express lyrics",
+        "height": 0
+      },
+      {
+        "index": 5,
+        "text": "marrakech morocco",
+        "html": "marrakech morocco",
+        "height": 0
+      },
+      {
+        "index": 6,
+        "text": "marrakesh express lyrics meaning",
+        "html": "marrakesh express lyrics meaning",
+        "height": 0
+      },
+      {
+        "index": 7,
+        "text": "marrakesh country club",
+        "html": "marrakesh country club",
+        "height": 0
+      }
+    ]
+  },
+  {
+    "query": "amazon",
+    "results": [
+      {
+        "index": 0,
+        "text": "coinbase",
+        "html": "coinbase",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "coinbase pro",
+        "html": "coinbase pro",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "coinbase login",
+        "html": "coinbase login",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "coinbase stock",
+        "html": "coinbase stock",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "coinbase wallet",
+        "html": "coinbase wallet",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "coinbase pro login",
+        "html": "coinbase pro login",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "coinbase customer care number",
+        "html": "coinbase customer care number",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "coinbase nft",
+        "html": "coinbase nft",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "google",
+    "results": [
+      {
+        "index": 0,
+        "text": "google",
+        "html": "<span class=\"t-normal\">google</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "google maps",
+        "html": "<span class=\"t-normal\">google</span> maps",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "google docs",
+        "html": "<span class=\"t-normal\">google</span> docs",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "google classroom",
+        "html": "<span class=\"t-normal\">google</span> classroom",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "google chrome",
+        "html": "<span class=\"t-normal\">google</span> chrome",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "google translate",
+        "html": "<span class=\"t-normal\">google</span> translate",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "google drive",
+        "html": "<span class=\"t-normal\">google</span> drive",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "google earth",
+        "html": "<span class=\"t-normal\">google</span> earth",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "twitter",
+    "results": [
+      {
+        "index": 0,
+        "text": "google",
+        "html": "<span class=\"t-normal\">google</span>",
+        "height": 0
+      },
+      {
+        "index": 1,
+        "text": "google maps",
+        "html": "<span class=\"t-normal\">google</span> maps",
+        "height": 0
+      },
+      {
+        "index": 2,
+        "text": "google docs",
+        "html": "<span class=\"t-normal\">google</span> docs",
+        "height": 0
+      },
+      {
+        "index": 3,
+        "text": "google classroom",
+        "html": "<span class=\"t-normal\">google</span> classroom",
+        "height": 0
+      },
+      {
+        "index": 4,
+        "text": "google chrome",
+        "html": "<span class=\"t-normal\">google</span> chrome",
+        "height": 0
+      },
+      {
+        "index": 5,
+        "text": "google translate",
+        "html": "<span class=\"t-normal\">google</span> translate",
+        "height": 0
+      },
+      {
+        "index": 6,
+        "text": "google drive",
+        "html": "<span class=\"t-normal\">google</span> drive",
+        "height": 0
+      },
+      {
+        "index": 7,
+        "text": "google earth",
+        "html": "<span class=\"t-normal\">google</span> earth",
+        "height": 0
+      }
+    ]
+  }
+]

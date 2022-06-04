@@ -1,0 +1,827 @@
+[
+  {
+    "query": "iphone",
+    "results": [
+      {
+        "index": 0,
+        "text": "iphone 13 pro max",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+13+pro+max&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2013%20pro%20max%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 13 pro max</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 13 pro max\" aria-label=\"Replace search term with iphone 13 pro max, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "iphone 13 mini",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+13+mini&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2013%20mini%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 13 mini</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 13 mini\" aria-label=\"Replace search term with iphone 13 mini, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "iphone 13",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+13&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2013%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 13</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 13\" aria-label=\"Replace search term with iphone 13, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "iphone 13 pro",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+13+pro&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2013%20pro%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 13 pro</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 13 pro\" aria-label=\"Replace search term with iphone 13 pro, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "iphone 13 case",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+13+case&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2013%20case%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 13 case</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 13 case\" aria-label=\"Replace search term with iphone 13 case, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "iphone 13 pro case",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+13+pro+case&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2013%20pro%20case%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 13 pro case</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 13 pro case\" aria-label=\"Replace search term with iphone 13 pro case, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "iphone 13 pro max case",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+13+pro+max+case&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2013%20pro%20max%20case%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 13 pro max case</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 13 pro max case\" aria-label=\"Replace search term with iphone 13 pro max case, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "iphone 12 case",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+12+case&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2012%20case%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 12 case</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 12 case\" aria-label=\"Replace search term with iphone 12 case, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "iphone 11 case",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+11+case&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%2011%20case%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> 11 case</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone 11 case\" aria-label=\"Replace search term with iphone 11 case, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "iphone charger",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=iphone+charger&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ciphone%20charger%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=iphone\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>iphone</b> charger</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"iphone charger\" aria-label=\"Replace search term with iphone charger, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "Laptop",
+    "results": [
+      {
+        "index": 0,
+        "text": "laptop",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=laptop&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Claptop%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">laptop</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"laptop\" aria-label=\"Replace search term with laptop, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "laptop computer",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=laptop+computer&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Claptop%20computer%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">laptop computer</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"laptop computer\" aria-label=\"Replace search term with laptop computer, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "gaming laptop",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=gaming+laptop&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgaming%20laptop%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">gaming laptop</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"gaming laptop\" aria-label=\"Replace search term with gaming laptop, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "laptop bag",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=laptop+bag&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Claptop%20bag%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">laptop bag</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"laptop bag\" aria-label=\"Replace search term with laptop bag, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "laptop stand",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=laptop+stand&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Claptop%20stand%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">laptop stand</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"laptop stand\" aria-label=\"Replace search term with laptop stand, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "hp laptop",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=hp+laptop&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Chp%20laptop%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">hp laptop</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"hp laptop\" aria-label=\"Replace search term with hp laptop, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "laptop backpack",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=laptop+backpack&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Claptop%20backpack%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">laptop backpack</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"laptop backpack\" aria-label=\"Replace search term with laptop backpack, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "laptop bag for women",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=laptop+bag+for+women&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Claptop%20bag%20for%20women%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">laptop bag for women</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"laptop bag for women\" aria-label=\"Replace search term with laptop bag for women, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "apple macbook laptop",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=apple+macbook+laptop&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Capple%20macbook%20laptop%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">apple macbook laptop</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"apple macbook laptop\" aria-label=\"Replace search term with apple macbook laptop, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "hp laptop touchscreen",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=hp+laptop+touchscreen&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Chp%20laptop%20touchscreen%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=Laptop\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">hp laptop touchscreen</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"hp laptop touchscreen\" aria-label=\"Replace search term with hp laptop touchscreen, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "socks",
+    "results": [
+      {
+        "index": 0,
+        "text": "15 days of socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=15+days+of+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7C15%20days%20of%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">15 days of <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"15 days of socks\" aria-label=\"Replace search term with 15 days of socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "womens socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens socks\" aria-label=\"Replace search term with womens socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "mens socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=mens+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cmens%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">mens <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"mens socks\" aria-label=\"Replace search term with mens socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "boys socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=boys+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cboys%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">boys <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"boys socks\" aria-label=\"Replace search term with boys socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "girls socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=girls+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgirls%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">girls <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"girls socks\" aria-label=\"Replace search term with girls socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "womens no show socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+no+show+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20no%20show%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens no show <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens no show socks\" aria-label=\"Replace search term with womens no show socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "toddler girl socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=toddler+girl+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctoddler%20girl%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">toddler girl <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"toddler girl socks\" aria-label=\"Replace search term with toddler girl socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "toddler boy socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=toddler+boy+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctoddler%20boy%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">toddler boy <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"toddler boy socks\" aria-label=\"Replace search term with toddler boy socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "baby socks",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=baby+socks&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbaby%20socks%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">baby <b>socks</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"baby socks\" aria-label=\"Replace search term with baby socks, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "mens socks ankle",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=mens+socks+ankle&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cmens%20socks%20ankle%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=socks\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">mens <b>socks</b> ankle</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"mens socks ankle\" aria-label=\"Replace search term with mens socks ankle, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "shoes",
+    "results": [
+      {
+        "index": 0,
+        "text": "womens shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens shoes\" aria-label=\"Replace search term with womens shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "toddler girl shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=toddler+girl+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctoddler%20girl%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">toddler girl <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"toddler girl shoes\" aria-label=\"Replace search term with toddler girl shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "kids water shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=kids+water+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ckids%20water%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">kids water <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"kids water shoes\" aria-label=\"Replace search term with kids water shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "toddler boy shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=toddler+boy+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctoddler%20boy%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">toddler boy <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"toddler boy shoes\" aria-label=\"Replace search term with toddler boy shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "girls shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=girls+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgirls%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">girls <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"girls shoes\" aria-label=\"Replace search term with girls shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "shoes rack",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=shoes+rack&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cshoes%20rack%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>shoes</b> rack</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"shoes rack\" aria-label=\"Replace search term with shoes rack, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "womens water shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+water+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20water%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens water <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens water shoes\" aria-label=\"Replace search term with womens water shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "toddler water shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=toddler+water+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctoddler%20water%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">toddler water <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"toddler water shoes\" aria-label=\"Replace search term with toddler water shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "boys water shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=boys+water+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cboys%20water%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">boys water <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"boys water shoes\" aria-label=\"Replace search term with boys water shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "boys shoes",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=boys+shoes&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cboys%20shoes%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shoes\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">boys <b>shoes</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"boys shoes\" aria-label=\"Replace search term with boys shoes, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "shirt",
+    "results": [
+      {
+        "index": 0,
+        "text": "womens t shirts",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+t+shirts&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20t%20shirts%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens t <b>shirt</b>s</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens t shirts\" aria-label=\"Replace search term with womens t shirts, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "ment shirt",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=ment+shirt&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cment%20shirt%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">ment <b>shirt</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"ment shirt\" aria-label=\"Replace search term with ment shirt, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "womens shirts",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+shirts&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20shirts%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens <b>shirt</b>s</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens shirts\" aria-label=\"Replace search term with womens shirts, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "women graphic t shirt",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=women+graphic+t+shirt&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomen%20graphic%20t%20shirt%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">women graphic t <b>shirt</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"women graphic t shirt\" aria-label=\"Replace search term with women graphic t shirt, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "goodfellow men shirts",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=goodfellow+men+shirts&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoodfellow%20men%20shirts%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">goodfellow men <b>shirt</b>s</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"goodfellow men shirts\" aria-label=\"Replace search term with goodfellow men shirts, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "womens tee shirts",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+tee+shirts&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20tee%20shirts%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens tee <b>shirt</b>s</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens tee shirts\" aria-label=\"Replace search term with womens tee shirts, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "toddler boys t shirt",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=toddler+boys+t+shirt&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctoddler%20boys%20t%20shirt%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">toddler boys t <b>shirt</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"toddler boys t shirt\" aria-label=\"Replace search term with toddler boys t shirt, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "womens tshirt dress",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+tshirt+dress&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20tshirt%20dress%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens t<b>shirt</b> dress</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens tshirt dress\" aria-label=\"Replace search term with womens tshirt dress, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "toddler boy shirts",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=toddler+boy+shirts&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctoddler%20boy%20shirts%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">toddler boy <b>shirt</b>s</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"toddler boy shirts\" aria-label=\"Replace search term with toddler boy shirts, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "mens white tshirts",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=mens+white+tshirts&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cmens%20white%20tshirts%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=shirt\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">mens white t<b>shirt</b>s</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"mens white tshirts\" aria-label=\"Replace search term with mens white tshirts, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "new york",
+    "results": [
+      {
+        "index": 0,
+        "text": "new york yankees shirt",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+york+yankees+shirt&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20york%20yankees%20shirt%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new york</b> yankees shirt</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new york yankees shirt\" aria-label=\"Replace search term with new york yankees shirt, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "new york rangers",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+york+rangers&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20york%20rangers%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new york</b> rangers</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new york rangers\" aria-label=\"Replace search term with new york rangers, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "new york yankees",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+york+yankees&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20york%20yankees%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new york</b> yankees</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new york yankees\" aria-label=\"Replace search term with new york yankees, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "new york mets",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+york+mets&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20york%20mets%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new york</b> mets</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new york mets\" aria-label=\"Replace search term with new york mets, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "new york mets shirt",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+york+mets+shirt&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20york%20mets%20shirt%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new york</b> mets shirt</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new york mets shirt\" aria-label=\"Replace search term with new york mets shirt, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "mlb new york yankees",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=mlb+new+york+yankees&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cmlb%20new%20york%20yankees%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">mlb <b>new york</b> yankees</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"mlb new york yankees\" aria-label=\"Replace search term with mlb new york yankees, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "maybelline new york mascara",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=maybelline+new+york+mascara&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cmaybelline%20new%20york%20mascara%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">maybelline <b>new york</b> mascara</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"maybelline new york mascara\" aria-label=\"Replace search term with maybelline new york mascara, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "new york yankees shirt kids",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+york+yankees+shirt+kids&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20york%20yankees%20shirt%20kids%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new york</b> yankees shirt kids</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new york yankees shirt kids\" aria-label=\"Replace search term with new york yankees shirt kids, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "new york strip steak",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+york+strip+steak&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20york%20strip%20steak%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new york</b> strip steak</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new york strip steak\" aria-label=\"Replace search term with new york strip steak, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "new york yankee hat",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+york+yankee+hat&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20york%20yankee%20hat%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20york\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new york</b> yankee hat</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new york yankee hat\" aria-label=\"Replace search term with new york yankee hat, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "helsinki",
+    "results": [
+      {
+        "index": 0,
+        "text": "womens hels",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+hels&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20hels%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=helsinki\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens hels</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens hels\" aria-label=\"Replace search term with womens hels, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "bali",
+    "results": [
+      {
+        "index": 0,
+        "text": "bali bras",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=bali+bras&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbali%20bras%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>bali</b> bras</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"bali bras\" aria-label=\"Replace search term with bali bras, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "womens bali bras",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+bali+bras&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20bali%20bras%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens <b>bali</b> bras</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens bali bras\" aria-label=\"Replace search term with womens bali bras, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "womens bali bras wireless",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+bali+bras+wireless&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20bali%20bras%20wireless%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens <b>bali</b> bras wireless</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens bali bras wireless\" aria-label=\"Replace search term with womens bali bras wireless, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "bali",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=bali&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbali%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>bali</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"bali\" aria-label=\"Replace search term with bali, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "bali classic support bra",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=bali+classic+support+bra&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbali%20classic%20support%20bra%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>bali</b> classic support bra</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"bali classic support bra\" aria-label=\"Replace search term with bali classic support bra, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "bali underwire bras",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=bali+underwire+bras&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbali%20underwire%20bras%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>bali</b> underwire bras</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"bali underwire bras\" aria-label=\"Replace search term with bali underwire bras, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "bali bras 2 pack",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=bali+bras+2+pack&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbali%20bras%202%20pack%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>bali</b> bras 2 pack</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"bali bras 2 pack\" aria-label=\"Replace search term with bali bras 2 pack, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "beauty by bali bra",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=beauty+by+bali+bra&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbeauty%20by%20bali%20bra%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">beauty by <b>bali</b> bra</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"beauty by bali bra\" aria-label=\"Replace search term with beauty by bali bra, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "bali sunrise",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=bali+sunrise&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbali%20sunrise%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>bali</b> sunrise</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"bali sunrise\" aria-label=\"Replace search term with bali sunrise, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "bali cotton bra",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=bali+cotton+bra&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cbali%20cotton%20bra%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=bali\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>bali</b> cotton bra</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"bali cotton bra\" aria-label=\"Replace search term with bali cotton bra, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "new orleans",
+    "results": [
+      {
+        "index": 0,
+        "text": "new orleans saints",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=new+orleans+saints&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cnew%20orleans%20saints%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>new orleans</b> saints</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"new orleans saints\" aria-label=\"Replace search term with new orleans saints, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "ncis new orleans complete series",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=ncis+new+orleans+complete+series&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cncis%20new%20orleans%20complete%20series%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">ncis <b>new orleans</b> complete series</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"ncis new orleans complete series\" aria-label=\"Replace search term with ncis new orleans complete series, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "a news day womens pants",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=a+news+day+womens+pants&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ca%20news%20day%20womens%20pants%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">a news day womens pants</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"a news day womens pants\" aria-label=\"Replace search term with a news day womens pants, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "a news day dress",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=a+news+day+dress&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ca%20news%20day%20dress%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">a news day dress</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"a news day dress\" aria-label=\"Replace search term with a news day dress, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "a news day tank top",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=a+news+day+tank+top&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ca%20news%20day%20tank%20top%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">a news day tank top</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"a news day tank top\" aria-label=\"Replace search term with a news day tank top, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "a news day tshirts",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=a+news+day+tshirts&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ca%20news%20day%20tshirts%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">a news day tshirts</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"a news day tshirts\" aria-label=\"Replace search term with a news day tshirts, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "a news day womens tops",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=a+news+day+womens+tops&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ca%20news%20day%20womens%20tops%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">a news day womens tops</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"a news day womens tops\" aria-label=\"Replace search term with a news day womens tops, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "a news day womens dress",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=a+news+day+womens+dress&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ca%20news%20day%20womens%20dress%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">a news day womens dress</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"a news day womens dress\" aria-label=\"Replace search term with a news day womens dress, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "a news day sandals",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=a+news+day+sandals&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ca%20news%20day%20sandals%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">a news day sandals</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"a news day sandals\" aria-label=\"Replace search term with a news day sandals, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "a news day womens shorts",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=a+news+day+womens+shorts&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ca%20news%20day%20womens%20shorts%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=new%20orleans\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">a news day womens shorts</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"a news day womens shorts\" aria-label=\"Replace search term with a news day womens shorts, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "marrakesh",
+    "results": [
+      {
+        "index": 0,
+        "text": "marrakesh wallpaper",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=marrakesh+wallpaper&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cmarrakesh%20wallpaper%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=marrakesh\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>marrakesh</b> wallpaper</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"marrakesh wallpaper\" aria-label=\"Replace search term with marrakesh wallpaper, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "marrakesh rug",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=marrakesh+rug&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cmarrakesh%20rug%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=marrakesh\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>marrakesh</b> rug</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"marrakesh rug\" aria-label=\"Replace search term with marrakesh rug, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "intel",
+    "results": [
+      {
+        "index": 0,
+        "text": "the intelligent investor",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=the+intelligent+investor&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cthe%20intelligent%20investor%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">the <b>intel</b>ligent investor</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"the intelligent investor\" aria-label=\"Replace search term with the intelligent investor, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "intelligentsia coffee",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=intelligentsia+coffee&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cintelligentsia%20coffee%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>intel</b>ligentsia coffee</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"intelligentsia coffee\" aria-label=\"Replace search term with intelligentsia coffee, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "intelligencia coffee",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=intelligencia+coffee&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cintelligencia%20coffee%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>intel</b>ligencia coffee</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"intelligencia coffee\" aria-label=\"Replace search term with intelligencia coffee, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "intelligentsia",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=intelligentsia&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cintelligentsia%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>intel</b>ligentsia</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"intelligentsia\" aria-label=\"Replace search term with intelligentsia, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "whole bean coffee intelligentsia",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=whole+bean+coffee+intelligentsia&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwhole%20bean%20coffee%20intelligentsia%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">whole bean coffee <b>intel</b>ligentsia</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"whole bean coffee intelligentsia\" aria-label=\"Replace search term with whole bean coffee intelligentsia, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "intel swimming pool",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=intel+swimming+pool&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cintel%20swimming%20pool%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>intel</b> swimming pool</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"intel swimming pool\" aria-label=\"Replace search term with intel swimming pool, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "intel processor",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=intel+processor&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cintel%20processor%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>intel</b> processor</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"intel processor\" aria-label=\"Replace search term with intel processor, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "intelex warmies",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=intelex+warmies&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cintelex%20warmies%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>intel</b>ex warmies</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"intelex warmies\" aria-label=\"Replace search term with intelex warmies, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "intelligent design",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=intelligent+design&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cintelligent%20design%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>intel</b>ligent design</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"intelligent design\" aria-label=\"Replace search term with intelligent design, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "intel slide",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=intel+slide&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cintel%20slide%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=intel\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>intel</b> slide</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"intel slide\" aria-label=\"Replace search term with intel slide, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "coinbase",
+    "results": [
+      {
+        "index": 0,
+        "text": "apex coins",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=apex+coins&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Capex%20coins%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">apex coins</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"apex coins\" aria-label=\"Replace search term with apex coins, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "womens coin purse",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=womens+coin+purse&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cwomens%20coin%20purse%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">womens coin purse</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"womens coin purse\" aria-label=\"Replace search term with womens coin purse, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "apex coins xbox",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=apex+coins+xbox&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Capex%20coins%20xbox%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">apex coins xbox</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"apex coins xbox\" aria-label=\"Replace search term with apex coins xbox, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "small coin purse",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=small+coin+purse&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Csmall%20coin%20purse%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">small coin purse</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"small coin purse\" aria-label=\"Replace search term with small coin purse, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "apex coins ps4",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=apex+coins+ps4&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Capex%20coins%20ps4%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">apex coins ps4</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"apex coins ps4\" aria-label=\"Replace search term with apex coins ps4, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "cointreau",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=cointreau&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ccointreau%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">cointreau</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"cointreau\" aria-label=\"Replace search term with cointreau, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "minecraft coins",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=minecraft+coins&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cminecraft%20coins%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">minecraft coins</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"minecraft coins\" aria-label=\"Replace search term with minecraft coins, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "stranger things coin purse",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=stranger+things+coin+purse&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cstranger%20things%20coin%20purse%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">stranger things coin purse</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"stranger things coin purse\" aria-label=\"Replace search term with stranger things coin purse, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "apex legends coins",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=apex+legends+coins&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Capex%20legends%20coins%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">apex legends coins</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"apex legends coins\" aria-label=\"Replace search term with apex legends coins, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "keychain coin purse",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=keychain+coin+purse&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ckeychain%20coin%20purse%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=coinbase\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">keychain coin purse</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"keychain coin purse\" aria-label=\"Replace search term with keychain coin purse, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "amazon",
+    "results": [
+      {
+        "index": 0,
+        "text": "amazon firestick",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=amazon+firestick&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Camazon%20firestick%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>amazon</b> firestick</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"amazon firestick\" aria-label=\"Replace search term with amazon firestick, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "digital amazon gift card",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=digital+amazon+gift+card&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cdigital%20amazon%20gift%20card%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">digital <b>amazon</b> gift card</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"digital amazon gift card\" aria-label=\"Replace search term with digital amazon gift card, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "amazon fire tablet 10",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=amazon+fire+tablet+10&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Camazon%20fire%20tablet%2010%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>amazon</b> fire tablet 10</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"amazon fire tablet 10\" aria-label=\"Replace search term with amazon fire tablet 10, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "amazon fire tv stick",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=amazon+fire+tv+stick&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Camazon%20fire%20tv%20stick%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>amazon</b> fire tv stick</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"amazon fire tv stick\" aria-label=\"Replace search term with amazon fire tv stick, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "amazon fire tablet",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=amazon+fire+tablet&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Camazon%20fire%20tablet%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>amazon</b> fire tablet</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"amazon fire tablet\" aria-label=\"Replace search term with amazon fire tablet, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "amazon firestick 4k max",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=amazon+firestick+4k+max&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Camazon%20firestick%204k%20max%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>amazon</b> firestick 4k max</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"amazon firestick 4k max\" aria-label=\"Replace search term with amazon firestick 4k max, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "gift card amazon",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=gift+card+amazon&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgift%20card%20amazon%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">gift card <b>amazon</b></span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"gift card amazon\" aria-label=\"Replace search term with gift card amazon, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "amazon firestick 4k",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=amazon+firestick+4k&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Camazon%20firestick%204k%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>amazon</b> firestick 4k</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"amazon firestick 4k\" aria-label=\"Replace search term with amazon firestick 4k, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "amazon fire kids tablet",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=amazon+fire+kids+tablet&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Camazon%20fire%20kids%20tablet%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>amazon</b> fire kids tablet</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"amazon fire kids tablet\" aria-label=\"Replace search term with amazon fire kids tablet, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "amazon echo",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=amazon+echo&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Camazon%20echo%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=amazon\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>amazon</b> echo</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"amazon echo\" aria-label=\"Replace search term with amazon echo, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "google",
+    "results": [
+      {
+        "index": 0,
+        "text": "google play gift card",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+play+gift+card&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20play%20gift%20card%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> play gift card</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google play gift card\" aria-label=\"Replace search term with google play gift card, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "google nest",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+nest&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20nest%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> nest</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google nest\" aria-label=\"Replace search term with google nest, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 2,
+        "text": "google play gift card email delivery",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+play+gift+card+email+delivery&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20play%20gift%20card%20email%20delivery%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> play gift card email delivery</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google play gift card email delivery\" aria-label=\"Replace search term with google play gift card email delivery, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 3,
+        "text": "google chromecast with google tv",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+chromecast+with+google+tv&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20chromecast%20with%20google%20tv%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> chromecast with <b>google</b> tv</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google chromecast with google tv\" aria-label=\"Replace search term with google chromecast with google tv, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 4,
+        "text": "google nest thermostat",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+nest+thermostat&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20nest%20thermostat%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> nest thermostat</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google nest thermostat\" aria-label=\"Replace search term with google nest thermostat, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 5,
+        "text": "google pixel 6",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+pixel+6&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20pixel%206%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> pixel 6</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google pixel 6\" aria-label=\"Replace search term with google pixel 6, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 6,
+        "text": "google tv",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+tv&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20tv%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> tv</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google tv\" aria-label=\"Replace search term with google tv, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 7,
+        "text": "google play card",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+play+card&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20play%20card%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> play card</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google play card\" aria-label=\"Replace search term with google play card, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 8,
+        "text": "google play",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+play&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20play%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> play</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google play\" aria-label=\"Replace search term with google play, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 9,
+        "text": "google nest hub",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=google+nest+hub&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Cgoogle%20nest%20hub%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=google\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\"><b>google</b> nest hub</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"google nest hub\" aria-label=\"Replace search term with google nest hub, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  },
+  {
+    "query": "twitter",
+    "results": [
+      {
+        "index": 0,
+        "text": "twitch gift card",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=twitch+gift+card&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctwitch%20gift%20card%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=twitter\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">twitch gift card</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"twitch gift card\" aria-label=\"Replace search term with twitch gift card, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      },
+      {
+        "index": 1,
+        "text": "twitch",
+        "html": "<div class=\"styles__SearchTypeaheadItemLinkWrapper-sc-19c0564-2 doMSQL\"><a href=\"/s?searchTerm=twitch&amp;category=0|All|matchallpartial|all%20categories&amp;tref=typeahead%7Cterm%7Cundefined%7Ctwitch%7C%7C%7C%7Cservice%7C%7C%7C%7C&amp;searchTermRaw=twitter\" class=\"Link__StyledLink-sc-4b9qcv-0 styles__SearchTypeaheadItemLink-sc-19c0564-1 gCNFxQ hewBNb SearchTypeaheadItemLink\" data-test=\"@web/Search/SearchTypeahead/SearchTypeaheadHistoryLink\"><span class=\"TypeaheadItemText\">twitch</span></a><button data-test=\"@web/Search/SearchTypeahead/styles/SearchTypeaheadReplaceSearchTermButton\" value=\"twitch\" aria-label=\"Replace search term with twitch, updates search results\" class=\"styles__SearchTypeaheadReplaceSearchTermButton-sc-19c0564-5 jWdgUE\"></button></div>",
+        "height": 48
+      }
+    ]
+  }
+]

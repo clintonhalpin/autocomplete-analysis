@@ -1,0 +1,527 @@
+[
+  {
+    "query": "iphone",
+    "results": [
+      {
+        "index": 0,
+        "text": "iphone 14",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>iphone</strong> 14</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "iphone 13",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>iphone</strong> 13</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "iphone",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>iphone</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "iphone 11",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>iphone</strong> 11</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "iphone 12",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>iphone</strong> 12</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "Laptop",
+    "results": [
+      {
+        "index": 0,
+        "text": "laptops",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong></strong>laptops</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "laptop computers",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong></strong>laptop computers</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "laptop stand",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong></strong>laptop stand</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "laptop deals",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong></strong>laptop deals</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "laptop wallpaper",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong></strong>laptop wallpaper</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "socks",
+    "results": [
+      {
+        "index": 0,
+        "text": "socks",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>socks</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "socksfor1",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>socks</strong>for1</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "socks5",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>socks</strong>5</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "sockshare",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>socks</strong>hare</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "socksfor2",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>socks</strong>for2</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "shoes",
+    "results": [
+      {
+        "index": 0,
+        "text": "shoes",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shoes</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "shoes for crews",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shoes</strong> for crews</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "shoes for women",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shoes</strong> for women</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "shoes for men",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shoes</strong> for men</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "shoes online",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shoes</strong> online</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "shirt",
+    "results": [
+      {
+        "index": 0,
+        "text": "shirts",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shirt</strong>s</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "shirtspace",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shirt</strong>space</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "shirt design",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shirt</strong> design</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "shirtmax",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shirt</strong>max</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "shirt dress",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>shirt</strong> dress</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "new york",
+    "results": [
+      {
+        "index": 0,
+        "text": "new york",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new york</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "new york post",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new york</strong> post</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "new york times",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new york</strong> times</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "new york rangers",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new york</strong> rangers</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "new york yankees baseball",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new york</strong> yankees baseball</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "helsinki",
+    "results": [
+      {
+        "index": 0,
+        "text": "helsinki",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>helsinki</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "helsinki finland",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>helsinki</strong> finland</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "helsinki weather",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>helsinki</strong> weather</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "helsinki accords",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>helsinki</strong> accords</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "helsinki commission",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>helsinki</strong> commission</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "bali",
+    "results": [
+      {
+        "index": 0,
+        "text": "bali",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>bali</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "bali bras",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>bali</strong> bras</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "bali indonesia",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>bali</strong> indonesia</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "bali blinds",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>bali</strong> blinds</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "balisong",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>bali</strong>song</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "new orleans",
+    "results": [
+      {
+        "index": 0,
+        "text": "new orleans",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new orleans</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "new orleans pelicans",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new orleans</strong> pelicans</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "new orleans saints",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new orleans</strong> saints</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "new orleans weather",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new orleans</strong> weather</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "new orleans tornado",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>new orleans</strong> tornado</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "marrakesh",
+    "results": [
+      {
+        "index": 0,
+        "text": "marrakesh",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>marrakesh</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "marrakesh express",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>marrakesh</strong> express</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "marrakesh oil",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>marrakesh</strong> oil</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "marrakesh restaurant",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>marrakesh</strong> restaurant</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "marrakesh country club",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>marrakesh</strong> country club</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "intel",
+    "results": [
+      {
+        "index": 0,
+        "text": "intel",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>intel</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "intellij",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>intel</strong>lij</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "intellicast",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>intel</strong>licast</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "intel stock",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>intel</strong> stock</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "intelink",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>intel</strong>ink</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "coinbase",
+    "results": [
+      {
+        "index": 0,
+        "text": "coinbase",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>coinbase</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "coinbase login",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>coinbase</strong> login</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "coinbase pro",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>coinbase</strong> pro</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "coinbase support number",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>coinbase</strong> support number</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "coinbase stock",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>coinbase</strong> stock</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "amazon",
+    "results": [
+      {
+        "index": 0,
+        "text": "amazon",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>amazon</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "amazon prime",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>amazon</strong> prime</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "amazon chime",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>amazon</strong> chime</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "amazon a-to-z",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>amazon</strong> a-to-z</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "amazon my account",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>amazon</strong> my account</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "google",
+    "results": [
+      {
+        "index": 0,
+        "text": "google",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>google</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "google maps",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>google</strong> maps</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "google docs",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>google</strong> docs</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "google chrome",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>google</strong> chrome</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "google translate",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>google</strong> translate</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  },
+  {
+    "query": "twitter",
+    "results": [
+      {
+        "index": 0,
+        "text": "twitter",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>twitter</strong></span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 1,
+        "text": "twitter login",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>twitter</strong> login</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 2,
+        "text": "twitter search",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>twitter</strong> search</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 3,
+        "text": "twitter stock",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>twitter</strong> stock</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      },
+      {
+        "index": 4,
+        "text": "twitter trending",
+        "html": "<div class=\"search-bar_suggestion__IF1ux\"><img src=\"/massets/magnifying_glass.svg\" width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_queryIcon__yTX6A\"><span><strong>twitter</strong> trending</span><img width=\"16\" height=\"16\" alt=\"search icon\" class=\"search-bar_fillQuery__ntuYD\" src=\"/massets/arrow-up-left-light.svg\"></div>",
+        "height": 40
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "autocomplete-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
