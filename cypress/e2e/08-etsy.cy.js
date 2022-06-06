@@ -9,7 +9,6 @@ describe("Etsy Autocomplete Data Collection", () => {
     const output = [];
 
     searches.map((query) => {
-      cy.wait(2000);
       cy.get("#global-enhancements-search-query").type(query);
       cy.contains(query.toLowerCase()).should("exist");
       const elements = cy.get(`#global-enhancements-search-suggestions li`);
@@ -25,12 +24,12 @@ describe("Etsy Autocomplete Data Collection", () => {
           });
         })
         .then(() => {
-          results.pop();
+          console.log(query, results);
           output.push({
             query,
             results,
           });
-          cy.reload();
+          cy.get("#global-enhancements-search-query").clear();
         });
     });
     cy.writeFile("cypress/fixtures/etsy-output.json", output, "utf-8");
