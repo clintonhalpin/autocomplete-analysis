@@ -9,7 +9,8 @@ describe("Google Autocomplete Data Collection", () => {
     const output = [];
 
     searches.map((query) => {
-      cy.search(query, "google");
+      cy.get("[name=q]").type(query);
+      cy.contains(query.toLowerCase()).should("exist");
       const elements = cy.get(`form[role="search"] li`);
       const results = [];
 
@@ -32,7 +33,7 @@ describe("Google Autocomplete Data Collection", () => {
             query,
             results,
           });
-          cy.get("[name=q]").clear();
+          cy.reload();
         });
     });
     cy.writeFile("cypress/fixtures/google-output.json", output, "utf-8");

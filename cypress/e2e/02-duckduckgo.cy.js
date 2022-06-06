@@ -10,6 +10,7 @@ describe("DuckDuckGo Autocomplete Data Collection", () => {
 
     searches.map((query) => {
       cy.get("#search_form_input_homepage").type(query);
+      cy.contains(query.toLowerCase()).should("exist");
       const elements = cy.get(`.search__autocomplete div div`);
       const results = [];
 
@@ -28,7 +29,8 @@ describe("DuckDuckGo Autocomplete Data Collection", () => {
             query,
             results,
           });
-          cy.get("#search_form_input_homepage").clear();
+          // cy.get("#search_form_input_homepage").clear();
+          cy.reload();
         });
     });
     cy.writeFile("cypress/fixtures/duckduckgo-output.json", output, "utf-8");

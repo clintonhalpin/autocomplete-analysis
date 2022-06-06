@@ -1,16 +1,18 @@
 import searches from "./../fixtures/searches.json";
 
-describe("Walmart Autocomplete Data Collection", () => {
+describe("Amazon Autocomplete Data Collection", () => {
   beforeEach(() => {
-    cy.visit("https://target.com/");
+    cy.visit("https://amazon.com/");
   });
 
   it("fetch autocomplete results", () => {
     const output = [];
 
     searches.map((query) => {
-      cy.get("input[type=search]").type(query);
-      const elements = cy.get(`#typeahead li`);
+      cy.wait(1000);
+      cy.get("#twotabsearchtextbox").type(query);
+      cy.contains(query.toLowerCase()).should("exist");
+      const elements = cy.get(`.autocomplete-results-container .s-suggestion`);
       const results = [];
 
       elements
@@ -28,9 +30,9 @@ describe("Walmart Autocomplete Data Collection", () => {
             query,
             results,
           });
-          cy.get("input[type=search]").clear();
+          cy.get("#twotabsearchtextbox").clear();
         });
     });
-    cy.writeFile("cypress/fixtures/target-output.json", output, "utf-8");
+    cy.writeFile("cypress/fixtures/amazon-output.json", output, "utf-8");
   });
 });

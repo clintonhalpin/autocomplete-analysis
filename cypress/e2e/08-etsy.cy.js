@@ -1,16 +1,18 @@
 import searches from "./../fixtures/searches.json";
 
-describe("Amazon Autocomplete Data Collection", () => {
+describe("Etsy Autocomplete Data Collection", () => {
   beforeEach(() => {
-    cy.visit("https://amazon.com/");
+    cy.visit("https://etsy.com/");
   });
 
   it("fetch autocomplete results", () => {
     const output = [];
 
     searches.map((query) => {
-      cy.get("#twotabsearchtextbox").type(query);
-      const elements = cy.get(`.autocomplete-results-container div`);
+      cy.wait(2000);
+      cy.get("#global-enhancements-search-query").type(query);
+      cy.contains(query.toLowerCase()).should("exist");
+      const elements = cy.get(`#global-enhancements-search-suggestions li`);
       const results = [];
 
       elements
@@ -23,14 +25,14 @@ describe("Amazon Autocomplete Data Collection", () => {
           });
         })
         .then(() => {
-          console.log(query, results);
+          results.pop();
           output.push({
             query,
             results,
           });
-          cy.get("#twotabsearchtextbox").clear();
+          cy.reload();
         });
     });
-    cy.writeFile("cypress/fixtures/amazon-output.json", output, "utf-8");
+    cy.writeFile("cypress/fixtures/etsy-output.json", output, "utf-8");
   });
 });

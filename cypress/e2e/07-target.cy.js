@@ -1,8 +1,8 @@
 import searches from "./../fixtures/searches.json";
 
-describe("Ebay Autocomplete Data Collection", () => {
+describe("Walmart Autocomplete Data Collection", () => {
   beforeEach(() => {
-    cy.visit("https://ebay.com/");
+    cy.visit("https://target.com/");
   });
 
   it("fetch autocomplete results", () => {
@@ -10,9 +10,8 @@ describe("Ebay Autocomplete Data Collection", () => {
 
     searches.map((query) => {
       cy.wait(1000);
-      cy.get("#gh-ac").type(query);
-      cy.contains(query.toLowerCase()).should("exist");
-      const elements = cy.get(`#ui-id-1 li`);
+      cy.get("input[type=search]").type(query);
+      const elements = cy.get(`#typeahead li`);
       const results = [];
 
       elements
@@ -33,6 +32,6 @@ describe("Ebay Autocomplete Data Collection", () => {
           cy.reload();
         });
     });
-    cy.writeFile("cypress/fixtures/ebay-output.json", output, "utf-8");
+    cy.writeFile("cypress/fixtures/target-output.json", output, "utf-8");
   });
 });

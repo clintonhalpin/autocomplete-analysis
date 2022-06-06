@@ -1,11 +1,541 @@
 [
   {
-    "query": "iPhone",
+    "query": "youtube",
+    "results": [
+      {
+        "index": 0,
+        "text": "youtube",
+        "html": "<span class=\"t-normal\">youtube</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "yahoo",
+        "html": "yahoo",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "yahoo mail",
+        "html": "yahoo mail",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "youtube website",
+        "html": "<span class=\"t-normal\">youtube</span> website",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "yt",
+        "html": "yt",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "yahoo finance",
+        "html": "yahoo finance",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "yankees game",
+        "html": "yankees game",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "youtube tv",
+        "html": "<span class=\"t-normal\">youtube</span> tv",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "facebook",
+    "results": [
+      {
+        "index": 0,
+        "text": "facebook",
+        "html": "<span class=\"t-normal\">facebook</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "fox news",
+        "html": "fox news",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "florida lottery",
+        "html": "florida lottery",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "french open 2022",
+        "html": "french open 2022",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "flvs login",
+        "html": "flvs login",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "fidelity login",
+        "html": "fidelity login",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "fedex",
+        "html": "fedex",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "fathers day 2022",
+        "html": "fathers day 2022",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "whatsapp web",
+    "results": [
+      {
+        "index": 0,
+        "text": "wordle",
+        "html": "wordle",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "walmart",
+        "html": "walmart",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "weather",
+        "html": "weather",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "washington post",
+        "html": "washington post",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "wells fargo login",
+        "html": "wells fargo login",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "whatsapp web",
+        "html": "<span class=\"t-normal\">whatsapp web</span>",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "www.google.com",
+        "html": "www.google.com",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "wordle nytimes",
+        "html": "wordle nytimes",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "google",
+    "results": [
+      {
+        "index": 0,
+        "text": "google",
+        "html": "<span class=\"t-normal\">google</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "google classroom",
+        "html": "<span class=\"t-normal\">google</span> classroom",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "google maps",
+        "html": "<span class=\"t-normal\">google</span> maps",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "google docs",
+        "html": "<span class=\"t-normal\">google</span> docs",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "google chrome",
+        "html": "<span class=\"t-normal\">google</span> chrome",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "google translate",
+        "html": "<span class=\"t-normal\">google</span> translate",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "google drive",
+        "html": "<span class=\"t-normal\">google</span> drive",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "google earth",
+        "html": "<span class=\"t-normal\">google</span> earth",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "gmail",
+    "results": [
+      {
+        "index": 0,
+        "text": "google",
+        "html": "google",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "gmail",
+        "html": "<span class=\"t-normal\">gmail</span>",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "google maps",
+        "html": "google maps",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "google docs",
+        "html": "google docs",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "gmail login mail",
+        "html": "<span class=\"t-normal\">gmail</span> login mail",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "google chrome",
+        "html": "google chrome",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "grammarly",
+        "html": "grammarly",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "games",
+        "html": "games",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "amazon",
+    "results": [
+      {
+        "index": 0,
+        "text": "amazon",
+        "html": "<span class=\"t-normal\">amazon</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "aol mail",
+        "html": "aol mail",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "airbnb",
+        "html": "airbnb",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "adp login",
+        "html": "adp login",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "amber heard",
+        "html": "amber heard",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "alec john such",
+        "html": "alec john such",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "american airlines",
+        "html": "american airlines",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "academy sports",
+        "html": "academy sports",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "translate",
+    "results": [
+      {
+        "index": 0,
+        "text": "twitch",
+        "html": "twitch",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "twitter",
+        "html": "twitter",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "target",
+        "html": "target",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "translate",
+        "html": "<span class=\"t-normal\">translate</span>",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "teams",
+        "html": "teams",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "tiktok",
+        "html": "tiktok",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "turbotax",
+        "html": "turbotax",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "top gun maverick",
+        "html": "top gun maverick",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "google translate",
+    "results": [
+      {
+        "index": 0,
+        "text": "google translate",
+        "html": "<span class=\"t-normal\">google translate</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "google translate english to spanish",
+        "html": "<span class=\"t-normal\">google translate</span> english to spanish",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "google translate audio",
+        "html": "<span class=\"t-normal\">google translate</span> audio",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "google translate latin",
+        "html": "<span class=\"t-normal\">google translate</span> latin",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "google translate listen",
+        "html": "<span class=\"t-normal\">google translate</span> listen",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "google translate download free",
+        "html": "<span class=\"t-normal\">google translate</span> download free",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "google translate english to french",
+        "html": "<span class=\"t-normal\">google translate</span> english to french",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "google translate english to hindi",
+        "html": "<span class=\"t-normal\">google translate</span> english to hindi",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "traductor",
+    "results": [
+      {
+        "index": 0,
+        "text": "traductor",
+        "html": "<span class=\"t-normal\">traductor</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "traductor google",
+        "html": "<span class=\"t-normal\">traductor</span> google",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "traductor ingles espanol",
+        "html": "<span class=\"t-normal\">traductor</span> ingles espanol",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "traductor de google",
+        "html": "<span class=\"t-normal\">traductor</span> de google",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "traductor espanol a ingles",
+        "html": "<span class=\"t-normal\">traductor</span> espanol a ingles",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "traductor deepl",
+        "html": "<span class=\"t-normal\">traductor</span> deepl",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "traductor translate",
+        "html": "<span class=\"t-normal\">traductor</span> translate",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "traductor ingles espanol traductor",
+        "html": "<span class=\"t-normal\">traductor</span> ingles espanol traductor",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "hotmail",
+    "results": [
+      {
+        "index": 0,
+        "text": "home depot",
+        "html": "home depot",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "hotmail",
+        "html": "<span class=\"t-normal\">hotmail</span>",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "hulu",
+        "html": "hulu",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "hbo max",
+        "html": "hbo max",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "hbomax sign in",
+        "html": "hbomax sign in",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "hsn",
+        "html": "hsn",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "hell in a cell 2022",
+        "html": "hell in a cell 2022",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "harbor freight",
+        "html": "harbor freight",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "instagram",
     "results": [
       {
         "index": 0,
         "text": "instagram",
-        "html": "instagram",
+        "html": "<span class=\"t-normal\">instagram</span>",
         "height": 28
       },
       {
@@ -16,8 +546,8 @@
       },
       {
         "index": 2,
-        "text": "iga swiatek",
-        "html": "iga swiatek",
+        "text": "intranet",
+        "html": "intranet",
         "height": 28
       },
       {
@@ -40,703 +570,173 @@
       },
       {
         "index": 6,
+        "text": "iheartradio",
+        "html": "iheartradio",
+        "height": 28
+      },
+      {
+        "index": 7,
         "text": "icloud",
         "html": "icloud",
         "height": 28
+      }
+    ]
+  },
+  {
+    "query": "weather",
+    "results": [
+      {
+        "index": 0,
+        "text": "wordle",
+        "html": "wordle",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "walmart",
+        "html": "walmart",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "weather",
+        "html": "<span class=\"t-normal\">weather</span>",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "wells fargo login",
+        "html": "wells fargo login",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "wordle game",
+        "html": "wordle game",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "wordle nytimes",
+        "html": "wordle nytimes",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "www.google.com",
+        "html": "www.google.com",
+        "height": 28
       },
       {
         "index": 7,
-        "text": "imdb",
-        "html": "imdb",
+        "text": "wikipedia",
+        "html": "wikipedia",
         "height": 28
       }
     ]
   },
   {
-    "query": "Laptop",
+    "query": "netflix",
     "results": [
       {
         "index": 0,
-        "text": "iphone 14",
-        "html": "iphone 14",
+        "text": "netflix",
+        "html": "<span class=\"t-normal\">netflix</span>",
         "height": 28
       },
       {
         "index": 1,
-        "text": "iphone 13",
-        "html": "iphone 13",
+        "text": "nba finals 2022",
+        "html": "nba finals 2022",
         "height": 28
       },
       {
         "index": 2,
-        "text": "iphone",
-        "html": "iphone",
+        "text": "news",
+        "html": "news",
         "height": 28
       },
       {
         "index": 3,
-        "text": "iphone 11",
-        "html": "iphone 11",
+        "text": "nba scores",
+        "html": "nba scores",
         "height": 28
       },
       {
         "index": 4,
-        "text": "iphone 12",
-        "html": "iphone 12",
+        "text": "navinet",
+        "html": "navinet",
         "height": 28
       },
       {
         "index": 5,
-        "text": "iphone xr",
-        "html": "iphone xr",
+        "text": "nfl",
+        "html": "nfl",
         "height": 28
       },
       {
         "index": 6,
-        "text": "iphone 12 pro",
-        "html": "iphone 12 pro",
+        "text": "nordstrom",
+        "html": "nordstrom",
         "height": 28
       },
       {
         "index": 7,
-        "text": "iphone 13 pro max",
-        "html": "iphone 13 pro max",
+        "text": "ncaa baseball tournament 2022",
+        "html": "ncaa baseball tournament 2022",
         "height": 28
       }
     ]
   },
   {
-    "query": "socks",
+    "query": "yahoo",
     "results": [
       {
         "index": 0,
-        "text": "iphone 14",
-        "html": "iphone 14",
-        "height": 0
-      },
-      {
-        "index": 1,
-        "text": "iphone 13",
-        "html": "iphone 13",
-        "height": 0
-      },
-      {
-        "index": 2,
-        "text": "iphone",
-        "html": "iphone",
-        "height": 0
-      },
-      {
-        "index": 3,
-        "text": "iphone 11",
-        "html": "iphone 11",
-        "height": 0
-      },
-      {
-        "index": 4,
-        "text": "iphone 12",
-        "html": "iphone 12",
-        "height": 0
-      },
-      {
-        "index": 5,
-        "text": "iphone xr",
-        "html": "iphone xr",
-        "height": 0
-      },
-      {
-        "index": 6,
-        "text": "iphone 12 pro",
-        "html": "iphone 12 pro",
-        "height": 0
-      },
-      {
-        "index": 7,
-        "text": "iphone 13 pro max",
-        "html": "iphone 13 pro max",
-        "height": 0
-      }
-    ]
-  },
-  {
-    "query": "shoes",
-    "results": [
-      {
-        "index": 0,
-        "text": "spotify",
-        "html": "spotify",
+        "text": "youtube",
+        "html": "youtube",
         "height": 28
       },
       {
         "index": 1,
-        "text": "sudoku",
-        "html": "sudoku",
+        "text": "yahoo",
+        "html": "<span class=\"t-normal\">yahoo</span>",
         "height": 28
       },
       {
         "index": 2,
-        "text": "shein",
-        "html": "shein",
+        "text": "yahoo mail",
+        "html": "<span class=\"t-normal\">yahoo</span> mail",
         "height": 28
       },
       {
         "index": 3,
-        "text": "shoprite",
-        "html": "shoprite",
+        "text": "youtube website",
+        "html": "youtube website",
         "height": 28
       },
       {
         "index": 4,
-        "text": "steam",
-        "html": "steam",
+        "text": "yt",
+        "html": "yt",
         "height": 28
       },
       {
         "index": 5,
-        "text": "staples",
-        "html": "staples",
+        "text": "yahoo finance",
+        "html": "<span class=\"t-normal\">yahoo</span> finance",
         "height": 28
       },
       {
         "index": 6,
-        "text": "shakira",
-        "html": "shakira",
+        "text": "yankees game",
+        "html": "yankees game",
         "height": 28
       },
       {
         "index": 7,
-        "text": "speed test",
-        "html": "speed test",
-        "height": 28
-      }
-    ]
-  },
-  {
-    "query": "shirt",
-    "results": [
-      {
-        "index": 0,
-        "text": "spotify",
-        "html": "spotify",
-        "height": 28
-      },
-      {
-        "index": 1,
-        "text": "sudoku",
-        "html": "sudoku",
-        "height": 28
-      },
-      {
-        "index": 2,
-        "text": "shein",
-        "html": "shein",
-        "height": 28
-      },
-      {
-        "index": 3,
-        "text": "shoprite",
-        "html": "shoprite",
-        "height": 28
-      },
-      {
-        "index": 4,
-        "text": "steam",
-        "html": "steam",
-        "height": 28
-      },
-      {
-        "index": 5,
-        "text": "staples",
-        "html": "staples",
-        "height": 28
-      },
-      {
-        "index": 6,
-        "text": "shakira",
-        "html": "shakira",
-        "height": 28
-      },
-      {
-        "index": 7,
-        "text": "speed test",
-        "html": "speed test",
-        "height": 28
-      }
-    ]
-  },
-  {
-    "query": "new york",
-    "results": [
-      {
-        "index": 0,
-        "text": "shirtspace",
-        "html": "shirtspace",
-        "height": 28
-      },
-      {
-        "index": 1,
-        "text": "shirt",
-        "html": "shirt",
-        "height": 28
-      },
-      {
-        "index": 2,
-        "text": "shirt design",
-        "html": "shirt design",
-        "height": 28
-      },
-      {
-        "index": 3,
-        "text": "shirtmax",
-        "html": "shirtmax",
-        "height": 28
-      },
-      {
-        "index": 4,
-        "text": "shirt roblox template",
-        "html": "shirt roblox template",
-        "height": 28
-      },
-      {
-        "index": 5,
-        "text": "shirt maker",
-        "html": "shirt maker",
-        "height": 28
-      },
-      {
-        "index": 6,
-        "text": "shirts for men",
-        "html": "shirts for men",
-        "height": 28
-      },
-      {
-        "index": 7,
-        "text": "shirt dress",
-        "html": "shirt dress",
-        "height": 28
-      }
-    ]
-  },
-  {
-    "query": "helsinki",
-    "results": [
-      {
-        "index": 0,
-        "text": "shirtspace",
-        "html": "shirtspace",
-        "height": 0
-      },
-      {
-        "index": 1,
-        "text": "shirt",
-        "html": "shirt",
-        "height": 0
-      },
-      {
-        "index": 2,
-        "text": "shirt design",
-        "html": "shirt design",
-        "height": 0
-      },
-      {
-        "index": 3,
-        "text": "shirtmax",
-        "html": "shirtmax",
-        "height": 0
-      },
-      {
-        "index": 4,
-        "text": "shirt roblox template",
-        "html": "shirt roblox template",
-        "height": 0
-      },
-      {
-        "index": 5,
-        "text": "shirt maker",
-        "html": "shirt maker",
-        "height": 0
-      },
-      {
-        "index": 6,
-        "text": "shirts for men",
-        "html": "shirts for men",
-        "height": 0
-      },
-      {
-        "index": 7,
-        "text": "shirt dress",
-        "html": "shirt dress",
-        "height": 0
-      }
-    ]
-  },
-  {
-    "query": "bali",
-    "results": [
-      {
-        "index": 0,
-        "text": "helsinki",
-        "html": "<span class=\"t-normal\">helsinki</span>",
-        "height": 0
-      },
-      {
-        "index": 1,
-        "text": "helsinki finland",
-        "html": "<span class=\"t-normal\">helsinki</span> finland",
-        "height": 0
-      },
-      {
-        "index": 2,
-        "text": "helsinki weather",
-        "html": "<span class=\"t-normal\">helsinki</span> weather",
-        "height": 0
-      },
-      {
-        "index": 3,
-        "text": "helsinki accords",
-        "html": "<span class=\"t-normal\">helsinki</span> accords",
-        "height": 0
-      },
-      {
-        "index": 4,
-        "text": "helsinki airport",
-        "html": "<span class=\"t-normal\">helsinki</span> airport",
-        "height": 0
-      },
-      {
-        "index": 5,
-        "text": "helsinki time",
-        "html": "<span class=\"t-normal\">helsinki</span> time",
-        "height": 0
-      },
-      {
-        "index": 6,
-        "text": "helsinki declaration",
-        "html": "<span class=\"t-normal\">helsinki</span> declaration",
-        "height": 0
-      },
-      {
-        "index": 7,
-        "text": "helsinki syndrome",
-        "html": "<span class=\"t-normal\">helsinki</span> syndrome",
-        "height": 0
-      }
-    ]
-  },
-  {
-    "query": "new orleans",
-    "results": [
-      {
-        "index": 0,
-        "text": "bali",
-        "html": "bali",
-        "height": 28
-      },
-      {
-        "index": 1,
-        "text": "bali bras",
-        "html": "bali bras",
-        "height": 28
-      },
-      {
-        "index": 2,
-        "text": "bali indonesia",
-        "html": "bali indonesia",
-        "height": 28
-      },
-      {
-        "index": 3,
-        "text": "bali blinds",
-        "html": "bali blinds",
-        "height": 28
-      },
-      {
-        "index": 4,
-        "text": "balisong",
-        "html": "balisong",
-        "height": 28
-      },
-      {
-        "index": 5,
-        "text": "bali carte monde",
-        "html": "bali carte monde",
-        "height": 28
-      },
-      {
-        "index": 6,
-        "text": "balinese cat",
-        "html": "balinese cat",
-        "height": 28
-      },
-      {
-        "index": 7,
-        "text": "balise bivose",
-        "html": "balise bivose",
-        "height": 28
-      }
-    ]
-  },
-  {
-    "query": "marrakesh",
-    "results": [
-      {
-        "index": 0,
-        "text": "new orleans",
-        "html": "<span class=\"t-normal\">new orleans</span>",
-        "height": 0
-      },
-      {
-        "index": 1,
-        "text": "new orleans saints",
-        "html": "<span class=\"t-normal\">new orleans</span> saints",
-        "height": 0
-      },
-      {
-        "index": 2,
-        "text": "new orleans weather",
-        "html": "<span class=\"t-normal\">new orleans</span> weather",
-        "height": 0
-      },
-      {
-        "index": 3,
-        "text": "new orleans pelicans",
-        "html": "<span class=\"t-normal\">new orleans</span> pelicans",
-        "height": 0
-      },
-      {
-        "index": 4,
-        "text": "new orleans tornado",
-        "html": "<span class=\"t-normal\">new orleans</span> tornado",
-        "height": 0
-      },
-      {
-        "index": 5,
-        "text": "new orleans airport",
-        "html": "<span class=\"t-normal\">new orleans</span> airport",
-        "height": 0
-      },
-      {
-        "index": 6,
-        "text": "new orleans outbreak",
-        "html": "<span class=\"t-normal\">new orleans</span> outbreak",
-        "height": 0
-      },
-      {
-        "index": 7,
-        "text": "new orleans jazz festival 2022",
-        "html": "<span class=\"t-normal\">new orleans</span> jazz festival 2022",
-        "height": 0
-      }
-    ]
-  },
-  {
-    "query": "intel",
-    "results": [
-      {
-        "index": 0,
-        "text": "marrakesh",
-        "html": "marrakesh",
-        "height": 28
-      },
-      {
-        "index": 1,
-        "text": "marrakesh express",
-        "html": "marrakesh express",
-        "height": 28
-      },
-      {
-        "index": 2,
-        "text": "marrakesh oil",
-        "html": "marrakesh oil",
-        "height": 28
-      },
-      {
-        "index": 3,
-        "text": "marrakesh restaurant",
-        "html": "marrakesh restaurant",
-        "height": 28
-      },
-      {
-        "index": 4,
-        "text": "marrakesh express lyrics",
-        "html": "marrakesh express lyrics",
-        "height": 28
-      },
-      {
-        "index": 5,
-        "text": "marrakech morocco",
-        "html": "marrakech morocco",
-        "height": 28
-      },
-      {
-        "index": 6,
-        "text": "marrakesh express lyrics meaning",
-        "html": "marrakesh express lyrics meaning",
-        "height": 28
-      },
-      {
-        "index": 7,
-        "text": "marrakesh country club",
-        "html": "marrakesh country club",
-        "height": 28
-      }
-    ]
-  },
-  {
-    "query": "coinbase",
-    "results": [
-      {
-        "index": 0,
-        "text": "marrakesh",
-        "html": "marrakesh",
-        "height": 0
-      },
-      {
-        "index": 1,
-        "text": "marrakesh express",
-        "html": "marrakesh express",
-        "height": 0
-      },
-      {
-        "index": 2,
-        "text": "marrakesh oil",
-        "html": "marrakesh oil",
-        "height": 0
-      },
-      {
-        "index": 3,
-        "text": "marrakesh restaurant",
-        "html": "marrakesh restaurant",
-        "height": 0
-      },
-      {
-        "index": 4,
-        "text": "marrakesh express lyrics",
-        "html": "marrakesh express lyrics",
-        "height": 0
-      },
-      {
-        "index": 5,
-        "text": "marrakech morocco",
-        "html": "marrakech morocco",
-        "height": 0
-      },
-      {
-        "index": 6,
-        "text": "marrakesh express lyrics meaning",
-        "html": "marrakesh express lyrics meaning",
-        "height": 0
-      },
-      {
-        "index": 7,
-        "text": "marrakesh country club",
-        "html": "marrakesh country club",
-        "height": 0
-      }
-    ]
-  },
-  {
-    "query": "amazon",
-    "results": [
-      {
-        "index": 0,
-        "text": "coinbase",
-        "html": "coinbase",
-        "height": 28
-      },
-      {
-        "index": 1,
-        "text": "coinbase pro",
-        "html": "coinbase pro",
-        "height": 28
-      },
-      {
-        "index": 2,
-        "text": "coinbase login",
-        "html": "coinbase login",
-        "height": 28
-      },
-      {
-        "index": 3,
-        "text": "coinbase stock",
-        "html": "coinbase stock",
-        "height": 28
-      },
-      {
-        "index": 4,
-        "text": "coinbase wallet",
-        "html": "coinbase wallet",
-        "height": 28
-      },
-      {
-        "index": 5,
-        "text": "coinbase pro login",
-        "html": "coinbase pro login",
-        "height": 28
-      },
-      {
-        "index": 6,
-        "text": "coinbase customer care number",
-        "html": "coinbase customer care number",
-        "height": 28
-      },
-      {
-        "index": 7,
-        "text": "coinbase nft",
-        "html": "coinbase nft",
-        "height": 28
-      }
-    ]
-  },
-  {
-    "query": "google",
-    "results": [
-      {
-        "index": 0,
-        "text": "google",
-        "html": "<span class=\"t-normal\">google</span>",
-        "height": 28
-      },
-      {
-        "index": 1,
-        "text": "google maps",
-        "html": "<span class=\"t-normal\">google</span> maps",
-        "height": 28
-      },
-      {
-        "index": 2,
-        "text": "google docs",
-        "html": "<span class=\"t-normal\">google</span> docs",
-        "height": 28
-      },
-      {
-        "index": 3,
-        "text": "google classroom",
-        "html": "<span class=\"t-normal\">google</span> classroom",
-        "height": 28
-      },
-      {
-        "index": 4,
-        "text": "google chrome",
-        "html": "<span class=\"t-normal\">google</span> chrome",
-        "height": 28
-      },
-      {
-        "index": 5,
-        "text": "google translate",
-        "html": "<span class=\"t-normal\">google</span> translate",
-        "height": 28
-      },
-      {
-        "index": 6,
-        "text": "google drive",
-        "html": "<span class=\"t-normal\">google</span> drive",
-        "height": 28
-      },
-      {
-        "index": 7,
-        "text": "google earth",
-        "html": "<span class=\"t-normal\">google</span> earth",
+        "text": "youtube tv",
+        "html": "youtube tv",
         "height": 28
       }
     ]
@@ -746,51 +746,1853 @@
     "results": [
       {
         "index": 0,
+        "text": "twitch",
+        "html": "twitch",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "twitter",
+        "html": "<span class=\"t-normal\">twitter</span>",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "target",
+        "html": "target",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "translate",
+        "html": "translate",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "tiktok",
+        "html": "tiktok",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "td bank",
+        "html": "td bank",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "turbotax",
+        "html": "turbotax",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "top gun maverick",
+        "html": "top gun maverick",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "yahoo mail",
+    "results": [
+      {
+        "index": 0,
+        "text": "youtube",
+        "html": "youtube",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "yahoo",
+        "html": "yahoo",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "yahoo mail",
+        "html": "<span class=\"t-normal\">yahoo mail</span>",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "youtube website",
+        "html": "youtube website",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "yt",
+        "html": "yt",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "yahoo finance",
+        "html": "yahoo finance",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "youtube tv",
+        "html": "youtube tv",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "y8",
+        "html": "y8",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "google maps",
+    "results": [
+      {
+        "index": 0,
         "text": "google",
-        "html": "<span class=\"t-normal\">google</span>",
-        "height": 0
+        "html": "google",
+        "height": 28
       },
       {
         "index": 1,
         "text": "google maps",
-        "html": "<span class=\"t-normal\">google</span> maps",
-        "height": 0
+        "html": "<span class=\"t-normal\">google maps</span>",
+        "height": 28
       },
       {
         "index": 2,
         "text": "google docs",
-        "html": "<span class=\"t-normal\">google</span> docs",
-        "height": 0
+        "html": "google docs",
+        "height": 28
       },
       {
         "index": 3,
-        "text": "google classroom",
-        "html": "<span class=\"t-normal\">google</span> classroom",
-        "height": 0
+        "text": "gmail login mail",
+        "html": "gmail login mail",
+        "height": 28
       },
       {
         "index": 4,
         "text": "google chrome",
-        "html": "<span class=\"t-normal\">google</span> chrome",
-        "height": 0
+        "html": "google chrome",
+        "height": 28
       },
       {
         "index": 5,
-        "text": "google translate",
-        "html": "<span class=\"t-normal\">google</span> translate",
-        "height": 0
+        "text": "grammarly",
+        "html": "grammarly",
+        "height": 28
       },
       {
         "index": 6,
-        "text": "google drive",
-        "html": "<span class=\"t-normal\">google</span> drive",
-        "height": 0
+        "text": "gas buddy",
+        "html": "gas buddy",
+        "height": 28
       },
       {
         "index": 7,
-        "text": "google earth",
-        "html": "<span class=\"t-normal\">google</span> earth",
-        "height": 0
+        "text": "games",
+        "html": "games",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "whatsapp",
+    "results": [
+      {
+        "index": 0,
+        "text": "wordle",
+        "html": "wordle",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "walmart",
+        "html": "walmart",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "weather",
+        "html": "weather",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "whatsapp web",
+        "html": "<span class=\"t-normal\">whatsapp</span> web",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "wells fargo",
+        "html": "wells fargo",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "www.google.com",
+        "html": "www.google.com",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "wordle nytimes",
+        "html": "wordle nytimes",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "wikipedia",
+        "html": "wikipedia",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "fb",
+    "results": [
+      {
+        "index": 0,
+        "text": "fb",
+        "html": "<span class=\"t-normal\">fb</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "fb login",
+        "html": "<span class=\"t-normal\">fb</span> login",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "fb stock",
+        "html": "<span class=\"t-normal\">fb</span> stock",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "fbi",
+        "html": "<span class=\"t-normal\">fb</span>i",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "fbcglenarden",
+        "html": "<span class=\"t-normal\">fb</span>cglenarden",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "fbi most wanted",
+        "html": "<span class=\"t-normal\">fb</span>i most wanted",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "fbstreams",
+        "html": "<span class=\"t-normal\">fb</span>streams",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "fbisd schoology",
+        "html": "<span class=\"t-normal\">fb</span>isd schoology",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "roblox",
+    "results": [
+      {
+        "index": 0,
+        "text": "roblox",
+        "html": "<span class=\"t-normal\">roblox</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "reddit",
+        "html": "reddit",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "regions online login",
+        "html": "regions online login",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "rafael nadal",
+        "html": "rafael nadal",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "realtor",
+        "html": "realtor",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "rockauto",
+        "html": "rockauto",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "rooms to go",
+        "html": "rooms to go",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "restaurants near me",
+        "html": "restaurants near me",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "ebay",
+    "results": [
+      {
+        "index": 0,
+        "text": "ebay",
+        "html": "<span class=\"t-normal\">ebay</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "espn",
+        "html": "espn",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "etsy",
+        "html": "etsy",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "expedia",
+        "html": "expedia",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "espn+ login",
+        "html": "espn+ login",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "epic games",
+        "html": "epic games",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "email",
+        "html": "email",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "ezpassnj",
+        "html": "ezpassnj",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "outlook",
+    "results": [
+      {
+        "index": 0,
+        "text": "outlook login",
+        "html": "<span class=\"t-normal\">outlook</span> login",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "outlook",
+        "html": "<span class=\"t-normal\">outlook</span>",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "omegle",
+        "html": "omegle",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "office depot",
+        "html": "office depot",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "onedrive",
+        "html": "onedrive",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "old navy",
+        "html": "old navy",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "our florida",
+        "html": "our florida",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "oreillys",
+        "html": "oreillys",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "tradutor",
+    "results": [
+      {
+        "index": 0,
+        "text": "tradutor",
+        "html": "<span class=\"t-normal\">tradutor</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "tradutor google",
+        "html": "<span class=\"t-normal\">tradutor</span> google",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "tradutor shallow",
+        "html": "<span class=\"t-normal\">tradutor</span> shallow",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "tradutor ingles portugues",
+        "html": "<span class=\"t-normal\">tradutor</span> ingles portugues",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "tradutor online",
+        "html": "<span class=\"t-normal\">tradutor</span> online",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "tradutor espanhol ingles",
+        "html": "<span class=\"t-normal\">tradutor</span> espanhol ingles",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "tradutor google 2020",
+        "html": "<span class=\"t-normal\">tradutor</span> google 2020",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "tradutor coreano",
+        "html": "<span class=\"t-normal\">tradutor</span> coreano",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "google classroom",
+    "results": [
+      {
+        "index": 0,
+        "text": "google classroom",
+        "html": "<span class=\"t-normal\">google classroom</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "google classroom login",
+        "html": "<span class=\"t-normal\">google classroom</span> login",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "google classroom student login",
+        "html": "<span class=\"t-normal\">google classroom</span> student login",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "google classroom apps",
+        "html": "<span class=\"t-normal\">google classroom</span> apps",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "google classroom download",
+        "html": "<span class=\"t-normal\">google classroom</span> download",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "google classroom class code",
+        "html": "<span class=\"t-normal\">google classroom</span> class code",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "google classroom login students account",
+        "html": "<span class=\"t-normal\">google classroom</span> login students account",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "google classroom student login classroom",
+        "html": "<span class=\"t-normal\">google classroom</span> student login classroom",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "walmart",
+    "results": [
+      {
+        "index": 0,
+        "text": "walmart",
+        "html": "<span class=\"t-normal\">walmart</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "walmart.com",
+        "html": "<span class=\"t-normal\">walmart</span>.com",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "walmart online shopping",
+        "html": "<span class=\"t-normal\">walmart</span> online shopping",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "walmart near me",
+        "html": "<span class=\"t-normal\">walmart</span> near me",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "walmart grocery",
+        "html": "<span class=\"t-normal\">walmart</span> grocery",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "walmart pharmacy",
+        "html": "<span class=\"t-normal\">walmart</span> pharmacy",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "walmart stock",
+        "html": "<span class=\"t-normal\">walmart</span> stock",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "walmart black friday 2021",
+        "html": "<span class=\"t-normal\">walmart</span> black friday 2021",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "çeviri",
+    "results": [
+      {
+        "index": 0,
+        "text": "ceviri",
+        "html": "ceviri",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "çeviri",
+        "html": "<span class=\"t-normal\">çeviri</span>",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "ceviri google",
+        "html": "ceviri google",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "çeviri almanca",
+        "html": "<span class=\"t-normal\">çeviri</span> almanca",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "çeviri rusça",
+        "html": "<span class=\"t-normal\">çeviri</span> rusça",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "ceviri yandex",
+        "html": "ceviri yandex",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "çeviri arapça",
+        "html": "<span class=\"t-normal\">çeviri</span> arapça",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "çeviri türkçe",
+        "html": "<span class=\"t-normal\">çeviri</span> türkçe",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "maps",
+    "results": [
+      {
+        "index": 0,
+        "text": "msn",
+        "html": "msn",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "maps",
+        "html": "<span class=\"t-normal\">maps</span>",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "macy's",
+        "html": "macy's",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "minecraft",
+        "html": "minecraft",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "meghan markle",
+        "html": "meghan markle",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "mlb standings 2022",
+        "html": "mlb standings 2022",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "m&t bank",
+        "html": "m&amp;t bank",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "mlb scores",
+        "html": "mlb scores",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "yt",
+    "results": [
+      {
+        "index": 0,
+        "text": "youtube",
+        "html": "youtube",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "yahoo",
+        "html": "yahoo",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "yahoo mail",
+        "html": "yahoo mail",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "youtube website",
+        "html": "youtube website",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "yt",
+        "html": "<span class=\"t-normal\">yt</span>",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "yahoo finance",
+        "html": "yahoo finance",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "yankees game",
+        "html": "yankees game",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "yy",
+        "html": "yy",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "satta",
+    "results": [
+      {
+        "index": 0,
+        "text": "satta matka",
+        "html": "<span class=\"t-normal\">satta</span> matka",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "satta king",
+        "html": "<span class=\"t-normal\">satta</span> king",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "satta badshah 786",
+        "html": "<span class=\"t-normal\">satta</span> badshah 786",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "sattar",
+        "html": "<span class=\"t-normal\">satta</span>r",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "satta king 2018",
+        "html": "<span class=\"t-normal\">satta</span> king 2018",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "satta matka main mumbai chart",
+        "html": "<span class=\"t-normal\">satta</span> matka main mumbai chart",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "sattazahn refuse removal inc",
+        "html": "<span class=\"t-normal\">satta</span>zahn refuse removal inc",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "sattar buksh",
+        "html": "<span class=\"t-normal\">satta</span>r buksh",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "pinterest",
+    "results": [
+      {
+        "index": 0,
+        "text": "pnc",
+        "html": "pnc",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "peacock login",
+        "html": "peacock login",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "pinterest",
+        "html": "<span class=\"t-normal\">pinterest</span>",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "pubmed",
+        "html": "pubmed",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "pa lottery",
+        "html": "pa lottery",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "paypal",
+        "html": "paypal",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "paramount plus login",
+        "html": "paramount plus login",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "pandora",
+        "html": "pandora",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "google traduction",
+    "results": [
+      {
+        "index": 0,
+        "text": "google traduction",
+        "html": "<span class=\"t-normal\">google traduction</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "google traduction francais-anglais",
+        "html": "<span class=\"t-normal\">google traduction</span> francais-anglais",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "google traduction francais anglais",
+        "html": "<span class=\"t-normal\">google traduction</span> francais anglais",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "google traduction english french",
+        "html": "<span class=\"t-normal\">google traduction</span> english french",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "google traduction texte long",
+        "html": "<span class=\"t-normal\">google traduction</span> texte long",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "google traduction telecharger",
+        "html": "<span class=\"t-normal\">google traduction</span> telecharger",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "google traduction photo",
+        "html": "<span class=\"t-normal\">google traduction</span> photo",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "google traduction english arabic",
+        "html": "<span class=\"t-normal\">google traduction</span> english arabic",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "speed test",
+    "results": [
+      {
+        "index": 0,
+        "text": "spotify",
+        "html": "spotify",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "sam's club",
+        "html": "sam's club",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "shein",
+        "html": "shein",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "steam",
+        "html": "steam",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "spectrum",
+        "html": "spectrum",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "speed test",
+        "html": "<span class=\"t-normal\">speed test</span>",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "solitaire",
+        "html": "solitaire",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "secu",
+        "html": "secu",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "nba",
+    "results": [
+      {
+        "index": 0,
+        "text": "netflix",
+        "html": "netflix",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "nba finals 2022",
+        "html": "<span class=\"t-normal\">nba</span> finals 2022",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "news",
+        "html": "news",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "navinet",
+        "html": "navinet",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "ncaa baseball tournament 2022",
+        "html": "ncaa baseball tournament 2022",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "nhl",
+        "html": "nhl",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "nfl",
+        "html": "nfl",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "newsmax",
+        "html": "newsmax",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "flipkart",
+    "results": [
+      {
+        "index": 0,
+        "text": "flipkart",
+        "html": "<span class=\"t-normal\">flipkart</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "flipkart contact",
+        "html": "<span class=\"t-normal\">flipkart</span> contact",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "flipkart online shopping",
+        "html": "<span class=\"t-normal\">flipkart</span> online shopping",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "flipkart track order",
+        "html": "<span class=\"t-normal\">flipkart</span> track order",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "flipkart customer",
+        "html": "<span class=\"t-normal\">flipkart</span> customer",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "flipkart account",
+        "html": "<span class=\"t-normal\">flipkart</span> account",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "flipkart head office",
+        "html": "<span class=\"t-normal\">flipkart</span> head office",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "flipkart digiflip pro",
+        "html": "<span class=\"t-normal\">flipkart</span> digiflip pro",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "bbc news",
+    "results": [
+      {
+        "index": 0,
+        "text": "bbc news",
+        "html": "<span class=\"t-normal\">bbc news</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "bbc news uk",
+        "html": "<span class=\"t-normal\">bbc news</span> uk",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "bbc news world",
+        "html": "<span class=\"t-normal\">bbc news</span> world",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "bbc news live",
+        "html": "<span class=\"t-normal\">bbc news</span> live",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "bbc news scotland",
+        "html": "<span class=\"t-normal\">bbc news</span> scotland",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "bbc newshour",
+        "html": "<span class=\"t-normal\">bbc news</span>hour",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "bbc news ukraine",
+        "html": "<span class=\"t-normal\">bbc news</span> ukraine",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "bbc news uk live radio tv",
+        "html": "<span class=\"t-normal\">bbc news</span> uk live radio tv",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "traduction",
+    "results": [
+      {
+        "index": 0,
+        "text": "traduction",
+        "html": "<span class=\"t-normal\">traduction</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "traduction google",
+        "html": "<span class=\"t-normal\">traduction</span> google",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "traduction policy",
+        "html": "<span class=\"t-normal\">traduction</span> policy",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "traduction arbitrati",
+        "html": "<span class=\"t-normal\">traduction</span> arbitrati",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "traduction chems",
+        "html": "<span class=\"t-normal\">traduction</span> chems",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "traduction pourquoi",
+        "html": "<span class=\"t-normal\">traduction</span> pourquoi",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "traduction sans",
+        "html": "<span class=\"t-normal\">traduction</span> sans",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "traduction bunny",
+        "html": "<span class=\"t-normal\">traduction</span> bunny",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "ikea",
+    "results": [
+      {
+        "index": 0,
+        "text": "instagram",
+        "html": "instagram",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "indeed",
+        "html": "indeed",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "itunes",
+        "html": "itunes",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "irs",
+        "html": "irs",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "ikea",
+        "html": "<span class=\"t-normal\">ikea</span>",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "icloud",
+        "html": "icloud",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "imdb",
+        "html": "imdb",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "identifix",
+        "html": "identifix",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "omegle",
+    "results": [
+      {
+        "index": 0,
+        "text": "outlook login",
+        "html": "outlook login",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "outlook",
+        "html": "outlook",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "omegle",
+        "html": "<span class=\"t-normal\">omegle</span>",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "office 365 login",
+        "html": "office 365 login",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "old navy",
+        "html": "old navy",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "optimum",
+        "html": "optimum",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "origin",
+        "html": "origin",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "orbitz",
+        "html": "orbitz",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "news",
+    "results": [
+      {
+        "index": 0,
+        "text": "news",
+        "html": "<span class=\"t-normal\">news</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "newsmax",
+        "html": "<span class=\"t-normal\">news</span>max",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "news today",
+        "html": "<span class=\"t-normal\">news</span> today",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "newsmax tv",
+        "html": "<span class=\"t-normal\">news</span>max tv",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "newsela",
+        "html": "<span class=\"t-normal\">news</span>ela",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "newsweek",
+        "html": "<span class=\"t-normal\">news</span>week",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "newsday",
+        "html": "<span class=\"t-normal\">news</span>day",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "news google",
+        "html": "<span class=\"t-normal\">news</span> google",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "classroom",
+    "results": [
+      {
+        "index": 0,
+        "text": "classroom",
+        "html": "<span class=\"t-normal\">classroom</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "classroom google",
+        "html": "<span class=\"t-normal\">classroom</span> google",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "classroom timer",
+        "html": "<span class=\"t-normal\">classroom</span> timer",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "classroom screen",
+        "html": "<span class=\"t-normal\">classroom</span> screen",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "classroom of the elite",
+        "html": "<span class=\"t-normal\">classroom</span> of the elite",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "classroom login",
+        "html": "<span class=\"t-normal\">classroom</span> login",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "classroom dojo",
+        "html": "<span class=\"t-normal\">classroom</span> dojo",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "classroom app",
+        "html": "<span class=\"t-normal\">classroom</span> app",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "twitch",
+    "results": [
+      {
+        "index": 0,
+        "text": "twitch",
+        "html": "<span class=\"t-normal\">twitch</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "twitter",
+        "html": "twitter",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "target",
+        "html": "target",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "translate",
+        "html": "translate",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "tiktok",
+        "html": "tiktok",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "turbotax",
+        "html": "turbotax",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "td bank",
+        "html": "td bank",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "top gun maverick",
+        "html": "top gun maverick",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "meteo",
+    "results": [
+      {
+        "index": 0,
+        "text": "meteor",
+        "html": "<span class=\"t-normal\">meteo</span>r",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "meteo",
+        "html": "<span class=\"t-normal\">meteo</span>",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "meteor shower",
+        "html": "<span class=\"t-normal\">meteo</span>r shower",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "meteo lille",
+        "html": "<span class=\"t-normal\">meteo</span> lille",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "meteo lesneven",
+        "html": "<span class=\"t-normal\">meteo</span> lesneven",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "meteo france",
+        "html": "<span class=\"t-normal\">meteo</span> france",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "meteorite",
+        "html": "<span class=\"t-normal\">meteo</span>rite",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "meteor client",
+        "html": "<span class=\"t-normal\">meteo</span>r client",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "home depot",
+    "results": [
+      {
+        "index": 0,
+        "text": "home depot",
+        "html": "<span class=\"t-normal\">home depot</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "hotmail",
+        "html": "hotmail",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "hulu",
+        "html": "hulu",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "hbo max",
+        "html": "hbo max",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "hac",
+        "html": "hac",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "hbomax sign in",
+        "html": "hbomax sign in",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "hilton honors log in",
+        "html": "hilton honors log in",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "harbor freight",
+        "html": "harbor freight",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "amazon prime",
+    "results": [
+      {
+        "index": 0,
+        "text": "amazon prime",
+        "html": "<span class=\"t-normal\">amazon prime</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "amazon prime video",
+        "html": "<span class=\"t-normal\">amazon prime</span> video",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "amazon prime login",
+        "html": "<span class=\"t-normal\">amazon prime</span> login",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "amazon prime movies",
+        "html": "<span class=\"t-normal\">amazon prime</span> movies",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "amazon prime gaming",
+        "html": "<span class=\"t-normal\">amazon prime</span> gaming",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "amazon prime music",
+        "html": "<span class=\"t-normal\">amazon prime</span> music",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "amazon prime tv",
+        "html": "<span class=\"t-normal\">amazon prime</span> tv",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "amazon prime day 2021",
+        "html": "<span class=\"t-normal\">amazon prime</span> day 2021",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "olx",
+    "results": [
+      {
+        "index": 0,
+        "text": "olx",
+        "html": "<span class=\"t-normal\">olx</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "olx thane",
+        "html": "<span class=\"t-normal\">olx</span> thane",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "olx hyderabad",
+        "html": "<span class=\"t-normal\">olx</span> hyderabad",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "olx vadodara",
+        "html": "<span class=\"t-normal\">olx</span> vadodara",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "olx cuttack",
+        "html": "<span class=\"t-normal\">olx</span> cuttack",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "olx santro",
+        "html": "<span class=\"t-normal\">olx</span> santro",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "olx oman",
+        "html": "<span class=\"t-normal\">olx</span> oman",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "olx lebanon",
+        "html": "<span class=\"t-normal\">olx</span> lebanon",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "sarkari result",
+    "results": [
+      {
+        "index": 0,
+        "text": "sarkari result",
+        "html": "<span class=\"t-normal\">sarkari result</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "sarkari result 2022",
+        "html": "<span class=\"t-normal\">sarkari result</span> 2022",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "sarkari result uptet",
+        "html": "<span class=\"t-normal\">sarkari result</span> uptet",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "sarkari result 2021",
+        "html": "<span class=\"t-normal\">sarkari result</span> 2021",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "sarkari result uppcl",
+        "html": "<span class=\"t-normal\">sarkari result</span> uppcl",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "sarkari result ssc je 2019",
+        "html": "<span class=\"t-normal\">sarkari result</span> ssc je 2019",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "sarkari result 12th bihar board",
+        "html": "<span class=\"t-normal\">sarkari result</span> 12th bihar board",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "sarkari result railway group d",
+        "html": "<span class=\"t-normal\">sarkari result</span> railway group d",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "le bon coin",
+    "results": [
+      {
+        "index": 0,
+        "text": "le bon coin",
+        "html": "<span class=\"t-normal\">le bon coin</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "le bon coin 84",
+        "html": "<span class=\"t-normal\">le bon coin</span> 84",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "le bon coin 26",
+        "html": "<span class=\"t-normal\">le bon coin</span> 26",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "le bon coin 43",
+        "html": "<span class=\"t-normal\">le bon coin</span> 43",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "le bon coin carqueiranne",
+        "html": "<span class=\"t-normal\">le bon coin</span> carqueiranne",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "le bon coin voiture auvergne",
+        "html": "<span class=\"t-normal\">le bon coin</span> voiture auvergne",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "le bon coin annonce automobile",
+        "html": "<span class=\"t-normal\">le bon coin</span> annonce automobile",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "le bon coin location particuliers",
+        "html": "<span class=\"t-normal\">le bon coin</span> location particuliers",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "weather tomorrow",
+    "results": [
+      {
+        "index": 0,
+        "text": "weather tomorrow",
+        "html": "<span class=\"t-normal\">weather tomorrow</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "weather tomorrow hourly",
+        "html": "<span class=\"t-normal\">weather tomorrow</span> hourly",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "weather tomorrow nyc",
+        "html": "<span class=\"t-normal\">weather tomorrow</span> nyc",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "weather tomorrow morning",
+        "html": "<span class=\"t-normal\">weather tomorrow</span> morning",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "weather tomorrow all day",
+        "html": "<span class=\"t-normal\">weather tomorrow</span> all day",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "weather tomorrow in birmingham",
+        "html": "<span class=\"t-normal\">weather tomorrow</span> in birmingham",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "weather tomorrow in cayce",
+        "html": "<span class=\"t-normal\">weather tomorrow</span> in cayce",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "weather tomorrow evening",
+        "html": "<span class=\"t-normal\">weather tomorrow</span> evening",
+        "height": 28
+      }
+    ]
+  },
+  {
+    "query": "facebook login",
+    "results": [
+      {
+        "index": 0,
+        "text": "facebook login",
+        "html": "<span class=\"t-normal\">facebook login</span>",
+        "height": 28
+      },
+      {
+        "index": 1,
+        "text": "facebook login page",
+        "html": "<span class=\"t-normal\">facebook login</span> page",
+        "height": 28
+      },
+      {
+        "index": 2,
+        "text": "facebook login my account",
+        "html": "<span class=\"t-normal\">facebook login</span> my account",
+        "height": 28
+      },
+      {
+        "index": 3,
+        "text": "facebook login home",
+        "html": "<span class=\"t-normal\">facebook login</span> home",
+        "height": 28
+      },
+      {
+        "index": 4,
+        "text": "facebook login uk",
+        "html": "<span class=\"t-normal\">facebook login</span> uk",
+        "height": 28
+      },
+      {
+        "index": 5,
+        "text": "facebook logins free",
+        "html": "<span class=\"t-normal\">facebook login</span>s free",
+        "height": 28
+      },
+      {
+        "index": 6,
+        "text": "facebook login desktop",
+        "html": "<span class=\"t-normal\">facebook login</span> desktop",
+        "height": 28
+      },
+      {
+        "index": 7,
+        "text": "facebook login page official site",
+        "html": "<span class=\"t-normal\">facebook login</span> page official site",
+        "height": 28
       }
     ]
   }

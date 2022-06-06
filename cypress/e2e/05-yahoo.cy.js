@@ -1,20 +1,18 @@
 import searches from "./../fixtures/searches.json";
 
-describe("Ebay Autocomplete Data Collection", () => {
+describe("Yahoo Autocomplete Data Collection", () => {
   beforeEach(() => {
-    cy.visit("https://ebay.com/");
+    cy.visit("https://yahoo.com/");
   });
 
   it("fetch autocomplete results", () => {
     const output = [];
-
     searches.map((query) => {
       cy.wait(1000);
-      cy.get("#gh-ac").type(query);
+      cy.get("#ybar-sbq").type(query);
       cy.contains(query.toLowerCase()).should("exist");
-      const elements = cy.get(`#ui-id-1 li`);
+      const elements = cy.get(`._yb_1w0j9 li`);
       const results = [];
-
       elements
         .each(($el, $index) => {
           results.push({
@@ -33,6 +31,6 @@ describe("Ebay Autocomplete Data Collection", () => {
           cy.reload();
         });
     });
-    cy.writeFile("cypress/fixtures/ebay-output.json", output, "utf-8");
+    cy.writeFile("cypress/fixtures/yahoo-output.json", output, "utf-8");
   });
 });
