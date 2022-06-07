@@ -1,0 +1,3456 @@
+search_engine,category,query,text,index,height,num_suggestions,num_words,num_characters
+google,web,youtube,YouTube,0,40,10,1,7
+google,web,youtube,youtube tv,1,31,10,2,10
+google,web,youtube,youtube music,2,31,10,2,13
+google,web,youtube,youtube kids,3,31,10,2,12
+google,web,youtube,youtube studio,4,31,10,2,14
+google,web,youtube,youtube activate,5,31,10,2,16
+google,web,youtube,youtube tv login,6,31,10,3,16
+google,web,youtube,youtube tv channels,7,31,10,3,19
+google,web,youtube,youtube videos,8,31,10,2,14
+google,web,youtube,youtube shorts,9,31,10,2,14
+google,web,facebook,"Facebook
+Meta",0,44,10,2,13
+google,web,facebook,facebook login,1,31,10,2,14
+google,web,facebook,facebook stock,2,31,10,2,14
+google,web,facebook,facebook messenger,3,31,10,2,18
+google,web,facebook,facebook marketplace,4,31,10,2,20
+google,web,facebook,facebook app,5,31,10,2,12
+google,web,facebook,facebook search,6,31,10,2,15
+google,web,facebook,facebook marketplace scams,7,31,10,3,26
+google,web,facebook,facebook stock price,8,31,10,3,20
+google,web,facebook,facebook logo,9,31,10,2,13
+google,web,whatsapp web,whatsapp web,0,31,10,2,12
+google,web,whatsapp web,whatsapp web download,1,31,10,3,21
+google,web,whatsapp web,whatsapp web iphone,2,31,10,3,19
+google,web,whatsapp web,whatsapp website,3,31,10,2,16
+google,web,whatsapp web,whatsapp web video call,4,31,10,4,23
+google,web,whatsapp web,whatsapp web login,5,31,10,3,18
+google,web,whatsapp web,whatsapp web qr code,6,31,10,4,20
+google,web,whatsapp web,whatsapp web desktop,7,31,10,3,20
+google,web,whatsapp web,whatsapp web not working,8,31,10,4,24
+google,web,whatsapp web,whatsapp web ipad,9,31,10,3,17
+google,web,google,Google,0,40,10,1,6
+google,web,google,google translate,1,31,10,2,16
+google,web,google,google classroom,2,31,10,2,16
+google,web,google,google flights,3,31,10,2,14
+google,web,google,google maps,4,31,10,2,11
+google,web,google,google drive,5,31,10,2,12
+google,web,google,google earth,6,31,10,2,12
+google,web,google,google slides,7,31,10,2,13
+google,web,google,google news,8,31,10,2,11
+google,web,google,google news new york,9,31,10,4,20
+google,web,gmail,gmail,0,31,10,1,5
+google,web,gmail,gmail login,1,31,10,2,11
+google,web,gmail,gmail account,2,31,10,2,13
+google,web,gmail,gmail sign up,3,31,10,3,13
+google,web,gmail,gmail inbox,4,31,10,2,11
+google,web,gmail,gmail mail,5,31,10,2,10
+google,web,gmail,gmail email,6,31,10,2,11
+google,web,gmail,gmail new account,7,31,10,3,17
+google,web,gmail,gmail app,8,31,10,2,9
+google,web,gmail,gmail login page,9,31,10,3,16
+google,web,amazon,Amazon,0,40,10,1,6
+google,web,amazon,amazon prime,1,31,10,2,12
+google,web,amazon,amazon prime video,2,31,10,3,18
+google,web,amazon,amazon stock,3,31,10,2,12
+google,web,amazon,amazon customer service,4,31,10,3,23
+google,web,amazon,amazon stock split,5,31,10,3,18
+google,web,amazon,amazon smile,6,31,10,2,12
+google,web,amazon,Amazon Fresh,7,40,10,2,12
+google,web,amazon,amazon stock price,8,31,10,3,18
+google,web,amazon,amazon prime login,9,31,10,3,18
+google,web,translate,translate,0,31,10,1,9
+google,web,translate,translate english to spanish,1,31,10,4,28
+google,web,translate,translate google,2,31,10,2,16
+google,web,translate,translate to english,3,31,10,3,20
+google,web,translate,translate to spanish,4,31,10,3,20
+google,web,translate,translate english to italian,5,31,10,4,28
+google,web,translate,translate english to japanese,6,31,10,4,29
+google,web,translate,translate hebrew to english,7,31,10,4,27
+google,web,translate,translate english to korean,8,31,10,4,27
+google,web,translate,translate to chinese,9,31,10,3,20
+google,web,google translate,google translate,0,31,10,2,16
+google,web,google translate,google translate english to spanish,1,31,10,5,35
+google,web,google translate,google translate spanish,2,31,10,3,24
+google,web,google translate,google translate app,3,31,10,3,20
+google,web,google translate,google translate english,4,31,10,3,24
+google,web,google translate,google translate camera,5,31,10,3,23
+google,web,google translate,google translate french,6,31,10,3,23
+google,web,google translate,google translate picture,7,31,10,3,24
+google,web,google translate,google translate extension,8,31,10,3,26
+google,web,google translate,google translate italian,9,31,10,3,24
+google,web,traductor,translate,0,31,10,1,9
+google,web,traductor,traductor,1,31,10,1,9
+google,web,traductor,translate english to spanish,2,31,10,4,28
+google,web,traductor,Tractor Supply,3,40,10,2,14
+google,web,traductor,Trader Joe's,4,40,10,2,12
+google,web,traductor,Travelocity,5,40,10,1,11
+google,web,traductor,"Travis Barker
+American musician",6,44,10,4,31
+google,web,traductor,"Travis Scott
+American rapper",7,44,10,4,28
+google,web,traductor,"Trae Young
+American professional basketball player",8,44,10,6,50
+google,web,traductor,tramadol,9,31,10,1,8
+google,web,hotmail,The Home Depot,0,40,10,3,14
+google,web,hotmail,hotmail,1,31,10,1,7
+google,web,hotmail,Hobby Lobby,2,40,10,2,11
+google,web,hotmail,Hollister,3,40,10,1,9
+google,web,hotmail,hotels near me,4,31,10,3,14
+google,web,hotmail,HomeGoods,5,40,10,1,9
+google,web,hotmail,home depot near me,6,31,10,4,18
+google,web,hotmail,Honda,7,40,10,1,5
+google,web,hotmail,Hot Topic,8,40,10,2,9
+google,web,hotmail,horoscope,9,31,10,1,9
+google,web,instagram,instagram,0,31,10,1,9
+google,web,instagram,instagram story viewer,1,31,10,3,22
+google,web,instagram,instagram login,2,31,10,2,15
+google,web,instagram,instagram downloader,3,31,10,2,20
+google,web,instagram,instagram captions,4,31,10,2,18
+google,web,instagram,instagram logo,5,31,10,2,14
+google,web,instagram,instagram down,6,31,10,2,14
+google,web,instagram,instagram customer service,7,31,10,3,26
+google,web,instagram,instagram anonymous,8,31,10,2,19
+google,web,instagram,instagram app,9,31,10,2,13
+google,web,weather,weather,0,31,10,1,7
+google,web,weather,weather nyc,1,31,10,2,11
+google,web,weather,weather tomorrow,2,31,10,2,16
+google,web,weather,weather tomorrow nyc,3,31,10,3,20
+google,web,weather,weather tomorrow brooklyn,4,31,10,3,25
+google,web,weather,weather today,5,31,10,2,13
+google,web,weather,The Weather Channel,6,40,10,3,19
+google,web,weather,weather radar,7,31,10,2,13
+google,web,weather,weather forecast,8,31,10,2,16
+google,web,weather,Weather Underground,9,40,10,2,19
+google,web,netflix,Netflix,0,40,10,1,7
+google,web,netflix,netflix stock,1,31,10,2,13
+google,web,netflix,netflix login,2,31,10,2,13
+google,web,netflix,netflix movies,3,31,10,2,14
+google,web,netflix,netflix account,4,31,10,2,15
+google,web,netflix,netflix party,5,31,10,2,13
+google,web,netflix,netflix stock price,6,31,10,3,19
+google,web,netflix,netflix price,7,31,10,2,13
+google,web,netflix,netflix price new york,8,31,10,4,22
+google,web,netflix,netflix price new jersey,9,31,10,4,24
+google,web,yahoo,Yahoo!,0,40,10,1,6
+google,web,yahoo,yahoo mail,1,31,10,2,10
+google,web,yahoo,yahoo finance,2,31,10,2,13
+google,web,yahoo,yahoo news,3,31,10,2,10
+google,web,yahoo,yahoo fantasy baseball,4,31,10,3,22
+google,web,yahoo,yahoo search,5,31,10,2,12
+google,web,yahoo,yahoo login,6,31,10,2,11
+google,web,yahoo,yahoo mail login,7,31,10,3,16
+google,web,yahoo,yahoo fantasy,8,31,10,2,13
+google,web,yahoo,yahoo horoscope,9,31,10,2,15
+google,web,twitter,Twitter,0,40,10,1,7
+google,web,twitter,twitch,1,31,10,1,6
+google,web,twitter,twitter search,2,31,10,2,14
+google,web,twitter,twitter stock,3,31,10,2,13
+google,web,twitter,twitch tv,4,31,10,2,9
+google,web,twitter,twitter login,5,31,10,2,13
+google,web,twitter,twitch prime,6,31,10,2,12
+google,web,twitter,twitter elon musk,7,31,10,3,17
+google,web,twitter,twitch login,8,31,10,2,12
+google,web,twitter,twitter stock price,9,31,10,3,19
+google,web,yahoo mail,yahoo mail,0,31,10,2,10
+google,web,yahoo mail,yahoo mail login,1,31,10,3,16
+google,web,yahoo mail,yahoo mail sign up,2,31,10,4,18
+google,web,yahoo mail,yahoo mail app,3,31,10,3,14
+google,web,yahoo mail,yahoo mail inbox,4,31,10,3,16
+google,web,yahoo mail,yahoo mail sign in with password only,5,31,10,7,37
+google,web,yahoo mail,yahoo mail login account,6,31,10,4,24
+google,web,yahoo mail,yahoo mail create account,7,31,10,4,25
+google,web,yahoo mail,yahoo mail customer service,8,31,10,4,27
+google,web,yahoo mail,yahoo mail change password,9,31,10,4,26
+google,web,google maps,google maps,0,31,10,2,11
+google,web,google maps,google maps directions,1,31,10,3,22
+google,web,google maps,google maps street view,2,31,10,4,23
+google,web,google maps,google maps app,3,31,10,3,15
+google,web,google maps,google maps driving directions,4,31,10,4,30
+google,web,google maps,google maps nyc,5,31,10,3,15
+google,web,google maps,google maps timeline,6,31,10,3,20
+google,web,google maps,google maps api,7,31,10,3,15
+google,web,google maps,google maps 3d,8,31,10,3,14
+google,web,google maps,google maps satellite,9,31,10,3,21
+google,web,whatsapp,whatsapp,0,31,10,1,8
+google,web,whatsapp,whatsapp web,1,31,10,2,12
+google,web,whatsapp,whatsapp download,2,31,10,2,17
+google,web,whatsapp,whatsapp desktop,3,31,10,2,16
+google,web,whatsapp,whatsapp app,4,31,10,2,12
+google,web,whatsapp,whatsapp login,5,31,10,2,14
+google,web,whatsapp,whatsapp status,6,31,10,2,15
+google,web,whatsapp,whatsapp download 2022,7,31,10,3,22
+google,web,whatsapp,whatsapp for ipad,8,31,10,3,17
+google,web,whatsapp,whatsapp business,9,31,10,2,17
+google,web,fb,fb,0,31,10,1,2
+google,web,fb,fb stock,1,31,10,2,8
+google,web,fb,"FBI: Most Wanted
+Drama series",2,44,10,5,29
+google,web,fb,"FBI
+Drama series",3,44,10,3,16
+google,web,fb,"FBI
+Federal Bureau of Investigation",4,44,10,5,35
+google,web,fb,"FBI: International
+Television series",5,44,10,4,36
+google,web,fb,fb stock price,6,31,10,3,14
+google,web,fb,fbi most wanted cast,7,31,10,4,20
+google,web,fb,fbi cast,8,31,10,2,8
+google,web,fb,"fbar
+Consultant · Arlington, VA",9,44,10,5,31
+google,web,roblox,roblox,0,31,10,1,6
+google,web,roblox,"Robert Pattinson
+English actor",1,44,10,4,30
+google,web,roblox,Robinhood,2,40,10,1,9
+google,web,roblox,"Robert Williams III
+American professional basketball player",3,44,10,7,59
+google,web,roblox,"Robert Englund
+American actor",4,44,10,4,29
+google,web,roblox,"Robert Downey Jr.
+American actor",5,44,10,5,32
+google,web,roblox,"Robinson Canó
+Baseball second baseman",6,44,10,5,37
+google,web,roblox,"Robert De Niro
+American actor",7,44,10,5,29
+google,web,roblox,"Robin Williams
+American actor",8,44,10,4,29
+google,web,roblox,"Rob Kardashian
+American TV personality",9,44,10,5,38
+google,web,ebay,eBay,0,40,10,1,4
+google,web,ebay,ebay motors,1,31,10,2,11
+google,web,ebay,"Ebates
+Rakuten Rewards",2,44,10,3,22
+google,web,ebay,ebay login,3,31,10,2,10
+google,web,ebay,ebt balance,4,31,10,2,11
+google,web,ebay,eb,5,31,10,1,2
+google,web,ebay,ebitda,6,31,10,1,6
+google,web,ebay,ebay uk,7,31,10,2,7
+google,web,ebay,ebenefits,8,31,10,1,9
+google,web,ebay,ebay customer service number,9,31,10,4,28
+google,web,outlook,outlook,0,31,10,1,7
+google,web,outlook,outlook email,1,31,10,2,13
+google,web,outlook,outlook 365,2,31,10,2,11
+google,web,outlook,outlook login,3,31,10,2,13
+google,web,outlook,outlook email login,4,31,10,3,19
+google,web,outlook,outlook 365 login,5,31,10,3,17
+google,web,outlook,outlook office,6,31,10,2,14
+google,web,outlook,outlook on the web,7,31,10,4,18
+google,web,outlook,outlook email sign in,8,31,10,4,21
+google,web,outlook,outlook webmail,9,31,10,2,15
+google,web,tradutor,tradutor,0,31,10,1,8
+google,web,tradutor,tradutor google,1,31,10,2,15
+google,web,tradutor,tradutor online,2,31,10,2,15
+google,web,tradutor,tradutor portugues ingles,3,31,10,3,25
+google,web,tradutor,tradutor inglês,4,31,10,2,15
+google,web,tradutor,tradutor espanol a ingles,5,31,10,4,25
+google,web,tradutor,tradutor meaning in english,6,31,10,4,27
+google,web,tradutor,tradutor espanhol,7,31,10,2,17
+google,web,tradutor,tradutor portugues para english,8,31,10,4,31
+google,web,tradutor,traductor de inglés a español,9,31,10,5,29
+google,web,google classroom,google classroom,0,31,10,2,16
+google,web,google classroom,google classroom login,1,31,10,3,22
+google,web,google classroom,google classroom sign in,2,31,10,4,24
+google,web,google classroom,google classroom join,3,31,10,3,21
+google,web,google classroom,google classroom dark mode,4,31,10,4,26
+google,web,google classroom,google classroom app,5,31,10,3,20
+google,web,google classroom,google classroom for pc,6,31,10,4,23
+google,web,google classroom,google classroom math,7,31,10,3,21
+google,web,google classroom,google classroom meet,8,31,10,3,21
+google,web,google classroom,google classroom codes,9,31,10,3,22
+google,web,walmart,weather,0,31,10,1,7
+google,web,walmart,"Wordle
+Software",1,44,10,2,15
+google,web,walmart,Walmart,2,40,10,1,7
+google,web,walmart,"Golden State Warriors
+Basketball team",3,44,10,5,37
+google,web,walmart,warriors vs celtics,4,31,10,3,19
+google,web,walmart,Walgreens,5,40,10,1,9
+google,web,walmart,"TODAY'S WORDLE
+Song by Splooge God",6,44,10,6,34
+google,web,walmart,Wayfair LLC,7,30,10,2,11
+google,web,walmart,weather nyc,8,31,10,2,11
+google,web,walmart,walmart near me,9,31,10,3,15
+google,web,çeviri,çeviri,0,31,10,1,6
+google,web,çeviri,çeviri türkçe,1,31,10,2,13
+google,web,çeviri,çeviri sözlük,2,31,10,2,13
+google,web,çeviri,çeviri yandex,3,31,10,2,13
+google,web,çeviri,çeviri türkçe ing,4,31,10,3,17
+google,web,çeviri,çeviri almanca,5,31,10,2,14
+google,web,çeviri,çeviri nedir,6,31,10,2,12
+google,web,çeviri,çeviri english turkish,7,31,10,3,22
+google,web,çeviri,çeviri almanca türkçe,8,31,10,3,21
+google,web,çeviri,çeviri'' in english,9,31,10,3,19
+google,web,maps,maps,0,31,10,1,4
+google,web,maps,MapQuest,1,40,10,1,8
+google,web,maps,map of europe,2,31,10,3,13
+google,web,maps,map of usa,3,31,10,3,10
+google,web,maps,map of africa,4,31,10,3,13
+google,web,maps,map of the world,5,31,10,4,16
+google,web,maps,maps google,6,31,10,2,11
+google,web,maps,map of the united states,7,31,10,5,24
+google,web,maps,map of ukraine,8,31,10,3,14
+google,web,maps,map of asia,9,31,10,3,11
+google,web,yt,"yt
+YouTube",0,44,10,2,10
+google,web,yt,ytmp3 converter --,1,31,10,3,18
+google,web,yt,yt music,2,31,10,2,8
+google,web,yt,yt meaning,3,31,10,2,10
+google,web,yt,ytd meaning,4,31,10,2,11
+google,web,yt,yt studio,5,31,10,2,9
+google,web,yt,"yttd
+Kimi ga Shine -Tasūketsu Death Game- — Video game",6,44,10,10,54
+google,web,yt,ytd,7,31,10,1,3
+google,web,yt,YT Industries,8,40,10,2,13
+google,web,yt,yt kids,9,31,10,2,7
+google,web,satta,satta,0,31,10,1,5
+google,web,satta,"Satta Bazaar
+1959 film",1,44,10,4,22
+google,web,satta,satta company,2,31,10,2,13
+google,web,satta,"Satta
+2003 film",3,44,10,3,15
+google,web,satta,satta gali,4,31,10,2,10
+google,web,satta,satta king,5,31,10,2,10
+google,web,satta,satta table tennis academy,6,31,10,4,26
+google,web,satta,satta bazaar,7,31,10,2,12
+google,web,satta,sattacademy,8,31,10,1,11
+google,web,satta,sattazahn,9,31,10,1,9
+google,web,pinterest,pinterest,0,31,10,1,9
+google,web,pinterest,pinterest app,1,31,10,2,13
+google,web,pinterest,pinterest login,2,31,10,2,15
+google,web,pinterest,pinterest stock,3,31,10,2,15
+google,web,pinterest,pinterest careers,4,31,10,2,17
+google,web,pinterest,pinterest search,5,31,10,2,16
+google,web,pinterest,pinterest download,6,31,10,2,18
+google,web,pinterest,pinterest logo,7,31,10,2,14
+google,web,pinterest,pinterest nails,8,31,10,2,15
+google,web,pinterest,pinterest recipes,9,31,10,2,17
+google,web,google traduction,google traduction,0,31,10,2,17
+google,web,google traduction,google traductor,1,31,10,2,16
+google,web,google traduction,google traduction français anglais,2,31,10,4,34
+google,web,google traduction,google traductor ingles español,3,31,10,4,31
+google,web,google traduction,google traduction photo,4,31,10,3,23
+google,web,google traduction,google traduction créole anglais,5,31,10,4,32
+google,web,google traduction,google traductor app,6,31,10,3,20
+google,web,google traduction,google traduction anglais créole haïtien,7,31,10,5,40
+google,web,google traduction,google traductor con camara,8,31,10,4,27
+google,web,google traduction,google traductor english to spanish,9,31,10,5,35
+google,web,speed test,speed test,0,31,10,2,10
+google,web,speed test,speed test internet,1,31,10,3,19
+google,web,speed test,speedtest ookla,2,31,10,2,15
+google,web,speed test,speed test verizon,3,31,10,3,18
+google,web,speed test,speed test google,4,31,10,3,17
+google,web,speed test,speed test optimum,5,31,10,3,18
+google,web,speed test,speed test wifi,6,31,10,3,15
+google,web,speed test,speed test by ookla,7,31,10,4,19
+google,web,speed test,speed test spectrum,8,31,10,3,19
+google,web,speed test,speed test fios,9,31,10,3,15
+google,web,nba,"NBA
+League",0,44,10,2,10
+google,web,nba,nba finals,1,31,10,2,10
+google,web,nba,nba scores,2,31,10,2,10
+google,web,nba,nba games,3,31,10,2,9
+google,web,nba,nba playoffs,4,31,10,2,12
+google,web,nba,nba schedule,5,31,10,2,12
+google,web,nba,nba finals schedule,6,31,10,3,19
+google,web,nba,nba finals 2022,7,31,10,3,15
+google,web,nba,nba today,8,31,10,2,9
+google,web,nba,nba standings,9,31,10,2,13
+google,web,flipkart,Flipkart,0,40,10,1,8
+google,web,flipkart,flipkart india,1,31,10,2,14
+google,web,flipkart,flipkart ipo,2,31,10,2,12
+google,web,flipkart,flipkart login,3,31,10,2,14
+google,web,flipkart,flipkart founder,4,31,10,2,16
+google,web,flipkart,flipkart valuation,5,31,10,2,18
+google,web,flipkart,flipkart ceo,6,31,10,2,12
+google,web,flipkart,flipkart customer care number,7,31,10,4,29
+google,web,flipkart,flipkart sign up,8,31,10,3,16
+google,web,flipkart,flipkart flights,9,31,10,2,16
+google,web,bbc news,BBC News,0,40,10,2,8
+google,web,bbc news,bbc news ukraine,1,31,10,3,16
+google,web,bbc news,"BBC Newsroom Live
+Television programme",2,44,10,5,38
+google,web,bbc news,bbc news uk,3,31,10,3,11
+google,web,bbc news,bbc news ni,4,31,10,3,11
+google,web,bbc news,bbc news russian,5,31,10,3,16
+google,web,bbc news,bbc newshour,6,31,10,2,12
+google,web,bbc news,"bbc news radio
+BBC World Service",7,44,10,6,32
+google,web,bbc news,bbc news world,8,31,10,3,14
+google,web,bbc news,bbc news urdu,9,31,10,3,13
+google,web,traduction,traduction,0,31,10,1,10
+google,web,traduction,traduction francais anglais,1,31,10,3,27
+google,web,traduction,traduction english french,2,31,10,3,25
+google,web,traduction,traduction anglais,3,31,10,2,18
+google,web,traduction,traduction anglais arabe,4,31,10,3,24
+google,web,traduction,traduction google,5,31,10,2,17
+google,web,traduction,traduction espagnol français,6,31,10,3,28
+google,web,traduction,traduction kreyol anglais,7,31,10,3,25
+google,web,traduction,traduction english spanish,8,31,10,3,26
+google,web,traduction,traduction anglais en creole,9,31,10,4,28
+google,web,ikea,IKEA,0,40,10,1,4
+google,web,ikea,"ikea brooklyn
+IKEA · 1 Beard St, Brooklyn, NY",1,44,10,9,45
+google,web,ikea,ikea near me,2,31,10,3,12
+google,web,ikea,ikea nyc,3,31,10,2,8
+google,web,ikea,"ikea paramus
+IKEA · 100 Ikea Dr, Paramus, NJ",4,44,10,9,44
+google,web,ikea,ikea dresser,5,31,10,2,12
+google,web,ikea,"ikea elizabeth
+IKEA · 1000 Ikea Dr, Elizabeth, NJ",6,44,10,9,49
+google,web,ikea,ikea desk,7,31,10,2,9
+google,web,ikea,"ikea queens
+IKEA · 96-05 Queens Blvd, Queens, NY",8,44,10,9,48
+google,web,ikea,"ikea long island
+IKEA · 1100 Broadway Mall, Hicksville, NY",9,44,10,10,58
+google,web,omegle,omegle,0,31,10,1,6
+google,web,omegle,omegle app,1,31,10,2,10
+google,web,omegle,omegle tv,2,31,10,2,9
+google,web,omegle,omegle alternatives,3,31,10,2,19
+google,web,omegle,omegle ip puller,4,31,10,3,16
+google,web,omegle,omegle unbanned,5,31,10,2,15
+google,web,omegle,omegle banned,6,31,10,2,13
+google,web,omegle,omegle ip locator,7,31,10,3,17
+google,web,omegle,omegle text,8,31,10,2,11
+google,web,omegle,omegle like sites,9,31,10,3,17
+google,web,news,Netflix,0,40,10,1,7
+google,web,news,news,1,31,10,1,4
+google,web,news,"New York Rangers
+Ice hockey team",2,44,10,6,32
+google,web,news,"New York Yankees
+Baseball team",3,44,10,5,30
+google,web,news,"New York Mets
+Baseball team",4,44,10,5,27
+google,web,news,"Brooklyn Nets
+Basketball team",5,44,10,4,29
+google,web,news,new york post,6,31,10,3,13
+google,web,news,new york times,7,31,10,3,14
+google,web,news,New Balance,8,40,10,2,11
+google,web,news,neiman marcus,9,31,10,2,13
+google,web,classroom,classroom,0,31,10,1,9
+google,web,classroom,classroom google,1,31,10,2,16
+google,web,classroom,"Classroom of the Elite
+Animated series",2,44,10,6,38
+google,web,classroom,classroom screen,3,31,10,2,16
+google,web,classroom,classroom of the elite season 2,4,31,10,6,31
+google,web,classroom,classroom timer,5,31,10,2,15
+google,web,classroom,classroom management strategies,6,31,10,3,31
+google,web,classroom,classroom management,7,31,10,2,20
+google,web,classroom,classroom login,8,31,10,2,15
+google,web,classroom,classroom of the elite characters,9,31,10,5,33
+google,web,twitch,twitch,0,31,10,1,6
+google,web,twitch,twitch tv,1,31,10,2,9
+google,web,twitch,twitch prime,2,31,10,2,12
+google,web,twitch,twitch login,3,31,10,2,12
+google,web,twitch,twitchy,4,31,10,1,7
+google,web,twitch,twitch drops,5,31,10,2,12
+google,web,twitch,twitch desktop,6,31,10,2,14
+google,web,twitch,twitch adblock,7,31,10,2,14
+google,web,twitch,twitch prime loot,8,31,10,3,17
+google,web,twitch,twitch activate,9,31,10,2,15
+google,web,meteo,meters to feet,0,31,10,3,14
+google,web,meteo,meters to miles,1,31,10,3,15
+google,web,meteo,meteorite staff elden ring,2,31,10,4,26
+google,web,meteo,meteor,3,31,10,1,6
+google,web,meteo,meters to yards,4,31,10,3,15
+google,web,meteo,meters to inches,5,31,10,3,16
+google,web,meteo,meteo,6,31,10,1,5
+google,web,meteo,meteorologist,7,31,10,1,13
+google,web,meteo,meter,8,31,10,1,5
+google,web,meteo,"Meteor Garden
+Television series",9,44,10,4,31
+google,web,home depot,The Home Depot,0,40,10,3,14
+google,web,home depot,home depot near me,1,31,10,4,18
+google,web,home depot,home depot nyc,2,31,10,3,14
+google,web,home depot,home depot brooklyn,3,31,10,3,19
+google,web,home depot,home depot credit card,4,31,10,4,22
+google,web,home depot,home depot hours,5,31,10,3,16
+google,web,home depot,home depot credit card login,6,31,10,5,28
+google,web,home depot,home depot stock,7,31,10,3,16
+google,web,home depot,home depot customer service,8,31,10,4,27
+google,web,home depot,home depot promo code,9,31,10,4,21
+google,web,amazon prime,amazon prime,0,31,10,2,12
+google,web,amazon prime,amazon prime video,1,31,10,3,18
+google,web,amazon prime,amazon prime login,2,31,10,3,18
+google,web,amazon prime,amazon prime movies,3,31,10,3,19
+google,web,amazon prime,amazon prime video login,4,31,10,4,24
+google,web,amazon prime,amazon promo code,5,31,10,3,17
+google,web,amazon prime,amazon prime gaming,6,31,10,3,19
+google,web,amazon prime,amazon prime day 2022,7,31,10,4,21
+google,web,amazon prime,amazon prime customer service,8,31,10,4,29
+google,web,amazon prime,amazon prime day,9,31,10,3,16
+google,web,olx,OLX Group,0,40,10,2,9
+google,web,olx,olx pakistan,1,31,10,2,12
+google,web,olx,olx ecuador,2,31,10,2,11
+google,web,olx,olx pl,3,31,10,2,6
+google,web,olx,olx brasil,4,31,10,2,10
+google,web,olx,"OLX Portugal
+Corporate office · Lisbon, Portugal",5,44,10,7,48
+google,web,olx,olx colombia,6,31,10,2,12
+google,web,olx,olx ua,7,31,10,2,6
+google,web,olx,olx egypt,8,31,10,2,9
+google,web,olx,olx india,9,31,10,2,9
+google,web,sarkari result,sarkari result,0,31,10,2,14
+google,web,sarkari result,sarkari result 2022,1,31,10,3,19
+google,web,sarkari result,sarkari result up board,2,31,10,4,23
+google,web,sarkari result,sarkari result 10th,3,31,10,3,19
+google,web,sarkari result,sarkari result 10+2 latest job,4,31,10,5,30
+google,web,sarkari result,sarkari result 10th 2022,5,31,10,4,24
+google,web,sarkari result,sarkari result bihar board,6,31,10,4,26
+google,web,sarkari result,sarkari result 2019,7,31,10,3,19
+google,web,sarkari result,sarkari result admit card,8,31,10,4,25
+google,web,sarkari result,sarkari result scholarship,9,31,10,3,26
+google,web,le bon coin,le bon coin,0,31,10,3,11
+google,web,le bon coin,le bon coin france,1,31,10,4,18
+google,web,le bon coin,le bon coin paris,2,31,10,4,17
+google,web,le bon coin,le bon coin immobilier,3,31,10,4,22
+google,web,le bon coin,le bon coin voiture,4,31,10,4,19
+google,web,le bon coin,le bon coin immobilier location,5,31,10,5,31
+google,web,le bon coin,le bon coin usa,6,31,10,4,15
+google,web,le bon coin,le bon coin guadeloupe,7,31,10,4,22
+google,web,le bon coin,le bon coin belgique,8,31,10,4,20
+google,web,le bon coin,le bon coin location vacances,9,31,10,5,29
+google,web,weather tomorrow,"weather tomorrow
+77°FTue - Kings County, NY",0,77,10,7,43
+google,web,weather tomorrow,weather tomorrow nyc,1,31,10,3,20
+google,web,weather tomorrow,weather tomorrow brooklyn,2,31,10,3,25
+google,web,weather tomorrow,weather tomorrow new york,3,31,10,4,25
+google,web,weather tomorrow,weather tomorrow at my location,4,31,10,5,31
+google,web,weather tomorrow,weather tomorrow hourly,5,31,10,3,23
+google,web,weather tomorrow,weather tomorrow new jersey,6,31,10,4,27
+google,web,weather tomorrow,weather tomorrow jersey city,7,31,10,4,28
+google,web,weather tomorrow,weather tomorrow staten island,8,31,10,4,30
+google,web,weather tomorrow,weather tomorrow queens,9,31,10,3,23
+google,web,facebook login,facebook login,0,31,10,2,14
+google,web,facebook login,facebook login account password,1,31,10,4,31
+google,web,facebook login,facebook login page,2,31,10,3,19
+google,web,facebook login,facebook login touch,3,31,10,3,20
+google,web,facebook login,facebook login account,4,31,10,3,22
+google,web,facebook login,facebook login code,5,31,10,3,19
+google,web,facebook login,facebook login account password forgot,6,31,10,5,38
+google,web,facebook login,facebook login request,7,31,10,3,22
+google,web,facebook login,facebook login app,8,31,10,3,18
+google,web,facebook login,facebook login identity recovery,9,31,10,4,32
+neeva,web,youtube,youtube,0,40,5,1,7
+neeva,web,youtube,youtube website,1,40,5,2,15
+neeva,web,youtube,youtube videos,2,40,5,2,14
+neeva,web,youtube,youtube music,3,40,5,2,13
+neeva,web,youtube,youtube tv,4,40,5,2,10
+neeva,web,facebook,facebook,0,40,5,1,8
+neeva,web,facebook,facebook log in,1,40,5,3,15
+neeva,web,facebook,facebook marketplace,2,40,5,2,20
+neeva,web,facebook,facebook log in or sign up,3,40,5,6,26
+neeva,web,facebook,facebook home page,4,40,5,3,18
+neeva,web,whatsapp web,whatsapp web,0,40,5,2,12
+neeva,web,whatsapp web,whatsapp web login,1,40,5,3,18
+neeva,web,whatsapp web,whatsapp web app,2,40,5,3,16
+neeva,web,whatsapp web,whatsapp web download,3,40,5,3,21
+neeva,web,whatsapp web,whatsapp web scanner,4,40,5,3,20
+neeva,web,google,google,0,40,5,1,6
+neeva,web,google,google maps,1,40,5,2,11
+neeva,web,google,google docs,2,40,5,2,11
+neeva,web,google,google chrome,3,40,5,2,13
+neeva,web,google,google translate,4,40,5,2,16
+neeva,web,gmail,gmail,0,40,5,1,5
+neeva,web,gmail,gmail login mail,1,40,5,3,16
+neeva,web,gmail,gmail login,2,40,5,2,11
+neeva,web,gmail,gmail inbox,3,40,5,2,11
+neeva,web,gmail,gmail email,4,40,5,2,11
+neeva,web,amazon,amazon,0,40,5,1,6
+neeva,web,amazon,amazon prime,1,40,5,2,12
+neeva,web,amazon,amazon chime,2,40,5,2,12
+neeva,web,amazon,amazon a-to-z,3,40,5,2,13
+neeva,web,amazon,amazon my account,4,40,5,3,17
+neeva,web,translate,translate,0,40,5,1,9
+neeva,web,translate,translate google,1,40,5,2,16
+neeva,web,translate,translate english to spanish,2,40,5,4,28
+neeva,web,translate,translator,3,40,5,1,10
+neeva,web,translate,translate to english,4,40,5,3,20
+neeva,web,google translate,google translate,0,40,5,2,16
+neeva,web,google translate,google translate english to spanish,1,40,5,5,35
+neeva,web,google translate,google translate audio,2,40,5,3,22
+neeva,web,google translate,google translate latin,3,40,5,3,22
+neeva,web,google translate,google translate listen,4,40,5,3,23
+neeva,web,traductor,traductor,0,40,5,1,9
+neeva,web,traductor,traductor google,1,40,5,2,16
+neeva,web,traductor,traductor ingles espanol,2,40,5,3,24
+neeva,web,traductor,traductor de google,3,40,5,3,19
+neeva,web,traductor,traductor google ingles espanol,4,40,5,4,31
+neeva,web,hotmail,hotmail,0,40,5,1,7
+neeva,web,hotmail,hotmail sign in,1,40,5,3,15
+neeva,web,hotmail,hotmail.com login,2,40,5,2,17
+neeva,web,hotmail,hotmail inbox,3,40,5,2,13
+neeva,web,hotmail,hotmail email,4,40,5,2,13
+neeva,web,instagram,instagram,0,40,5,1,9
+neeva,web,instagram,instagram login,1,40,5,2,15
+neeva,web,instagram,instagram search,2,40,5,2,16
+neeva,web,instagram,instagram logo,3,40,5,2,14
+neeva,web,instagram,instagram downloader,4,40,5,2,20
+neeva,web,weather,weather,0,40,5,1,7
+neeva,web,weather,weather channel,1,40,5,2,15
+neeva,web,weather,weather forecast,2,40,5,2,16
+neeva,web,weather,weather.com,3,40,5,1,11
+neeva,web,weather,weather underground,4,40,5,2,19
+neeva,web,netflix,netflix,0,40,5,1,7
+neeva,web,netflix,netflix login,1,40,5,2,13
+neeva,web,netflix,netflix movies,2,40,5,2,14
+neeva,web,netflix,netflix stock,3,40,5,2,13
+neeva,web,netflix,netflix download,4,40,5,2,16
+neeva,web,yahoo,yahoo,0,40,5,1,5
+neeva,web,yahoo,yahoo mail,1,40,5,2,10
+neeva,web,yahoo,yahoo finance,2,40,5,2,13
+neeva,web,yahoo,yahoo mail login,3,40,5,3,16
+neeva,web,yahoo,yahoo news,4,40,5,2,10
+neeva,web,twitter,twitter,0,40,5,1,7
+neeva,web,twitter,twitter login,1,40,5,2,13
+neeva,web,twitter,twitter search,2,40,5,2,14
+neeva,web,twitter,twitter stock,3,40,5,2,13
+neeva,web,twitter,twitter trending,4,40,5,2,16
+neeva,web,yahoo mail,yahoo mail,0,40,5,2,10
+neeva,web,yahoo mail,yahoo mail login,1,40,5,3,16
+neeva,web,yahoo mail,yahoo mail check my mail,2,40,5,5,24
+neeva,web,yahoo mail,yahoo mail my account log in,3,40,5,6,28
+neeva,web,yahoo mail,yahoo mail inbox open,4,40,5,4,21
+neeva,web,google maps,google maps,0,40,5,2,11
+neeva,web,google maps,google maps driving directions,1,40,5,4,30
+neeva,web,google maps,google maps street view,2,40,5,4,23
+neeva,web,google maps,google maps uk,3,40,5,3,14
+neeva,web,google maps,google maps satellite,4,40,5,3,21
+neeva,web,whatsapp,whatsapp web,0,40,5,2,12
+neeva,web,whatsapp,whatsapp,1,40,5,1,8
+neeva,web,whatsapp,whatsapp download,2,40,5,2,17
+neeva,web,whatsapp,whatsapp web login,3,40,5,3,18
+neeva,web,whatsapp,whatsapp desktop,4,40,5,2,16
+neeva,web,fb,fb,0,40,5,1,2
+neeva,web,fb,fb login,1,40,5,2,8
+neeva,web,fb,fb stock,2,40,5,2,8
+neeva,web,fb,fbi,3,40,5,1,3
+neeva,web,fb,fbi jobs,4,40,5,2,8
+neeva,web,roblox,roblox,0,40,5,1,6
+neeva,web,roblox,roblox login,1,40,5,2,12
+neeva,web,roblox,roblox.com,2,40,5,1,10
+neeva,web,roblox,roblox download,3,40,5,2,15
+neeva,web,roblox,roblox studio,4,40,5,2,13
+neeva,web,ebay,ebay,0,40,5,1,4
+neeva,web,ebay,ebay official site,1,40,5,3,18
+neeva,web,ebay,ebay motors,2,40,5,2,11
+neeva,web,ebay,ebay login,3,40,5,2,10
+neeva,web,ebay,ebay shopping,4,40,5,2,13
+neeva,web,outlook,outlook,0,40,5,1,7
+neeva,web,outlook,outlook login,1,40,5,2,13
+neeva,web,outlook,outlook 365,2,40,5,2,11
+neeva,web,outlook,outlook.com,3,40,5,1,11
+neeva,web,outlook,outlook email,4,40,5,2,13
+neeva,web,tradutor,tradutor,0,40,5,1,8
+neeva,web,tradutor,tradutor google,1,40,5,2,15
+neeva,web,tradutor,tradutor shallow,2,40,5,2,16
+neeva,web,tradutor,tradutor online,3,40,5,2,15
+neeva,web,tradutor,tradutor ingles portugues,4,40,5,3,25
+neeva,web,google classroom,google classroom,0,40,5,2,16
+neeva,web,google classroom,google classroom login,1,40,5,3,22
+neeva,web,google classroom,google classroom student login,2,40,5,4,30
+neeva,web,google classroom,google classroom download,3,40,5,3,25
+neeva,web,google classroom,google classroom apps,4,40,5,3,21
+neeva,web,walmart,walmart,0,40,5,1,7
+neeva,web,walmart,walmart.com,1,40,5,1,11
+neeva,web,walmart,walmart online shopping,2,40,5,3,23
+neeva,web,walmart,walmart near me,3,40,5,3,15
+neeva,web,walmart,walmart grocery,4,40,5,2,15
+neeva,web,çeviri,çeviri,0,40,5,1,6
+neeva,web,çeviri,ceviri,1,40,5,1,6
+neeva,web,çeviri,ceviri google,2,40,5,2,13
+neeva,web,çeviri,çeviri almanca,3,40,5,2,14
+neeva,web,çeviri,çeviri rusça,4,40,5,2,12
+neeva,web,maps,maps,0,40,5,1,4
+neeva,web,maps,maps google,1,40,5,2,11
+neeva,web,maps,maps bing,2,40,5,2,9
+neeva,web,maps,maps and directions,3,40,5,3,19
+neeva,web,maps,maps mapquest,4,40,5,2,13
+neeva,web,yt,yt,0,40,5,1,2
+neeva,web,yt,ytmp3,1,40,5,1,5
+neeva,web,yt,yt music,2,40,5,2,8
+neeva,web,yt,yt to mp4,3,40,5,3,9
+neeva,web,yt,yts movies,4,40,5,2,10
+neeva,web,satta,satta matka,0,40,5,2,11
+neeva,web,satta,satta king,1,40,5,2,10
+neeva,web,satta,satta badshah 786,2,40,5,3,17
+neeva,web,satta,sattar,3,40,5,1,6
+neeva,web,satta,satta king 2018,4,40,5,3,15
+neeva,web,pinterest,pinterest,0,40,5,1,9
+neeva,web,pinterest,pinterest login,1,40,5,2,15
+neeva,web,pinterest,pinterest home,2,40,5,2,14
+neeva,web,pinterest,pinterest recipes,3,40,5,2,17
+neeva,web,pinterest,pinterest ideas,4,40,5,2,15
+neeva,web,google traduction,google traduction,0,40,5,2,17
+neeva,web,google traduction,google traduction anglais francais,1,40,5,4,34
+neeva,web,google traduction,google traduction francais-anglais,2,40,5,3,34
+neeva,web,google traduction,google traduction english french,3,40,5,4,32
+neeva,web,google traduction,google traduction texte long,4,40,5,4,28
+neeva,web,speed test,speed test,0,40,5,2,10
+neeva,web,speed test,speed test xfinity,1,40,5,3,18
+neeva,web,speed test,speed test ookla,2,40,5,3,16
+neeva,web,speed test,speed test internet,3,40,5,3,19
+neeva,web,speed test,speed test google,4,40,5,3,17
+neeva,web,nba,nba finals 2022,0,40,5,3,15
+neeva,web,nba,nba scores,1,40,5,2,10
+neeva,web,nba,nba,2,40,5,1,3
+neeva,web,nba,nba schedule,3,40,5,2,12
+neeva,web,nba,nba standings,4,40,5,2,13
+neeva,web,flipkart,flipkart,0,40,1,1,8
+neeva,web,bbc news,bbc news,0,40,5,2,8
+neeva,web,bbc news,bbc news uk,1,40,5,3,11
+neeva,web,bbc news,bbc news world,2,40,5,3,14
+neeva,web,bbc news,bbc news ukraine,3,40,5,3,16
+neeva,web,bbc news,bbc news uk live radio 1,4,40,5,6,24
+neeva,web,traduction,traduction,0,40,5,1,10
+neeva,web,traduction,traduction anglais francais,1,40,5,3,27
+neeva,web,traduction,traduction google,2,40,5,2,17
+neeva,web,traduction,traduction pourquoi,3,40,5,2,19
+neeva,web,traduction,traduction arbitrati,4,40,5,2,20
+neeva,web,ikea,ikea,0,40,5,1,4
+neeva,web,ikea,ikea furniture,1,40,5,2,14
+neeva,web,ikea,ikea usa,2,40,5,2,8
+neeva,web,ikea,ikea desk,3,40,5,2,9
+neeva,web,ikea,ikea cabinets,4,40,5,2,13
+neeva,web,omegle,omegle,0,40,5,1,6
+neeva,web,omegle,omegle games,1,40,5,2,12
+neeva,web,omegle,omegle video call,2,40,5,3,17
+neeva,web,omegle,omegle alternatives,3,40,5,2,19
+neeva,web,omegle,omegle ip puller,4,40,5,3,16
+neeva,web,news,omegle,0,40,5,1,6
+neeva,web,news,omegle games,1,40,5,2,12
+neeva,web,news,omegle video call,2,40,5,3,17
+neeva,web,news,omegle alternatives,3,40,5,2,19
+neeva,web,news,omegle ip puller,4,40,5,3,16
+neeva,web,classroom,classroom,0,40,5,1,9
+neeva,web,classroom,classroom google,1,40,5,2,16
+neeva,web,classroom,classroom timer,2,40,5,2,15
+neeva,web,classroom,classroom of the elite,3,40,5,4,22
+neeva,web,classroom,classroomscreen,4,40,5,1,15
+neeva,web,twitch,twitch,0,40,5,1,6
+neeva,web,twitch,twitch.tv,1,40,5,1,9
+neeva,web,twitch,twitchy,2,40,5,1,7
+neeva,web,twitch,twitch prime,3,40,5,2,12
+neeva,web,twitch,twitch recap,4,40,5,2,12
+neeva,web,meteo,meteor shower tonight,0,40,5,3,21
+neeva,web,meteo,meteor,1,40,5,1,6
+neeva,web,meteo,meteo,2,40,5,1,5
+neeva,web,meteo,meteorite,3,40,5,1,9
+neeva,web,meteo,meteo france,4,40,5,2,12
+neeva,web,home depot,home depot,0,40,5,2,10
+neeva,web,home depot,home depot official site,1,40,5,4,24
+neeva,web,home depot,homedepot.com,2,40,5,1,13
+neeva,web,home depot,home depot credit card,3,40,5,4,22
+neeva,web,home depot,home depot near me,4,40,5,4,18
+neeva,web,amazon prime,amazon prime,0,40,5,2,12
+neeva,web,amazon prime,amazon prime video,1,40,5,3,18
+neeva,web,amazon prime,amazon prime login,2,40,5,3,18
+neeva,web,amazon prime,amazon prime movies,3,40,5,3,19
+neeva,web,amazon prime,amazon prime music,4,40,5,3,18
+neeva,web,olx,olx,0,40,5,1,3
+neeva,web,olx,olx thane,1,40,5,2,9
+neeva,web,olx,olx pakistan,2,40,5,2,12
+neeva,web,olx,olx hyderabad,3,40,5,2,13
+neeva,web,olx,olx el salvador,4,40,5,3,15
+neeva,web,sarkari result,sarkari result,0,40,5,2,14
+neeva,web,sarkari result,sarkari result 2022,1,40,5,3,19
+neeva,web,sarkari result,sarkari result 2021,2,40,5,3,19
+neeva,web,sarkari result,sarkari result uptet,3,40,5,3,20
+neeva,web,sarkari result,sarkari result uppcl,4,40,5,3,20
+neeva,web,le bon coin,le bon coin,0,40,5,3,11
+neeva,web,le bon coin,le bon coin 84,1,40,5,4,14
+neeva,web,le bon coin,le bon coin 26,2,40,5,4,14
+neeva,web,le bon coin,le bon coin carqueiranne,3,40,5,4,24
+neeva,web,le bon coin,le bon coin annonce automobile,4,40,5,5,30
+neeva,web,weather tomorrow,weather tomorrow,0,40,5,2,16
+neeva,web,weather tomorrow,weather tomorrow morning,1,40,5,3,24
+neeva,web,weather tomorrow,weather tomorrow hourly,2,40,5,3,23
+neeva,web,weather tomorrow,weather tomorrow dc,3,40,5,3,19
+neeva,web,weather tomorrow,weather tomorrow nyc,4,40,5,3,20
+neeva,web,facebook login,facebook login,0,40,5,2,14
+neeva,web,facebook login,facebook login page,1,40,5,3,19
+neeva,web,facebook login,facebook login my account,2,40,5,4,25
+neeva,web,facebook login,facebook login uk,3,40,5,3,17
+neeva,web,facebook login,facebook login home,4,40,5,3,19
+bing,web,youtube,youtube website,0,36,6,2,15
+bing,web,youtube,youtube videos,1,36,6,2,14
+bing,web,youtube,youtube music,2,36,6,2,13
+bing,web,youtube,youtube kids,3,36,6,2,12
+bing,web,youtube,youtube to mp3,4,36,6,3,14
+bing,web,youtube,youtube downloader,5,36,6,2,18
+bing,web,facebook,facebook log in,0,36,6,3,15
+bing,web,facebook,facebook - log in or sign up,1,36,6,7,28
+bing,web,facebook,facebook marketplace,2,36,6,2,20
+bing,web,facebook,facebook stock,3,36,6,2,14
+bing,web,facebook,facebook lite,4,36,6,2,13
+bing,web,facebook,facebook friends,5,36,6,2,16
+bing,web,whatsapp web,whatsapp web,0,36,8,2,12
+bing,web,whatsapp web,whatsapp web login,1,36,8,3,18
+bing,web,whatsapp web,whatsapp web app,2,36,8,3,16
+bing,web,whatsapp web,whatsapp web download,3,36,8,3,21
+bing,web,whatsapp web,whatsapp web scanner,4,36,8,3,20
+bing,web,whatsapp web,whatsapp web login pc,5,36,8,4,21
+bing,web,whatsapp web,whatsapp web login pc windows 7,6,36,8,6,31
+bing,web,whatsapp web,whatsapp web login pc windows 10,7,36,8,6,32
+bing,web,google,google docs,0,36,4,2,11
+bing,web,google,google chrome,1,36,4,2,13
+bing,web,google,google drive,2,36,4,2,12
+bing,web,google,google slides,3,36,4,2,13
+bing,web,gmail,gmail login mail,0,36,7,3,16
+bing,web,gmail,gmail login,1,36,7,2,11
+bing,web,gmail,gmail inbox,2,36,7,2,11
+bing,web,gmail,gmail email,3,36,7,2,11
+bing,web,gmail,gmail inbox mail,4,36,7,3,16
+bing,web,gmail,gmail app,5,36,7,2,9
+bing,web,gmail,gmail calendar,6,36,7,2,14
+bing,web,amazon,amazon,0,36,7,1,6
+bing,web,amazon,amazon prime,1,36,7,2,12
+bing,web,amazon,amazon my account,2,36,7,3,17
+bing,web,amazon,amazon smile,3,36,7,2,12
+bing,web,amazon,amazon prime video,4,36,7,3,18
+bing,web,amazon,amazon stock,5,36,7,2,12
+bing,web,amazon,amazon associates,6,36,7,2,17
+bing,web,translate,translate,0,36,8,1,9
+bing,web,translate,translate google,1,36,8,2,16
+bing,web,translate,translate english to spanish,2,36,8,4,28
+bing,web,translate,translator,3,36,8,1,10
+bing,web,translate,translate english to russian,4,36,8,4,28
+bing,web,translate,translate to english,5,36,8,3,20
+bing,web,translate,translate google translate google,6,36,8,4,33
+bing,web,translate,translate french to english,7,36,8,4,27
+bing,web,google translate,google translate,0,36,8,2,16
+bing,web,google translate,google translate english to spanish,1,36,8,5,35
+bing,web,google translate,google translate audio,2,36,8,3,22
+bing,web,google translate,google translate english to chinese,3,36,8,5,35
+bing,web,google translate,google translate listen,4,36,8,3,23
+bing,web,google translate,google translate download free,5,36,8,4,30
+bing,web,google translate,google translate german to english,6,36,8,5,34
+bing,web,google translate,google translate for windows,7,36,8,4,28
+bing,web,traductor,traductor,0,36,8,1,9
+bing,web,traductor,traductor ingles espanol,1,36,8,3,24
+bing,web,traductor,traductor google,2,36,8,2,16
+bing,web,traductor,traductor de google,3,36,8,3,19
+bing,web,traductor,traductor espanol a ingles,4,36,8,4,26
+bing,web,traductor,traductor deepl,5,36,8,2,15
+bing,web,traductor,traductor translate,6,36,8,2,19
+bing,web,traductor,traductor ingles espanol traductor,7,36,8,4,34
+bing,web,hotmail,hotmail,0,36,8,1,7
+bing,web,hotmail,hotmail sign in,1,36,8,3,15
+bing,web,hotmail,hotmail.com login,2,36,8,2,17
+bing,web,hotmail,hotmail inbox,3,36,8,2,13
+bing,web,hotmail,hotmail email,4,36,8,2,13
+bing,web,hotmail,hotmail.com/hotmail-sign-in,5,36,8,1,27
+bing,web,hotmail,hotmail login email address,6,36,8,4,27
+bing,web,hotmail,hotmail sign in email outlook page,7,36,8,6,34
+bing,web,instagram,instagram login,0,36,7,2,15
+bing,web,instagram,instagram downloader,1,36,7,2,20
+bing,web,instagram,instagram search,2,36,7,2,16
+bing,web,instagram,instagram logo,3,36,7,2,14
+bing,web,instagram,instagram fonts,4,36,7,2,15
+bing,web,instagram,instagram 2021,5,36,7,2,14
+bing,web,instagram,instagram conner,6,36,7,2,16
+bing,web,weather,weather channel,0,36,7,2,15
+bing,web,weather,weather nyc,1,36,7,2,11
+bing,web,weather,weather forecast,2,36,7,2,16
+bing,web,weather,weather underground,3,36,7,2,19
+bing,web,weather,weather.com,4,36,7,1,11
+bing,web,weather,weathertech,5,36,7,1,11
+bing,web,weather,weather radar,6,36,7,2,13
+bing,web,netflix,netflix,0,36,8,1,7
+bing,web,netflix,netflix login,1,36,8,2,13
+bing,web,netflix,netflix movies,2,36,8,2,14
+bing,web,netflix,netflix stock,3,36,8,2,13
+bing,web,netflix,netflix download,4,36,8,2,16
+bing,web,netflix,netflix app,5,36,8,2,11
+bing,web,netflix,netflix series,6,36,8,2,14
+bing,web,netflix,netflix changs email,7,36,8,3,20
+bing,web,yahoo,yahoo,0,36,8,1,5
+bing,web,yahoo,yahoo mail,1,36,8,2,10
+bing,web,yahoo,yahoo finance,2,36,8,2,13
+bing,web,yahoo,yahoo mail login,3,36,8,3,16
+bing,web,yahoo,yahoo news,4,36,8,2,10
+bing,web,yahoo,yahoo fantasy baseball,5,36,8,3,22
+bing,web,yahoo,yahoo japan,6,36,8,2,11
+bing,web,yahoo,yahtzee,7,36,8,1,7
+bing,web,twitter,twitter,0,36,8,1,7
+bing,web,twitter,twitter login,1,36,8,2,13
+bing,web,twitter,twitter search,2,36,8,2,14
+bing,web,twitter,twitter stock,3,36,8,2,13
+bing,web,twitter,twitter video downloader,4,36,8,3,24
+bing,web,twitter,twitter logo,5,36,8,2,12
+bing,web,twitter,twitter southpaw,6,36,8,2,16
+bing,web,twitter,twitter trump,7,36,8,2,13
+bing,web,yahoo mail,yahoo mail,0,36,8,2,10
+bing,web,yahoo mail,yahoo mail login,1,36,8,3,16
+bing,web,yahoo mail,yahoo mail inbox open,2,36,8,4,21
+bing,web,yahoo mail,yahoo mail billing,3,36,8,3,18
+bing,web,yahoo mail,yahoo mail desktop view,4,36,8,4,23
+bing,web,yahoo mail,yahoo mail check my mail,5,36,8,5,24
+bing,web,yahoo mail,yahoo mail my account log in,6,36,8,6,28
+bing,web,yahoo mail,yahoo mail login home,7,36,8,4,21
+bing,web,google maps,google maps driving directions,0,36,7,4,30
+bing,web,google maps,google maps street view,1,36,7,4,23
+bing,web,google maps,google maps uk,2,36,7,3,14
+bing,web,google maps,google maps satellite,3,36,7,3,21
+bing,web,google maps,google maps 2021,4,36,7,3,16
+bing,web,google maps,google maps blaine mn,5,36,7,4,21
+bing,web,google maps,google maps satellite 2020,6,36,7,4,26
+bing,web,whatsapp,whatsapp web,0,36,8,2,12
+bing,web,whatsapp,whatsapp,1,36,8,1,8
+bing,web,whatsapp,whatsapp download,2,36,8,2,17
+bing,web,whatsapp,whatsapp web login,3,36,8,3,18
+bing,web,whatsapp,whatsapp login,4,36,8,2,14
+bing,web,whatsapp,whatsapp desktop,5,36,8,2,16
+bing,web,whatsapp,whatsapp.com,6,36,8,1,12
+bing,web,whatsapp,whatsapp business,7,36,8,2,17
+bing,web,fb,fb,0,36,8,1,2
+bing,web,fb,fb login,1,36,8,2,8
+bing,web,fb,fbi,2,36,8,1,3
+bing,web,fb,fbi most wanted,3,36,8,3,15
+bing,web,fb,fba calculator,4,36,8,2,14
+bing,web,fb,fbi tv show,5,36,8,3,11
+bing,web,fb,fbar,6,36,8,1,4
+bing,web,fb,fbisd schoology,7,36,8,2,15
+bing,web,roblox,roblox login,0,36,7,2,12
+bing,web,roblox,roblox home,1,36,7,2,11
+bing,web,roblox,roblox download,2,36,7,2,15
+bing,web,roblox,roblox studio,3,36,7,2,13
+bing,web,roblox,roblox promo codes,4,36,7,3,18
+bing,web,roblox,roblox fps unlocker,5,36,7,3,19
+bing,web,roblox,roblox gg,6,36,7,2,9
+bing,web,ebay,ebay,0,36,8,1,4
+bing,web,ebay,ebay official site,1,36,8,3,18
+bing,web,ebay,ebay motors,2,36,8,2,11
+bing,web,ebay,ebay login,3,36,8,2,10
+bing,web,ebay,ebay usa,4,36,8,2,8
+bing,web,ebay,ebay shopping,5,36,8,2,13
+bing,web,ebay,ebay seller hub,6,36,8,3,15
+bing,web,ebay,ebay classifieds,7,36,8,2,16
+bing,web,outlook,outlook login,0,36,8,2,13
+bing,web,outlook,outlook,1,36,8,1,7
+bing,web,outlook,outlook 365,2,36,8,2,11
+bing,web,outlook,outlook.com,3,36,8,1,11
+bing,web,outlook,outlook email,4,36,8,2,13
+bing,web,outlook,outlook 365 login,5,36,8,3,17
+bing,web,outlook,outlook live,6,36,8,2,12
+bing,web,outlook,outlook 365 login email 365,7,36,8,5,27
+bing,web,tradutor,tradutor,0,36,8,1,8
+bing,web,tradutor,tradutor google,1,36,8,2,15
+bing,web,tradutor,tradutor shallow,2,36,8,2,16
+bing,web,tradutor,tradutor online,3,36,8,2,15
+bing,web,tradutor,tradutor ingles portugues,4,36,8,3,25
+bing,web,tradutor,tradutor espanhol ingles,5,36,8,3,24
+bing,web,tradutor,tradutor google 2020,6,36,8,3,20
+bing,web,tradutor,tradutor coreano,7,36,8,2,16
+bing,web,google classroom,google classroom,0,36,8,2,16
+bing,web,google classroom,google classroom login,1,36,8,3,22
+bing,web,google classroom,google classroom download,2,36,8,3,25
+bing,web,google classroom,google classroom app,3,36,8,3,20
+bing,web,google classroom,google classroom student login,4,36,8,4,30
+bing,web,google classroom,google classroom login class,5,36,8,4,28
+bing,web,google classroom,google classroom class code,6,36,8,4,27
+bing,web,google classroom,google classroom meet,7,36,8,3,21
+bing,web,walmart,walmart near me,0,36,7,3,15
+bing,web,walmart,walmart in brooklyn,1,36,7,3,19
+bing,web,walmart,walmart in new york,2,36,7,4,19
+bing,web,walmart,walmart online shopping,3,36,7,3,23
+bing,web,walmart,walmart.com,4,36,7,1,11
+bing,web,walmart,walmart grocery,5,36,7,2,15
+bing,web,walmart,walmart stock,6,36,7,2,13
+bing,web,çeviri,ceviri,0,36,8,1,6
+bing,web,çeviri,çeviri,1,36,8,1,6
+bing,web,çeviri,ceviri google,2,36,8,2,13
+bing,web,çeviri,çeviri almanca,3,36,8,2,14
+bing,web,çeviri,çeviri rusça,4,36,8,2,12
+bing,web,çeviri,ceviri yandex,5,36,8,2,13
+bing,web,çeviri,çeviri arapça,6,36,8,2,13
+bing,web,çeviri,çeviri türkçe,7,36,8,2,13
+bing,web,maps,maps,0,36,8,1,4
+bing,web,maps,maps google,1,36,8,2,11
+bing,web,maps,maps bing,2,36,8,2,9
+bing,web,maps,maps directions,3,36,8,2,15
+bing,web,maps,maps mapquest,4,36,8,2,13
+bing,web,maps,mapsng,5,36,8,1,6
+bing,web,maps,maps nyc,6,36,8,2,8
+bing,web,maps,mapsource,7,36,8,1,9
+bing,web,yt,yt,0,36,8,1,2
+bing,web,yt,ytmp3,1,36,8,1,5
+bing,web,yt,yt music,2,36,8,2,8
+bing,web,yt,ytp,3,36,8,1,3
+bing,web,yt,yt5,4,36,8,1,3
+bing,web,yt,ytd,5,36,8,1,3
+bing,web,yt,yt1s,6,36,8,1,4
+bing,web,yt,ytt,7,36,8,1,3
+bing,web,satta,satta matka,0,36,7,2,11
+bing,web,satta,satta badshah 786,1,36,7,3,17
+bing,web,satta,satta king,2,36,7,2,10
+bing,web,satta,satta king 2018,3,36,7,3,15
+bing,web,satta,satta matka main mumbai chart,4,36,7,5,29
+bing,web,satta,sattazahn refuse removal inc,5,36,7,4,28
+bing,web,satta,sattar buksh,6,36,7,2,12
+bing,web,pinterest,pinterest login,0,36,7,2,15
+bing,web,pinterest,pinterest home,1,36,7,2,14
+bing,web,pinterest,pinte,2,36,7,1,5
+bing,web,pinterest,pinterest ideas,3,36,7,2,15
+bing,web,pinterest,pinterest recipes,4,36,7,2,17
+bing,web,pinterest,pinterest stock,5,36,7,2,15
+bing,web,pinterest,pinterest fool,6,36,7,2,14
+bing,web,google traduction,google traduction,0,36,8,2,17
+bing,web,google traduction,google traduction anglais francais,1,36,8,4,34
+bing,web,google traduction,google traduction francais-anglais,2,36,8,3,34
+bing,web,google traduction,google traduction english french,3,36,8,4,32
+bing,web,google traduction,google traduction texte long,4,36,8,4,28
+bing,web,google traduction,google traduction telecharger,5,36,8,3,29
+bing,web,google traduction,google traduction photo,6,36,8,3,23
+bing,web,google traduction,google traduction english arabic,7,36,8,4,32
+bing,web,speed test,speed test,0,36,8,2,10
+bing,web,speed test,speed test ookla,1,36,8,3,16
+bing,web,speed test,speed of light,2,36,8,3,14
+bing,web,speed test,speed of sound,3,36,8,3,14
+bing,web,speed test,speed city codes,4,36,8,3,16
+bing,web,speed test,speed write,5,36,8,2,11
+bing,web,speed test,speed typing test,6,36,8,3,17
+bing,web,speed test,speed racer,7,36,8,2,11
+bing,web,nba,nba finals 2022,0,36,4,3,15
+bing,web,nba,philadelphia shooting,1,36,4,2,21
+bing,web,nba,ncaa baseball tournament 2022,2,36,4,4,29
+bing,web,nba,ukraine news,3,36,4,2,12
+bing,web,flipkart,flipkart,0,36,8,1,8
+bing,web,flipkart,flipkart track order,1,36,8,3,20
+bing,web,flipkart,flipkart care number,2,36,8,3,20
+bing,web,flipkart,flipkart contact,3,36,8,2,16
+bing,web,flipkart,flipkart customer,4,36,8,2,17
+bing,web,flipkart,flipkart tracking,5,36,8,2,17
+bing,web,flipkart,flipkart subsidiaries,6,36,8,2,21
+bing,web,flipkart,flipkart head office,7,36,8,3,20
+bing,web,bbc news,bbc news,0,36,8,2,8
+bing,web,bbc news,bbc news uk,1,36,8,3,11
+bing,web,bbc news,bbc news world,2,36,8,3,14
+bing,web,bbc news,bbc news live,3,36,8,3,13
+bing,web,bbc news,bbc news russian,4,36,8,3,16
+bing,web,bbc news,bbc news scotland,5,36,8,3,17
+bing,web,bbc news,bbc news ukraine,6,36,8,3,16
+bing,web,bbc news,bbc newshour,7,36,8,2,12
+bing,web,traduction,traduction,0,36,8,1,10
+bing,web,traduction,traduction policy,1,36,8,2,17
+bing,web,traduction,traduction chems,2,36,8,2,16
+bing,web,traduction,traduction google,3,36,8,2,17
+bing,web,traduction,traduction arbitrati,4,36,8,2,20
+bing,web,traduction,traduction pourquoi,5,36,8,2,19
+bing,web,traduction,traduction nam latin,6,36,8,3,20
+bing,web,traduction,traduction sans,7,36,8,2,15
+bing,web,ikea,ikea,0,36,8,1,4
+bing,web,ikea,ikea usa,1,36,8,2,8
+bing,web,ikea,ikea furniture,2,36,8,2,14
+bing,web,ikea,ikea brooklyn,3,36,8,2,13
+bing,web,ikea,ikon pass,4,36,8,2,9
+bing,web,ikea,ikea kitchens,5,36,8,2,13
+bing,web,ikea,ikea desk,6,36,8,2,9
+bing,web,ikea,ike turner,7,36,8,2,10
+bing,web,omegle,omega,0,36,7,1,5
+bing,web,omegle,omega xl,1,36,7,2,8
+bing,web,omegle,omega watches,2,36,7,2,13
+bing,web,omegle,omegle monkey,3,36,7,2,13
+bing,web,omegle,omega ventures,4,36,7,2,14
+bing,web,omegle,omega x download,5,36,7,3,16
+bing,web,omegle,omega flowey,6,36,7,2,12
+bing,web,news,news,0,36,3,1,4
+bing,web,news,news today,1,36,3,2,10
+bing,web,news,news 12,2,36,3,2,7
+bing,web,classroom,classroom,0,36,8,1,9
+bing,web,classroom,classdojo,1,36,8,1,9
+bing,web,classroom,classroom google,2,36,8,2,16
+bing,web,classroom,class dojo login,3,36,8,3,16
+bing,web,classroom,classlink,4,36,8,1,9
+bing,web,classroom,clash royale,5,36,8,2,12
+bing,web,classroom,classical music,6,36,8,2,15
+bing,web,classroom,classmates,7,36,8,1,10
+bing,web,twitch,twitter login,0,36,6,2,13
+bing,web,twitch,twitter search,1,36,6,2,14
+bing,web,twitch,twitchy,2,36,6,1,7
+bing,web,twitch,twitter stock,3,36,6,2,13
+bing,web,twitch,twiter,4,36,6,1,6
+bing,web,twitch,twitch prime,5,36,6,2,12
+bing,web,meteo,meters to feet,0,36,8,3,14
+bing,web,meteo,meteor,1,36,8,1,6
+bing,web,meteo,meteo france,2,36,8,2,12
+bing,web,meteo,meters to miles,3,36,8,3,15
+bing,web,meteo,meters to inches,4,36,8,3,16
+bing,web,meteo,meteo rheinbach,5,36,8,2,15
+bing,web,meteo,meteo st genis laval,6,36,8,4,20
+bing,web,meteo,meteo villeneuve,7,36,8,2,16
+bing,web,home depot,home depot,0,36,8,2,10
+bing,web,home depot,home depot official site,1,36,8,4,24
+bing,web,home depot,homedepot.com,2,36,8,1,13
+bing,web,home depot,home depot credit card,3,36,8,4,22
+bing,web,home depot,home depot near me,4,36,8,4,18
+bing,web,home depot,home depot stock,5,36,8,3,16
+bing,web,home depot,home depot black friday 2021,6,36,8,5,28
+bing,web,home depot,home depot supplier hub,7,36,8,4,23
+bing,web,amazon prime,amazon prime,0,36,8,2,12
+bing,web,amazon prime,amazon prime video,1,36,8,3,18
+bing,web,amazon prime,amazon prime login,2,36,8,3,18
+bing,web,amazon prime,amazon prime movies,3,36,8,3,19
+bing,web,amazon prime,amazon prime app,4,36,8,3,16
+bing,web,amazon prime,amazon prime gaming,5,36,8,3,19
+bing,web,amazon prime,amazon prime music,6,36,8,3,18
+bing,web,amazon prime,amazon prime day 2021,7,36,8,4,21
+bing,web,olx,olx,0,36,8,1,3
+bing,web,olx,olx thane,1,36,8,2,9
+bing,web,olx,olx hyderabad,2,36,8,2,13
+bing,web,olx,olx pakistan,3,36,8,2,12
+bing,web,olx,olx polska,4,36,8,2,10
+bing,web,olx,olx cuttack,5,36,8,2,11
+bing,web,olx,olx santro,6,36,8,2,10
+bing,web,olx,olx vadodara,7,36,8,2,12
+bing,web,sarkari result,sarkari result,0,36,8,2,14
+bing,web,sarkari result,sarkari result 2022,1,36,8,3,19
+bing,web,sarkari result,sarkari result uptet,2,36,8,3,20
+bing,web,sarkari result,sarkari result 2021,3,36,8,3,19
+bing,web,sarkari result,sarkari result uppcl,4,36,8,3,20
+bing,web,sarkari result,sarkari result ssc je 2019,5,36,8,5,26
+bing,web,sarkari result,sarkari result railway group d,6,36,8,5,30
+bing,web,sarkari result,sarkari result 12th bihar board,7,36,8,5,31
+bing,web,le bon coin,le bon coin,0,36,8,3,11
+bing,web,le bon coin,le bon coin 84,1,36,8,4,14
+bing,web,le bon coin,le bon coin 26,2,36,8,4,14
+bing,web,le bon coin,le bon coin voiture auvergne,3,36,8,5,28
+bing,web,le bon coin,le bon coin carqueiranne,4,36,8,4,24
+bing,web,le bon coin,le bon coin 43,5,36,8,4,14
+bing,web,le bon coin,le bon coin location particuliers,6,36,8,5,33
+bing,web,le bon coin,le bon coin annonce automobile,7,36,8,5,30
+bing,web,weather tomorrow,weather tomorrow,0,36,8,2,16
+bing,web,weather tomorrow,weather tomorrow nyc,1,36,8,3,20
+bing,web,weather tomorrow,weather tomorrow morning,2,36,8,3,24
+bing,web,weather tomorrow,weather tomorrow nj,3,36,8,3,19
+bing,web,weather tomorrow,weather tomorrow hourly,4,36,8,3,23
+bing,web,weather tomorrow,weather tomorrow all day,5,36,8,4,24
+bing,web,weather tomorrow,weather tomorrow in birmingham,6,36,8,4,30
+bing,web,weather tomorrow,weather tomorrow in cayce,7,36,8,4,25
+bing,web,facebook login,facebook login,0,36,8,2,14
+bing,web,facebook login,facebook login page,1,36,8,3,19
+bing,web,facebook login,facebook login my account,2,36,8,4,25
+bing,web,facebook login,facebook logins free,3,36,8,3,20
+bing,web,facebook login,facebook login and password,4,36,8,4,27
+bing,web,facebook login,facebook login uk,5,36,8,3,17
+bing,web,facebook login,facebook login desktop,6,36,8,3,22
+bing,web,facebook login,facebook login page official site,7,36,8,5,33
+duckduckgo,web,youtube,youtube,0,28,8,1,7
+duckduckgo,web,youtube,yahoo,1,28,8,1,5
+duckduckgo,web,youtube,yahoo mail,2,28,8,2,10
+duckduckgo,web,youtube,youtube website,3,28,8,2,15
+duckduckgo,web,youtube,yt,4,28,8,1,2
+duckduckgo,web,youtube,yahoo finance,5,28,8,2,13
+duckduckgo,web,youtube,yankees game,6,28,8,2,12
+duckduckgo,web,youtube,youtube tv,7,28,8,2,10
+duckduckgo,web,facebook,facebook,0,28,8,1,8
+duckduckgo,web,facebook,fox news,1,28,8,2,8
+duckduckgo,web,facebook,florida lottery,2,28,8,2,15
+duckduckgo,web,facebook,french open 2022,3,28,8,3,16
+duckduckgo,web,facebook,flvs login,4,28,8,2,10
+duckduckgo,web,facebook,fidelity login,5,28,8,2,14
+duckduckgo,web,facebook,fedex,6,28,8,1,5
+duckduckgo,web,facebook,fathers day 2022,7,28,8,3,16
+duckduckgo,web,whatsapp web,wordle,0,28,8,1,6
+duckduckgo,web,whatsapp web,walmart,1,28,8,1,7
+duckduckgo,web,whatsapp web,weather,2,28,8,1,7
+duckduckgo,web,whatsapp web,washington post,3,28,8,2,15
+duckduckgo,web,whatsapp web,wells fargo login,4,28,8,3,17
+duckduckgo,web,whatsapp web,whatsapp web,5,28,8,2,12
+duckduckgo,web,whatsapp web,www.google.com,6,28,8,1,14
+duckduckgo,web,whatsapp web,wordle nytimes,7,28,8,2,14
+duckduckgo,web,google,google,0,28,8,1,6
+duckduckgo,web,google,google classroom,1,28,8,2,16
+duckduckgo,web,google,google maps,2,28,8,2,11
+duckduckgo,web,google,google docs,3,28,8,2,11
+duckduckgo,web,google,google chrome,4,28,8,2,13
+duckduckgo,web,google,google translate,5,28,8,2,16
+duckduckgo,web,google,google drive,6,28,8,2,12
+duckduckgo,web,google,google earth,7,28,8,2,12
+duckduckgo,web,gmail,google,0,28,8,1,6
+duckduckgo,web,gmail,gmail,1,28,8,1,5
+duckduckgo,web,gmail,google maps,2,28,8,2,11
+duckduckgo,web,gmail,google docs,3,28,8,2,11
+duckduckgo,web,gmail,gmail login mail,4,28,8,3,16
+duckduckgo,web,gmail,google chrome,5,28,8,2,13
+duckduckgo,web,gmail,grammarly,6,28,8,1,9
+duckduckgo,web,gmail,games,7,28,8,1,5
+duckduckgo,web,amazon,amazon,0,28,8,1,6
+duckduckgo,web,amazon,aol mail,1,28,8,2,8
+duckduckgo,web,amazon,airbnb,2,28,8,1,6
+duckduckgo,web,amazon,adp login,3,28,8,2,9
+duckduckgo,web,amazon,amber heard,4,28,8,2,11
+duckduckgo,web,amazon,alec john such,5,28,8,3,14
+duckduckgo,web,amazon,american airlines,6,28,8,2,17
+duckduckgo,web,amazon,academy sports,7,28,8,2,14
+duckduckgo,web,translate,twitch,0,28,8,1,6
+duckduckgo,web,translate,twitter,1,28,8,1,7
+duckduckgo,web,translate,target,2,28,8,1,6
+duckduckgo,web,translate,translate,3,28,8,1,9
+duckduckgo,web,translate,teams,4,28,8,1,5
+duckduckgo,web,translate,tiktok,5,28,8,1,6
+duckduckgo,web,translate,turbotax,6,28,8,1,8
+duckduckgo,web,translate,top gun maverick,7,28,8,3,16
+duckduckgo,web,google translate,google translate,0,28,8,2,16
+duckduckgo,web,google translate,google translate english to spanish,1,28,8,5,35
+duckduckgo,web,google translate,google translate audio,2,28,8,3,22
+duckduckgo,web,google translate,google translate latin,3,28,8,3,22
+duckduckgo,web,google translate,google translate listen,4,28,8,3,23
+duckduckgo,web,google translate,google translate download free,5,28,8,4,30
+duckduckgo,web,google translate,google translate english to french,6,28,8,5,34
+duckduckgo,web,google translate,google translate english to hindi,7,28,8,5,33
+duckduckgo,web,traductor,traductor,0,28,8,1,9
+duckduckgo,web,traductor,traductor google,1,28,8,2,16
+duckduckgo,web,traductor,traductor ingles espanol,2,28,8,3,24
+duckduckgo,web,traductor,traductor de google,3,28,8,3,19
+duckduckgo,web,traductor,traductor espanol a ingles,4,28,8,4,26
+duckduckgo,web,traductor,traductor deepl,5,28,8,2,15
+duckduckgo,web,traductor,traductor translate,6,28,8,2,19
+duckduckgo,web,traductor,traductor ingles espanol traductor,7,28,8,4,34
+duckduckgo,web,hotmail,home depot,0,28,8,2,10
+duckduckgo,web,hotmail,hotmail,1,28,8,1,7
+duckduckgo,web,hotmail,hulu,2,28,8,1,4
+duckduckgo,web,hotmail,hbo max,3,28,8,2,7
+duckduckgo,web,hotmail,hbomax sign in,4,28,8,3,14
+duckduckgo,web,hotmail,hsn,5,28,8,1,3
+duckduckgo,web,hotmail,hell in a cell 2022,6,28,8,5,19
+duckduckgo,web,hotmail,harbor freight,7,28,8,2,14
+duckduckgo,web,instagram,instagram,0,28,8,1,9
+duckduckgo,web,instagram,indeed,1,28,8,1,6
+duckduckgo,web,instagram,intranet,2,28,8,1,8
+duckduckgo,web,instagram,itunes,3,28,8,1,6
+duckduckgo,web,instagram,irs,4,28,8,1,3
+duckduckgo,web,instagram,ikea,5,28,8,1,4
+duckduckgo,web,instagram,iheartradio,6,28,8,1,11
+duckduckgo,web,instagram,icloud,7,28,8,1,6
+duckduckgo,web,weather,wordle,0,28,8,1,6
+duckduckgo,web,weather,walmart,1,28,8,1,7
+duckduckgo,web,weather,weather,2,28,8,1,7
+duckduckgo,web,weather,wells fargo login,3,28,8,3,17
+duckduckgo,web,weather,wordle game,4,28,8,2,11
+duckduckgo,web,weather,wordle nytimes,5,28,8,2,14
+duckduckgo,web,weather,www.google.com,6,28,8,1,14
+duckduckgo,web,weather,wikipedia,7,28,8,1,9
+duckduckgo,web,netflix,netflix,0,28,8,1,7
+duckduckgo,web,netflix,nba finals 2022,1,28,8,3,15
+duckduckgo,web,netflix,news,2,28,8,1,4
+duckduckgo,web,netflix,nba scores,3,28,8,2,10
+duckduckgo,web,netflix,navinet,4,28,8,1,7
+duckduckgo,web,netflix,nfl,5,28,8,1,3
+duckduckgo,web,netflix,nordstrom,6,28,8,1,9
+duckduckgo,web,netflix,ncaa baseball tournament 2022,7,28,8,4,29
+duckduckgo,web,yahoo,youtube,0,28,8,1,7
+duckduckgo,web,yahoo,yahoo,1,28,8,1,5
+duckduckgo,web,yahoo,yahoo mail,2,28,8,2,10
+duckduckgo,web,yahoo,youtube website,3,28,8,2,15
+duckduckgo,web,yahoo,yt,4,28,8,1,2
+duckduckgo,web,yahoo,yahoo finance,5,28,8,2,13
+duckduckgo,web,yahoo,yankees game,6,28,8,2,12
+duckduckgo,web,yahoo,youtube tv,7,28,8,2,10
+duckduckgo,web,twitter,twitch,0,28,8,1,6
+duckduckgo,web,twitter,twitter,1,28,8,1,7
+duckduckgo,web,twitter,target,2,28,8,1,6
+duckduckgo,web,twitter,translate,3,28,8,1,9
+duckduckgo,web,twitter,tiktok,4,28,8,1,6
+duckduckgo,web,twitter,td bank,5,28,8,2,7
+duckduckgo,web,twitter,turbotax,6,28,8,1,8
+duckduckgo,web,twitter,top gun maverick,7,28,8,3,16
+duckduckgo,web,yahoo mail,youtube,0,28,8,1,7
+duckduckgo,web,yahoo mail,yahoo,1,28,8,1,5
+duckduckgo,web,yahoo mail,yahoo mail,2,28,8,2,10
+duckduckgo,web,yahoo mail,youtube website,3,28,8,2,15
+duckduckgo,web,yahoo mail,yt,4,28,8,1,2
+duckduckgo,web,yahoo mail,yahoo finance,5,28,8,2,13
+duckduckgo,web,yahoo mail,youtube tv,6,28,8,2,10
+duckduckgo,web,yahoo mail,y8,7,28,8,1,2
+duckduckgo,web,google maps,google,0,28,8,1,6
+duckduckgo,web,google maps,google maps,1,28,8,2,11
+duckduckgo,web,google maps,google docs,2,28,8,2,11
+duckduckgo,web,google maps,gmail login mail,3,28,8,3,16
+duckduckgo,web,google maps,google chrome,4,28,8,2,13
+duckduckgo,web,google maps,grammarly,5,28,8,1,9
+duckduckgo,web,google maps,gas buddy,6,28,8,2,9
+duckduckgo,web,google maps,games,7,28,8,1,5
+duckduckgo,web,whatsapp,wordle,0,28,8,1,6
+duckduckgo,web,whatsapp,walmart,1,28,8,1,7
+duckduckgo,web,whatsapp,weather,2,28,8,1,7
+duckduckgo,web,whatsapp,whatsapp web,3,28,8,2,12
+duckduckgo,web,whatsapp,wells fargo,4,28,8,2,11
+duckduckgo,web,whatsapp,www.google.com,5,28,8,1,14
+duckduckgo,web,whatsapp,wordle nytimes,6,28,8,2,14
+duckduckgo,web,whatsapp,wikipedia,7,28,8,1,9
+duckduckgo,web,fb,fb,0,28,8,1,2
+duckduckgo,web,fb,fb login,1,28,8,2,8
+duckduckgo,web,fb,fb stock,2,28,8,2,8
+duckduckgo,web,fb,fbi,3,28,8,1,3
+duckduckgo,web,fb,fbcglenarden,4,28,8,1,12
+duckduckgo,web,fb,fbi most wanted,5,28,8,3,15
+duckduckgo,web,fb,fbstreams,6,28,8,1,9
+duckduckgo,web,fb,fbisd schoology,7,28,8,2,15
+duckduckgo,web,roblox,roblox,0,28,8,1,6
+duckduckgo,web,roblox,reddit,1,28,8,1,6
+duckduckgo,web,roblox,regions online login,2,28,8,3,20
+duckduckgo,web,roblox,rafael nadal,3,28,8,2,12
+duckduckgo,web,roblox,realtor,4,28,8,1,7
+duckduckgo,web,roblox,rockauto,5,28,8,1,8
+duckduckgo,web,roblox,rooms to go,6,28,8,3,11
+duckduckgo,web,roblox,restaurants near me,7,28,8,3,19
+duckduckgo,web,ebay,ebay,0,28,8,1,4
+duckduckgo,web,ebay,espn,1,28,8,1,4
+duckduckgo,web,ebay,etsy,2,28,8,1,4
+duckduckgo,web,ebay,expedia,3,28,8,1,7
+duckduckgo,web,ebay,espn+ login,4,28,8,2,11
+duckduckgo,web,ebay,epic games,5,28,8,2,10
+duckduckgo,web,ebay,email,6,28,8,1,5
+duckduckgo,web,ebay,ezpassnj,7,28,8,1,8
+duckduckgo,web,outlook,outlook login,0,28,8,2,13
+duckduckgo,web,outlook,outlook,1,28,8,1,7
+duckduckgo,web,outlook,omegle,2,28,8,1,6
+duckduckgo,web,outlook,office depot,3,28,8,2,12
+duckduckgo,web,outlook,onedrive,4,28,8,1,8
+duckduckgo,web,outlook,old navy,5,28,8,2,8
+duckduckgo,web,outlook,our florida,6,28,8,2,11
+duckduckgo,web,outlook,oreillys,7,28,8,1,8
+duckduckgo,web,tradutor,tradutor,0,28,8,1,8
+duckduckgo,web,tradutor,tradutor google,1,28,8,2,15
+duckduckgo,web,tradutor,tradutor shallow,2,28,8,2,16
+duckduckgo,web,tradutor,tradutor ingles portugues,3,28,8,3,25
+duckduckgo,web,tradutor,tradutor online,4,28,8,2,15
+duckduckgo,web,tradutor,tradutor espanhol ingles,5,28,8,3,24
+duckduckgo,web,tradutor,tradutor google 2020,6,28,8,3,20
+duckduckgo,web,tradutor,tradutor coreano,7,28,8,2,16
+duckduckgo,web,google classroom,google classroom,0,28,8,2,16
+duckduckgo,web,google classroom,google classroom login,1,28,8,3,22
+duckduckgo,web,google classroom,google classroom student login,2,28,8,4,30
+duckduckgo,web,google classroom,google classroom apps,3,28,8,3,21
+duckduckgo,web,google classroom,google classroom download,4,28,8,3,25
+duckduckgo,web,google classroom,google classroom class code,5,28,8,4,27
+duckduckgo,web,google classroom,google classroom login students account,6,28,8,5,39
+duckduckgo,web,google classroom,google classroom student login classroom,7,28,8,5,40
+duckduckgo,web,walmart,walmart,0,28,8,1,7
+duckduckgo,web,walmart,walmart.com,1,28,8,1,11
+duckduckgo,web,walmart,walmart online shopping,2,28,8,3,23
+duckduckgo,web,walmart,walmart near me,3,28,8,3,15
+duckduckgo,web,walmart,walmart grocery,4,28,8,2,15
+duckduckgo,web,walmart,walmart pharmacy,5,28,8,2,16
+duckduckgo,web,walmart,walmart stock,6,28,8,2,13
+duckduckgo,web,walmart,walmart black friday 2021,7,28,8,4,25
+duckduckgo,web,çeviri,ceviri,0,28,8,1,6
+duckduckgo,web,çeviri,çeviri,1,28,8,1,6
+duckduckgo,web,çeviri,ceviri google,2,28,8,2,13
+duckduckgo,web,çeviri,çeviri almanca,3,28,8,2,14
+duckduckgo,web,çeviri,çeviri rusça,4,28,8,2,12
+duckduckgo,web,çeviri,ceviri yandex,5,28,8,2,13
+duckduckgo,web,çeviri,çeviri arapça,6,28,8,2,13
+duckduckgo,web,çeviri,çeviri türkçe,7,28,8,2,13
+duckduckgo,web,maps,msn,0,28,8,1,3
+duckduckgo,web,maps,maps,1,28,8,1,4
+duckduckgo,web,maps,macy's,2,28,8,1,6
+duckduckgo,web,maps,minecraft,3,28,8,1,9
+duckduckgo,web,maps,meghan markle,4,28,8,2,13
+duckduckgo,web,maps,mlb standings 2022,5,28,8,3,18
+duckduckgo,web,maps,m&t bank,6,28,8,2,8
+duckduckgo,web,maps,mlb scores,7,28,8,2,10
+duckduckgo,web,yt,youtube,0,28,8,1,7
+duckduckgo,web,yt,yahoo,1,28,8,1,5
+duckduckgo,web,yt,yahoo mail,2,28,8,2,10
+duckduckgo,web,yt,youtube website,3,28,8,2,15
+duckduckgo,web,yt,yt,4,28,8,1,2
+duckduckgo,web,yt,yahoo finance,5,28,8,2,13
+duckduckgo,web,yt,yankees game,6,28,8,2,12
+duckduckgo,web,yt,yy,7,28,8,1,2
+duckduckgo,web,satta,satta matka,0,28,8,2,11
+duckduckgo,web,satta,satta king,1,28,8,2,10
+duckduckgo,web,satta,satta badshah 786,2,28,8,3,17
+duckduckgo,web,satta,sattar,3,28,8,1,6
+duckduckgo,web,satta,satta king 2018,4,28,8,3,15
+duckduckgo,web,satta,satta matka main mumbai chart,5,28,8,5,29
+duckduckgo,web,satta,sattazahn refuse removal inc,6,28,8,4,28
+duckduckgo,web,satta,sattar buksh,7,28,8,2,12
+duckduckgo,web,pinterest,pnc,0,28,8,1,3
+duckduckgo,web,pinterest,peacock login,1,28,8,2,13
+duckduckgo,web,pinterest,pinterest,2,28,8,1,9
+duckduckgo,web,pinterest,pubmed,3,28,8,1,6
+duckduckgo,web,pinterest,pa lottery,4,28,8,2,10
+duckduckgo,web,pinterest,paypal,5,28,8,1,6
+duckduckgo,web,pinterest,paramount plus login,6,28,8,3,20
+duckduckgo,web,pinterest,pandora,7,28,8,1,7
+duckduckgo,web,google traduction,google traduction,0,28,8,2,17
+duckduckgo,web,google traduction,google traduction francais-anglais,1,28,8,3,34
+duckduckgo,web,google traduction,google traduction francais anglais,2,28,8,4,34
+duckduckgo,web,google traduction,google traduction english french,3,28,8,4,32
+duckduckgo,web,google traduction,google traduction texte long,4,28,8,4,28
+duckduckgo,web,google traduction,google traduction telecharger,5,28,8,3,29
+duckduckgo,web,google traduction,google traduction photo,6,28,8,3,23
+duckduckgo,web,google traduction,google traduction english arabic,7,28,8,4,32
+duckduckgo,web,speed test,spotify,0,28,8,1,7
+duckduckgo,web,speed test,sam's club,1,28,8,2,10
+duckduckgo,web,speed test,shein,2,28,8,1,5
+duckduckgo,web,speed test,steam,3,28,8,1,5
+duckduckgo,web,speed test,spectrum,4,28,8,1,8
+duckduckgo,web,speed test,speed test,5,28,8,2,10
+duckduckgo,web,speed test,solitaire,6,28,8,1,9
+duckduckgo,web,speed test,secu,7,28,8,1,4
+duckduckgo,web,nba,netflix,0,28,8,1,7
+duckduckgo,web,nba,nba finals 2022,1,28,8,3,15
+duckduckgo,web,nba,news,2,28,8,1,4
+duckduckgo,web,nba,navinet,3,28,8,1,7
+duckduckgo,web,nba,ncaa baseball tournament 2022,4,28,8,4,29
+duckduckgo,web,nba,nhl,5,28,8,1,3
+duckduckgo,web,nba,nfl,6,28,8,1,3
+duckduckgo,web,nba,newsmax,7,28,8,1,7
+duckduckgo,web,flipkart,flipkart,0,28,8,1,8
+duckduckgo,web,flipkart,flipkart contact,1,28,8,2,16
+duckduckgo,web,flipkart,flipkart online shopping,2,28,8,3,24
+duckduckgo,web,flipkart,flipkart track order,3,28,8,3,20
+duckduckgo,web,flipkart,flipkart customer,4,28,8,2,17
+duckduckgo,web,flipkart,flipkart account,5,28,8,2,16
+duckduckgo,web,flipkart,flipkart head office,6,28,8,3,20
+duckduckgo,web,flipkart,flipkart digiflip pro,7,28,8,3,21
+duckduckgo,web,bbc news,bbc news,0,28,8,2,8
+duckduckgo,web,bbc news,bbc news uk,1,28,8,3,11
+duckduckgo,web,bbc news,bbc news world,2,28,8,3,14
+duckduckgo,web,bbc news,bbc news live,3,28,8,3,13
+duckduckgo,web,bbc news,bbc news scotland,4,28,8,3,17
+duckduckgo,web,bbc news,bbc newshour,5,28,8,2,12
+duckduckgo,web,bbc news,bbc news ukraine,6,28,8,3,16
+duckduckgo,web,bbc news,bbc news uk live radio tv,7,28,8,6,25
+duckduckgo,web,traduction,traduction,0,28,8,1,10
+duckduckgo,web,traduction,traduction google,1,28,8,2,17
+duckduckgo,web,traduction,traduction policy,2,28,8,2,17
+duckduckgo,web,traduction,traduction arbitrati,3,28,8,2,20
+duckduckgo,web,traduction,traduction chems,4,28,8,2,16
+duckduckgo,web,traduction,traduction pourquoi,5,28,8,2,19
+duckduckgo,web,traduction,traduction sans,6,28,8,2,15
+duckduckgo,web,traduction,traduction bunny,7,28,8,2,16
+duckduckgo,web,ikea,instagram,0,28,8,1,9
+duckduckgo,web,ikea,indeed,1,28,8,1,6
+duckduckgo,web,ikea,itunes,2,28,8,1,6
+duckduckgo,web,ikea,irs,3,28,8,1,3
+duckduckgo,web,ikea,ikea,4,28,8,1,4
+duckduckgo,web,ikea,icloud,5,28,8,1,6
+duckduckgo,web,ikea,imdb,6,28,8,1,4
+duckduckgo,web,ikea,identifix,7,28,8,1,9
+duckduckgo,web,omegle,outlook login,0,28,8,2,13
+duckduckgo,web,omegle,outlook,1,28,8,1,7
+duckduckgo,web,omegle,omegle,2,28,8,1,6
+duckduckgo,web,omegle,office 365 login,3,28,8,3,16
+duckduckgo,web,omegle,old navy,4,28,8,2,8
+duckduckgo,web,omegle,optimum,5,28,8,1,7
+duckduckgo,web,omegle,origin,6,28,8,1,6
+duckduckgo,web,omegle,orbitz,7,28,8,1,6
+duckduckgo,web,news,news,0,28,8,1,4
+duckduckgo,web,news,newsmax,1,28,8,1,7
+duckduckgo,web,news,news today,2,28,8,2,10
+duckduckgo,web,news,newsmax tv,3,28,8,2,10
+duckduckgo,web,news,newsela,4,28,8,1,7
+duckduckgo,web,news,newsweek,5,28,8,1,8
+duckduckgo,web,news,newsday,6,28,8,1,7
+duckduckgo,web,news,news google,7,28,8,2,11
+duckduckgo,web,classroom,classroom,0,28,8,1,9
+duckduckgo,web,classroom,classroom google,1,28,8,2,16
+duckduckgo,web,classroom,classroom timer,2,28,8,2,15
+duckduckgo,web,classroom,classroom screen,3,28,8,2,16
+duckduckgo,web,classroom,classroom of the elite,4,28,8,4,22
+duckduckgo,web,classroom,classroom login,5,28,8,2,15
+duckduckgo,web,classroom,classroom dojo,6,28,8,2,14
+duckduckgo,web,classroom,classroom app,7,28,8,2,13
+duckduckgo,web,twitch,twitch,0,28,8,1,6
+duckduckgo,web,twitch,twitter,1,28,8,1,7
+duckduckgo,web,twitch,target,2,28,8,1,6
+duckduckgo,web,twitch,translate,3,28,8,1,9
+duckduckgo,web,twitch,tiktok,4,28,8,1,6
+duckduckgo,web,twitch,turbotax,5,28,8,1,8
+duckduckgo,web,twitch,td bank,6,28,8,2,7
+duckduckgo,web,twitch,top gun maverick,7,28,8,3,16
+duckduckgo,web,meteo,meteor,0,28,8,1,6
+duckduckgo,web,meteo,meteo,1,28,8,1,5
+duckduckgo,web,meteo,meteor shower,2,28,8,2,13
+duckduckgo,web,meteo,meteo lille,3,28,8,2,11
+duckduckgo,web,meteo,meteo lesneven,4,28,8,2,14
+duckduckgo,web,meteo,meteo france,5,28,8,2,12
+duckduckgo,web,meteo,meteorite,6,28,8,1,9
+duckduckgo,web,meteo,meteor client,7,28,8,2,13
+duckduckgo,web,home depot,home depot,0,28,8,2,10
+duckduckgo,web,home depot,hotmail,1,28,8,1,7
+duckduckgo,web,home depot,hulu,2,28,8,1,4
+duckduckgo,web,home depot,hbo max,3,28,8,2,7
+duckduckgo,web,home depot,hac,4,28,8,1,3
+duckduckgo,web,home depot,hbomax sign in,5,28,8,3,14
+duckduckgo,web,home depot,hilton honors log in,6,28,8,4,20
+duckduckgo,web,home depot,harbor freight,7,28,8,2,14
+duckduckgo,web,amazon prime,amazon prime,0,28,8,2,12
+duckduckgo,web,amazon prime,amazon prime video,1,28,8,3,18
+duckduckgo,web,amazon prime,amazon prime login,2,28,8,3,18
+duckduckgo,web,amazon prime,amazon prime movies,3,28,8,3,19
+duckduckgo,web,amazon prime,amazon prime gaming,4,28,8,3,19
+duckduckgo,web,amazon prime,amazon prime music,5,28,8,3,18
+duckduckgo,web,amazon prime,amazon prime tv,6,28,8,3,15
+duckduckgo,web,amazon prime,amazon prime day 2021,7,28,8,4,21
+duckduckgo,web,olx,olx,0,28,8,1,3
+duckduckgo,web,olx,olx thane,1,28,8,2,9
+duckduckgo,web,olx,olx hyderabad,2,28,8,2,13
+duckduckgo,web,olx,olx vadodara,3,28,8,2,12
+duckduckgo,web,olx,olx cuttack,4,28,8,2,11
+duckduckgo,web,olx,olx santro,5,28,8,2,10
+duckduckgo,web,olx,olx oman,6,28,8,2,8
+duckduckgo,web,olx,olx lebanon,7,28,8,2,11
+duckduckgo,web,sarkari result,sarkari result,0,28,8,2,14
+duckduckgo,web,sarkari result,sarkari result 2022,1,28,8,3,19
+duckduckgo,web,sarkari result,sarkari result uptet,2,28,8,3,20
+duckduckgo,web,sarkari result,sarkari result 2021,3,28,8,3,19
+duckduckgo,web,sarkari result,sarkari result uppcl,4,28,8,3,20
+duckduckgo,web,sarkari result,sarkari result ssc je 2019,5,28,8,5,26
+duckduckgo,web,sarkari result,sarkari result 12th bihar board,6,28,8,5,31
+duckduckgo,web,sarkari result,sarkari result railway group d,7,28,8,5,30
+duckduckgo,web,le bon coin,le bon coin,0,28,8,3,11
+duckduckgo,web,le bon coin,le bon coin 84,1,28,8,4,14
+duckduckgo,web,le bon coin,le bon coin 26,2,28,8,4,14
+duckduckgo,web,le bon coin,le bon coin 43,3,28,8,4,14
+duckduckgo,web,le bon coin,le bon coin carqueiranne,4,28,8,4,24
+duckduckgo,web,le bon coin,le bon coin voiture auvergne,5,28,8,5,28
+duckduckgo,web,le bon coin,le bon coin annonce automobile,6,28,8,5,30
+duckduckgo,web,le bon coin,le bon coin location particuliers,7,28,8,5,33
+duckduckgo,web,weather tomorrow,weather tomorrow,0,28,8,2,16
+duckduckgo,web,weather tomorrow,weather tomorrow hourly,1,28,8,3,23
+duckduckgo,web,weather tomorrow,weather tomorrow nyc,2,28,8,3,20
+duckduckgo,web,weather tomorrow,weather tomorrow morning,3,28,8,3,24
+duckduckgo,web,weather tomorrow,weather tomorrow all day,4,28,8,4,24
+duckduckgo,web,weather tomorrow,weather tomorrow in birmingham,5,28,8,4,30
+duckduckgo,web,weather tomorrow,weather tomorrow in cayce,6,28,8,4,25
+duckduckgo,web,weather tomorrow,weather tomorrow evening,7,28,8,3,24
+duckduckgo,web,facebook login,facebook login,0,28,8,2,14
+duckduckgo,web,facebook login,facebook login page,1,28,8,3,19
+duckduckgo,web,facebook login,facebook login my account,2,28,8,4,25
+duckduckgo,web,facebook login,facebook login home,3,28,8,3,19
+duckduckgo,web,facebook login,facebook login uk,4,28,8,3,17
+duckduckgo,web,facebook login,facebook logins free,5,28,8,3,20
+duckduckgo,web,facebook login,facebook login desktop,6,28,8,3,22
+duckduckgo,web,facebook login,facebook login page official site,7,28,8,5,33
+yahoo,web,youtube,YouTube,0,32,10,1,7
+yahoo,web,youtube,YouTube Music,1,32,10,2,13
+yahoo,web,youtube,YouTube Kids,2,32,10,2,12
+yahoo,web,youtube,youtube movies,3,32,10,2,14
+yahoo,web,youtube,www.youtube.com,4,32,10,1,15
+yahoo,web,youtube,youtube to mp3,5,32,10,3,14
+yahoo,web,youtube,YouTube TV,6,32,10,2,10
+yahoo,web,youtube,youtube.com videos,7,32,10,2,18
+yahoo,web,youtube,youtube downloader,8,32,10,2,18
+yahoo,web,youtube,youtube to mp4,9,32,10,3,14
+yahoo,web,facebook,Facebook,0,32,10,1,8
+yahoo,web,facebook,"Facebook Inc
+
+Web Services",1,44,10,4,26
+yahoo,web,facebook,facebook log in to facebook,2,32,10,5,27
+yahoo,web,facebook,facebook marketplace,3,32,10,2,20
+yahoo,web,facebook,facebook messenger,4,32,10,2,18
+yahoo,web,facebook,facebook sign up,5,32,10,3,16
+yahoo,web,facebook,facebook app,6,32,10,2,12
+yahoo,web,facebook,facebook search,7,32,10,2,15
+yahoo,web,facebook,facebook friends,8,32,10,2,16
+yahoo,web,facebook,facebook iniciar sesion,9,32,10,3,23
+yahoo,web,whatsapp web,WhatsApp,0,32,10,1,8
+yahoo,web,whatsapp web,www.whatsappweb.com,1,32,10,1,19
+yahoo,web,whatsapp web,whatsapp web whatsapp web,2,32,10,4,25
+yahoo,web,whatsapp web,whatsapp web download,3,32,10,3,21
+yahoo,web,whatsapp web,whatsapp web scan from phone,4,32,10,5,28
+yahoo,web,whatsapp web,whatsapp web download pc windows 10,5,32,10,6,35
+yahoo,web,whatsapp web,whatsapp web video call,6,32,10,4,23
+yahoo,web,whatsapp web,whatsapp website,7,32,10,2,16
+yahoo,web,whatsapp web,whatsapp web download pc windows 7,8,32,10,6,34
+yahoo,web,whatsapp web,whatsapp web login with phone number,9,32,10,6,36
+yahoo,web,google,Google,0,32,10,1,6
+yahoo,web,google,Google Chrome,1,32,10,2,13
+yahoo,web,google,google maps street view location,2,32,10,5,32
+yahoo,web,google,Google Maps,3,32,10,2,11
+yahoo,web,google,Google Translate,4,32,10,2,16
+yahoo,web,google,Google Docs,5,32,10,2,11
+yahoo,web,google,google classroom,6,32,10,2,16
+yahoo,web,google,Google Drive,7,32,10,2,12
+yahoo,web,google,Google Scholar,8,32,10,2,14
+yahoo,web,google,Google Earth,9,32,10,2,12
+yahoo,web,gmail,Gmail,0,32,10,1,5
+yahoo,web,gmail,gmail inbox,1,32,10,2,11
+yahoo,web,gmail,gmail.com gmail account,2,32,10,3,23
+yahoo,web,gmail,gmail.com login sign email,3,32,10,4,26
+yahoo,web,gmail,gmail account,4,32,10,2,13
+yahoo,web,gmail,gmail sign up,5,32,10,3,13
+yahoo,web,gmail,gmail inbox sign in gmail,6,32,10,5,25
+yahoo,web,gmail,www.gmail.com,7,32,10,1,13
+yahoo,web,gmail,gmail.com,8,32,10,1,9
+yahoo,web,gmail,gmail login,9,32,10,2,11
+yahoo,web,amazon,Amazon,0,32,9,1,6
+yahoo,web,amazon,amazon stock,1,32,9,2,12
+yahoo,web,amazon,Amazon Prime Video,2,32,9,3,18
+yahoo,web,amazon,amazon.com shopping,3,32,9,2,19
+yahoo,web,amazon,amazon smile,4,32,9,2,12
+yahoo,web,amazon,Amazon Books,5,32,9,2,12
+yahoo,web,amazon,Amazon Music,6,32,9,2,12
+yahoo,web,amazon,amazon.com/mytv,7,32,9,1,15
+yahoo,web,amazon,amazon video,8,32,9,2,12
+yahoo,web,translate,translate,0,32,10,1,9
+yahoo,web,translate,translate english to spanish,1,32,10,4,28
+yahoo,web,translate,Google Translate,2,32,10,2,16
+yahoo,web,translate,translate english to tagalog,3,32,10,4,28
+yahoo,web,translate,translate french to english,4,32,10,4,27
+yahoo,web,translate,translate english to urdu,5,32,10,4,25
+yahoo,web,translate,translate english to hindi,6,32,10,4,26
+yahoo,web,translate,translate german to english,7,32,10,4,27
+yahoo,web,translate,translate italian to english,8,32,10,4,28
+yahoo,web,translate,translate chinese to english,9,32,10,4,28
+yahoo,web,google translate,Google Translate,0,32,10,2,16
+yahoo,web,google translate,google translate english to spanish,1,32,10,5,35
+yahoo,web,google translate,www.google.translate.com,2,32,10,1,24
+yahoo,web,google translate,google translate french to english,3,32,10,5,34
+yahoo,web,google translate,google translate english to tagalog,4,32,10,5,35
+yahoo,web,google translate,google translate english to chinese,5,32,10,5,35
+yahoo,web,google translate,google translate english to japanese,6,32,10,5,36
+yahoo,web,google translate,google translate english to hindi,7,32,10,5,33
+yahoo,web,google translate,google translate english to arabic,8,32,10,5,34
+yahoo,web,google translate,google translate german to english,9,32,10,5,34
+yahoo,web,traductor,traductor de ingles y espanol,0,32,10,5,29
+yahoo,web,traductor,traductor,1,32,10,1,9
+yahoo,web,traductor,traductor google,2,32,10,2,16
+yahoo,web,traductor,traductor google traductor espanol ingles,3,32,10,5,41
+yahoo,web,traductor,traductor ingles spanish,4,32,10,3,24
+yahoo,web,traductor,traductor en ingles,5,32,10,3,19
+yahoo,web,traductor,traductor el mundo,6,32,10,3,18
+yahoo,web,traductor,traductor gratis,7,32,10,2,16
+yahoo,web,traductor,traductor google gratis,8,32,10,3,23
+yahoo,web,traductor,traductor english-spanish,9,32,10,2,25
+yahoo,web,hotmail,hotmail,0,32,10,1,7
+yahoo,web,hotmail,hotmail inbox,1,32,10,2,13
+yahoo,web,hotmail,hotmail.com sign in email,2,32,10,4,25
+yahoo,web,hotmail,hotmail email,3,32,10,2,13
+yahoo,web,hotmail,hotmail entrar,4,32,10,2,14
+yahoo,web,hotmail,hotmail sign in hotmail email,5,32,10,5,29
+yahoo,web,hotmail,www.hotmail.com login inbox,6,32,10,3,27
+yahoo,web,hotmail,hotmail account,7,32,10,2,15
+yahoo,web,hotmail,hotmail inicio de sesion,8,32,10,4,24
+yahoo,web,hotmail,hotmail.com msn hotmail,9,32,10,3,23
+yahoo,web,instagram,Instagram,0,32,10,1,9
+yahoo,web,instagram,www.instagram.com,1,32,10,1,17
+yahoo,web,instagram,instagram sign up,2,32,10,3,17
+yahoo,web,instagram,instagram download,3,32,10,2,18
+yahoo,web,instagram,instagram.com accounts login,4,32,10,3,28
+yahoo,web,instagram,instagram logo,5,32,10,2,14
+yahoo,web,instagram,instagram video downloader,6,32,10,3,26
+yahoo,web,instagram,instagram app,7,32,10,2,13
+yahoo,web,instagram,instagram search,8,32,10,2,16
+yahoo,web,instagram,instagram fonts,9,32,10,2,15
+yahoo,web,weather,weather,0,32,10,1,7
+yahoo,web,weather,weather tomorrow,1,32,10,2,16
+yahoo,web,weather,The Weather Channel,2,32,10,3,19
+yahoo,web,weather,weather nyc,3,32,10,2,11
+yahoo,web,weather,weather underground,4,32,10,2,19
+yahoo,web,weather,weather forecast 10 day,5,32,10,4,23
+yahoo,web,weather,weather radar,6,32,10,2,13
+yahoo,web,weather,www.weather.com,7,32,10,1,15
+yahoo,web,weather,weather forecast,8,32,10,2,16
+yahoo,web,weather,weathertech.com,9,32,10,1,15
+yahoo,web,netflix,Netflix,0,32,10,1,7
+yahoo,web,netflix,netflix.com your account,1,32,10,3,24
+yahoo,web,netflix,www.netflix.com,2,32,10,1,15
+yahoo,web,netflix,netflix movies,3,32,10,2,14
+yahoo,web,netflix,netflix series,4,32,10,2,14
+yahoo,web,netflix,netflix download,5,32,10,2,16
+yahoo,web,netflix,netflix login member,6,32,10,3,20
+yahoo,web,netflix,netflix party,7,32,10,2,13
+yahoo,web,netflix,netflix account,8,32,10,2,15
+yahoo,web,netflix,"netflix stock
+
+Finance",9,44,10,3,22
+yahoo,web,yahoo,Yahoo!,0,32,10,1,6
+yahoo,web,yahoo,Yahoo! Mail,1,32,10,2,11
+yahoo,web,yahoo,Yahoo! Finance,2,32,10,2,14
+yahoo,web,yahoo,Yahoo! News,3,32,10,2,11
+yahoo,web,yahoo,yahoo mail login in,4,32,10,4,19
+yahoo,web,yahoo,Yahoo! Sports,5,32,10,2,13
+yahoo,web,yahoo,Yahoo! Japan,6,32,10,2,12
+yahoo,web,yahoo,yahoo fantasy baseball,7,32,10,3,22
+yahoo,web,yahoo,yahoo horoscopes,8,32,10,2,16
+yahoo,web,yahoo,yahoo weather,9,32,10,2,13
+yahoo,web,twitter,Twitter,0,32,10,1,7
+yahoo,web,twitter,https://twitter.com/,1,32,10,1,20
+yahoo,web,twitter,twitter search,2,32,10,2,14
+yahoo,web,twitter,"twitter stock
+
+Finance",3,44,10,3,22
+yahoo,web,twitter,twitter video downloader,4,32,10,3,24
+yahoo,web,twitter,twitter logo,5,32,10,2,12
+yahoo,web,twitter,twitter login twitter sign up,6,32,10,5,29
+yahoo,web,twitter,twitter download,7,32,10,2,16
+yahoo,web,twitter,twitter trending,8,32,10,2,16
+yahoo,web,twitter,twitter sign up,9,32,10,3,15
+yahoo,web,yahoo mail,Yahoo! Mail,0,32,10,2,11
+yahoo,web,yahoo mail,yahoo mail login in,1,32,10,4,19
+yahoo,web,yahoo mail,yahoo mail inbox yahoo mail,2,32,10,5,27
+yahoo,web,yahoo mail,yahoo mail login inbox mail,3,32,10,5,27
+yahoo,web,yahoo mail,yahoo mail app,4,32,10,3,14
+yahoo,web,yahoo mail,yahoo mail problems,5,32,10,3,19
+yahoo,web,yahoo mail,yahoo mail inbox sign into my account,6,32,10,7,37
+yahoo,web,yahoo mail,yahoo mail login inbox mail messages email,7,32,10,7,42
+yahoo,web,yahoo mail,yahoo mail inbox yahoo mail login in screen,8,32,10,8,43
+yahoo,web,yahoo mail,yahoo mail inbox yahoo mail download,9,32,10,6,36
+yahoo,web,google maps,Google Maps,0,32,10,2,11
+yahoo,web,google maps,google maps street view location,1,32,10,5,32
+yahoo,web,google maps,google maps driving directions,2,32,10,4,30
+yahoo,web,google maps,google maps mapquest,3,32,10,3,20
+yahoo,web,google maps,google maps google earth,4,32,10,4,24
+yahoo,web,google maps,google maps&directions,5,32,10,2,22
+yahoo,web,google maps,google maps satellite,6,32,10,3,21
+yahoo,web,google maps,google maps app,7,32,10,3,15
+yahoo,web,google maps,google maps street view of my house,8,32,10,7,35
+yahoo,web,google maps,google maps 2021,9,32,10,3,16
+yahoo,web,whatsapp,WhatsApp,0,32,9,1,8
+yahoo,web,whatsapp,www.whatsappweb.com,1,32,9,1,19
+yahoo,web,whatsapp,whatsapp download,2,32,9,2,17
+yahoo,web,whatsapp,whatsapp.com web,3,32,9,2,16
+yahoo,web,whatsapp,whatsapp for pc,4,32,9,3,15
+yahoo,web,whatsapp,whatsapp desktop,5,32,9,2,16
+yahoo,web,whatsapp,whatsapp web whatsapp web,6,32,9,4,25
+yahoo,web,whatsapp,whatsapp app,7,32,9,2,12
+yahoo,web,whatsapp,www.whatsapp.com,8,32,9,1,16
+yahoo,web,fb,Facebook,0,32,9,1,8
+yahoo,web,fb,fb login facebook,1,32,9,3,17
+yahoo,web,fb,"FBI
+
+TV Series (2018)",2,44,9,4,21
+yahoo,web,fb,"fb stock
+
+Finance",3,44,9,3,17
+yahoo,web,fb,"FBI: Most Wanted
+
+TV Series (2020)",4,44,9,6,34
+yahoo,web,fb,fbise,5,32,9,1,5
+yahoo,web,fb,fb lite,6,32,9,2,7
+yahoo,web,fb,fbr,7,32,9,1,3
+yahoo,web,fb,fbisd,8,32,9,1,5
+yahoo,web,roblox,"Roblox
+
+VideoGame",0,44,10,2,17
+yahoo,web,roblox,roblox studio,1,32,10,2,13
+yahoo,web,roblox,www.roblox.com,2,32,10,1,14
+yahoo,web,roblox,roblox download,3,32,10,2,15
+yahoo,web,roblox,roblox home,4,32,10,2,11
+yahoo,web,roblox,roblox promo codes,5,32,10,3,18
+yahoo,web,roblox,roblox support,6,32,10,2,14
+yahoo,web,roblox,roblox sign up,7,32,10,3,14
+yahoo,web,roblox,roblox games,8,32,10,2,12
+yahoo,web,roblox,roblox shirt template,9,32,10,3,21
+yahoo,web,ebay,eBay,0,32,10,1,4
+yahoo,web,ebay,www.ebay.com,1,32,10,1,12
+yahoo,web,ebay,ebay motors,2,32,10,2,11
+yahoo,web,ebay,ebay shopping,3,32,10,2,13
+yahoo,web,ebay,ebay store,4,32,10,2,10
+yahoo,web,ebay,ebay motors car & truck,5,32,10,5,23
+yahoo,web,ebay,ebay motors classic cars,6,32,10,4,24
+yahoo,web,ebay,ebay official site online auction,7,32,10,5,33
+yahoo,web,ebay,ebay auction,8,32,10,2,12
+yahoo,web,ebay,ebay motors parts,9,32,10,3,17
+yahoo,web,outlook,outlook 365,0,32,10,2,11
+yahoo,web,outlook,outlook,1,32,10,1,7
+yahoo,web,outlook,outlook email,2,32,10,2,13
+yahoo,web,outlook,outlook.office365.com,3,32,10,1,21
+yahoo,web,outlook,outlook.com sign in email,4,32,10,4,25
+yahoo,web,outlook,www.outlook.com,5,32,10,1,15
+yahoo,web,outlook,outlook 365 login email account,6,32,10,5,31
+yahoo,web,outlook,outlook.com email,7,32,10,2,17
+yahoo,web,outlook,outlook office 365 login,8,32,10,4,24
+yahoo,web,outlook,Outlook Express,9,32,10,2,15
+yahoo,web,tradutor,tradutor,0,32,10,1,8
+yahoo,web,tradutor,tradutor ingles portugues,1,32,10,3,25
+yahoo,web,tradutor,traductor,2,32,10,1,9
+yahoo,web,tradutor,traductor google,3,32,10,2,16
+yahoo,web,tradutor,traductor de ingles y espanol,4,32,10,5,29
+yahoo,web,tradutor,tradutor ingles,5,32,10,2,15
+yahoo,web,tradutor,tradutor frances portugues,6,32,10,3,26
+yahoo,web,tradutor,tradutor portugues espanhol,7,32,10,3,27
+yahoo,web,tradutor,tradutor do google,8,32,10,3,18
+yahoo,web,tradutor,traductor google traductor espanol ingles,9,32,10,5,41
+yahoo,web,google classroom,google classroom,0,32,10,2,16
+yahoo,web,google classroom,http://googleclassroom.com,1,32,10,1,26
+yahoo,web,google classroom,google classroom for students login,2,32,10,5,35
+yahoo,web,google classroom,google classroom download,3,32,10,3,25
+yahoo,web,google classroom,google classroom sign up,4,32,10,4,24
+yahoo,web,google classroom,google classroom tutorial,5,32,10,3,25
+yahoo,web,google classroom,google classroom sign in to classroom student,6,32,10,7,45
+yahoo,web,google classroom,google classroom app,7,32,10,3,20
+yahoo,web,google classroom,google classroom for students login to class,8,32,10,7,44
+yahoo,web,google classroom,google classrooms,9,32,10,2,17
+yahoo,web,walmart,"Walmart
+
+Department Stores",0,44,10,3,26
+yahoo,web,walmart,Walmart,1,32,10,1,7
+yahoo,web,walmart,www.walmart.com,2,32,10,1,15
+yahoo,web,walmart,"Walmart Supercenter
+
+Department Stores",3,44,10,4,38
+yahoo,web,walmart,walmart near me,4,32,10,3,15
+yahoo,web,walmart,walmart grocery,5,32,10,2,15
+yahoo,web,walmart,"Walmart Pharmacy
+
+Pharmacies",6,44,10,3,28
+yahoo,web,walmart,walmart careers,7,32,10,2,15
+yahoo,web,walmart,walmart photo,8,32,10,2,13
+yahoo,web,walmart,walmart credit card login,9,32,10,4,25
+yahoo,web,çeviri,çeviri,0,32,10,1,6
+yahoo,web,çeviri,çeviri ingilizce türkçe,1,32,10,3,23
+yahoo,web,çeviri,çevirici,2,32,10,1,8
+yahoo,web,çeviri,çeviri google,3,32,10,2,13
+yahoo,web,çeviri,çeviri almanca,4,32,10,2,14
+yahoo,web,çeviri,çeviri sözlük,5,32,10,2,13
+yahoo,web,çeviri,çeviri yandex,6,32,10,2,13
+yahoo,web,çeviri,çeviri translate,7,32,10,2,16
+yahoo,web,çeviri,çeviri türkçe,8,32,10,2,13
+yahoo,web,çeviri,çeviri arapça türkçe,9,32,10,3,20
+yahoo,web,maps,"maps
+
+Finance",0,44,10,2,13
+yahoo,web,maps,yahoo maps,1,32,10,2,10
+yahoo,web,maps,Google Maps,2,32,10,2,11
+yahoo,web,maps,maps and directions,3,32,10,3,19
+yahoo,web,maps,maps mapquest,4,32,10,2,13
+yahoo,web,maps,maps.google.com directions,5,32,10,2,26
+yahoo,web,maps,maps driving directions,6,32,10,3,23
+yahoo,web,maps,maps street view,7,32,10,3,16
+yahoo,web,maps,maps google driving directions,8,32,10,4,30
+yahoo,web,maps,maps of the world,9,32,10,4,17
+yahoo,web,yt,YouTube,0,32,10,1,7
+yahoo,web,yt,yt mp3,1,32,10,2,6
+yahoo,web,yt,ytmp3 cc converter,2,32,10,3,18
+yahoo,web,yt,YouTube Music,3,32,10,2,13
+yahoo,web,yt,yts movies,4,32,10,2,10
+yahoo,web,yt,yt1s,5,32,10,1,4
+yahoo,web,yt,yt to mp4,6,32,10,3,9
+yahoo,web,yt,yt studio,7,32,10,2,9
+yahoo,web,yt,ytb youtube,8,32,10,2,11
+yahoo,web,yt,ytmp3 convert,9,32,10,2,13
+yahoo,web,satta,"Satta
+
+Movie (2003)",0,44,10,3,19
+yahoo,web,satta,satta king,1,32,10,2,10
+yahoo,web,satta,satta matka,2,32,10,2,11
+yahoo,web,satta,satta matka 143,3,32,10,3,15
+yahoo,web,satta,satta king 786,4,32,10,3,14
+yahoo,web,satta,satta matka guessing,5,32,10,3,20
+yahoo,web,satta,satta king desawar,6,32,10,3,18
+yahoo,web,satta,satta king result,7,32,10,3,17
+yahoo,web,satta,satta matka result,8,32,10,3,18
+yahoo,web,satta,satta king fast,9,32,10,3,15
+yahoo,web,pinterest,Pinterest,0,32,10,1,9
+yahoo,web,pinterest,www.pinterest.com,1,32,10,1,17
+yahoo,web,pinterest,pinterest home,2,32,10,2,14
+yahoo,web,pinterest,pinterest recipes,3,32,10,2,17
+yahoo,web,pinterest,pinterest.com crafts,4,32,10,2,20
+yahoo,web,pinterest,pinterest app,5,32,10,2,13
+yahoo,web,pinterest,pinterest crafts,6,32,10,2,16
+yahoo,web,pinterest,pinterest home decor ideas,7,32,10,4,26
+yahoo,web,pinterest,pinterest.com recipes,8,32,10,2,21
+yahoo,web,pinterest,pinterest logo,9,32,10,2,14
+yahoo,web,google traduction,google traduction,0,32,10,2,17
+yahoo,web,google traduction,google traduction francais arabe,1,32,10,4,32
+yahoo,web,google traduction,google traduction anglais francais,2,32,10,4,34
+yahoo,web,google traduction,Google Translate,3,32,10,2,16
+yahoo,web,google traduction,google traduction anglais arabe,4,32,10,4,31
+yahoo,web,google traduction,google traduction gratuite,5,32,10,3,26
+yahoo,web,google traduction,google traduction espagnol francais,6,32,10,4,35
+yahoo,web,google traduction,google traduction francais arabe en ligne,7,32,10,6,41
+yahoo,web,google traduction,google traduction arabe francais gratuit,8,32,10,5,40
+yahoo,web,google traduction,google traduction anglais francais gratuit,9,32,10,5,42
+yahoo,web,speed test,speedtest.net,0,32,10,1,13
+yahoo,web,speed test,speed test,1,32,10,2,10
+yahoo,web,speed test,speedtest.net by ookla,2,32,10,3,22
+yahoo,web,speed test,speed test internet,3,32,10,3,19
+yahoo,web,speed test,speed test google,4,32,10,3,17
+yahoo,web,speed test,speed test spectrum,5,32,10,3,19
+yahoo,web,speed test,speedtest.comcast.net,6,32,10,1,21
+yahoo,web,speed test,speed test xfinity,7,32,10,3,18
+yahoo,web,speed test,speedtest.net free,8,32,10,2,18
+yahoo,web,speed test,speed test comcast,9,32,10,3,18
+yahoo,web,nba,nba scores,0,32,10,2,10
+yahoo,web,nba,nba finals schedule,1,32,10,3,19
+yahoo,web,nba,nba finals 2022,2,32,10,3,15
+yahoo,web,nba,nba finals 2022 scores,3,32,10,4,22
+yahoo,web,nba,nba playoffs today,4,32,10,3,18
+yahoo,web,nba,nba playoffs 2022 schedule,5,32,10,4,26
+yahoo,web,nba,nba playoffs,6,32,10,2,12
+yahoo,web,nba,nba finals,7,32,10,2,10
+yahoo,web,nba,nba games today,8,32,10,3,15
+yahoo,web,nba,nba standings,9,32,10,2,13
+yahoo,web,flipkart,Flipkart,0,32,10,1,8
+yahoo,web,flipkart,flipkart.com india shopping,1,32,10,3,27
+yahoo,web,flipkart,www.flipkart.com,2,32,10,1,16
+yahoo,web,flipkart,flipkart sellers login,3,32,10,3,22
+yahoo,web,flipkart,flipkart india,4,32,10,2,14
+yahoo,web,flipkart,flipkart.com india,5,32,10,2,18
+yahoo,web,flipkart,flipkart customer care number,6,32,10,4,29
+yahoo,web,flipkart,flipkart shopping,7,32,10,2,17
+yahoo,web,flipkart,flipkart seller dashboard,8,32,10,3,25
+yahoo,web,flipkart,flipkart sale,9,32,10,2,13
+yahoo,web,bbc news,bbc news,0,32,10,2,8
+yahoo,web,bbc news,BBC World News,1,32,10,3,14
+yahoo,web,bbc news,bbcnews.com,2,32,10,1,11
+yahoo,web,bbc news,bbc news live,3,32,10,3,13
+yahoo,web,bbc news,bbc news today,4,32,10,3,14
+yahoo,web,bbc news,bbc news ni,5,32,10,3,11
+yahoo,web,bbc news,bbc news headlines,6,32,10,3,18
+yahoo,web,bbc news,bbc news urdu,7,32,10,3,13
+yahoo,web,bbc news,bbc news sport,8,32,10,3,14
+yahoo,web,bbc news,"BBC World News America
+
+TV Series (2007)",9,44,10,7,40
+yahoo,web,traduction,traduction,0,32,10,1,10
+yahoo,web,traduction,traduction google,1,32,10,2,17
+yahoo,web,traduction,traduction francais en anglais,2,32,10,4,30
+yahoo,web,traduction,traduction francais en arabe,3,32,10,4,28
+yahoo,web,traduction,traduction neerlandais francais,4,32,10,3,31
+yahoo,web,traduction,traduction anglais francais google,5,32,10,4,34
+yahoo,web,traduction,traduction anglais,6,32,10,2,18
+yahoo,web,traduction,traduction anglais arabe,7,32,10,3,24
+yahoo,web,traduction,traduction google francais arabe,8,32,10,4,32
+yahoo,web,traduction,traduction en anglais,9,32,10,3,21
+yahoo,web,ikea,"Ikea
+
+Home Furnishings",0,44,10,3,22
+yahoo,web,ikea,IKEA,1,32,10,1,4
+yahoo,web,ikea,ikea furniture,2,32,10,2,14
+yahoo,web,ikea,ikea.com - united states,3,32,10,4,24
+yahoo,web,ikea,ikea near me,4,32,10,3,12
+yahoo,web,ikea,ikea kitchen cabinets,5,32,10,3,21
+yahoo,web,ikea,ikea desk,6,32,10,2,9
+yahoo,web,ikea,ikea locations,7,32,10,2,14
+yahoo,web,ikea,ikea dresser,8,32,10,2,12
+yahoo,web,ikea,ikea hours,9,32,10,2,10
+yahoo,web,omegle,Omegle,0,32,10,1,6
+yahoo,web,omegle,omegle.com talk to strangers,1,32,10,4,28
+yahoo,web,omegle,omegle tv,2,32,10,2,9
+yahoo,web,omegle,omegle video chat,3,32,10,3,17
+yahoo,web,omegle,omegle app,4,32,10,2,10
+yahoo,web,omegle,omegle.com video chat,5,32,10,3,21
+yahoo,web,omegle,omegle girls,6,32,10,2,12
+yahoo,web,omegle,omegle talk to strangers,7,32,10,4,24
+yahoo,web,omegle,omegle video call,8,32,10,3,17
+yahoo,web,omegle,omegle alternative,9,32,10,2,18
+yahoo,web,news,"News Corporation
+
+Television",0,44,10,3,28
+yahoo,web,news,newsmax,1,32,10,1,7
+yahoo,web,news,news 12 westchester ny,2,32,10,4,22
+yahoo,web,news,news today,3,32,10,2,10
+yahoo,web,news,newspapers.com,4,32,10,1,14
+yahoo,web,news,newsmax news breaking news,5,32,10,4,26
+yahoo,web,news,Newsela,6,32,10,1,7
+yahoo,web,news,"Newsday
+
+Newspapers",7,44,10,2,19
+yahoo,web,news,"News 12 Long Island
+
+TV Series (1986)",8,44,10,7,37
+yahoo,web,news,newsweek,9,32,10,1,8
+yahoo,web,classroom,classroom,0,32,10,1,9
+yahoo,web,classroom,classroom google,1,32,10,2,16
+yahoo,web,classroom,classroom screen,2,32,10,2,16
+yahoo,web,classroom,classroom timer,3,32,10,2,15
+yahoo,web,classroom,classroom of the elite,4,32,10,4,22
+yahoo,web,classroom,classroom rules,5,32,10,2,15
+yahoo,web,classroom,classroom management,6,32,10,2,20
+yahoo,web,classroom,classroom.google.com student,7,32,10,2,28
+yahoo,web,classroom,classroom management strategies,8,32,10,3,31
+yahoo,web,classroom,classroom background,9,32,10,2,20
+yahoo,web,twitch,Twitch (service),0,32,9,2,16
+yahoo,web,twitch,twitch.tv,1,32,9,1,9
+yahoo,web,twitch,twitch prime,2,32,9,2,12
+yahoo,web,twitch,https://www.twitch.tv/activate,3,32,9,1,30
+yahoo,web,twitch,twitch download,4,32,9,2,15
+yahoo,web,twitch,Twitchy,5,32,9,1,7
+yahoo,web,twitch,twitch runes,6,32,9,2,12
+yahoo,web,twitch,twitch logo,7,32,9,2,11
+yahoo,web,twitch,twitch build,8,32,9,2,12
+yahoo,web,meteo,"Meteo
+
+Movie (1990)",0,44,10,3,19
+yahoo,web,meteo,meteor shower may 2022,1,32,10,4,22
+yahoo,web,meteo,meteor shower tonight,2,32,10,3,21
+yahoo,web,meteo,meteor shower,3,32,10,2,13
+yahoo,web,meteo,meteoradar,4,32,10,1,10
+yahoo,web,meteo,meteo.gr,5,32,10,1,8
+yahoo,web,meteo,meteo france,6,32,10,2,12
+yahoo,web,meteo,"Meteor
+
+Movie (1979)",7,44,10,3,20
+yahoo,web,meteo,meteorite,8,32,10,1,9
+yahoo,web,meteo,MétéoMédia,9,32,10,1,10
+yahoo,web,home depot,The Home Depot,0,32,10,3,14
+yahoo,web,home depot,"The Home Depot
+
+Home & Garden Retailers",1,44,10,7,39
+yahoo,web,home depot,home depot near me,2,32,10,4,18
+yahoo,web,home depot,home depot memorial day sale,3,32,10,5,28
+yahoo,web,home depot,home depot credit card,4,32,10,4,22
+yahoo,web,home depot,home depot stores products,5,32,10,4,26
+yahoo,web,home depot,home depot appliances,6,32,10,3,21
+yahoo,web,home depot,home depot careers,7,32,10,3,18
+yahoo,web,home depot,home depot garden center,8,32,10,4,24
+yahoo,web,home depot,home depot hours,9,32,10,3,16
+yahoo,web,amazon prime,amazon prime video movies,0,32,9,4,25
+yahoo,web,amazon prime,Amazon Prime Video,1,32,9,3,18
+yahoo,web,amazon prime,amazon prime login member,2,32,9,4,25
+yahoo,web,amazon prime,amazon prime tv,3,32,9,3,15
+yahoo,web,amazon prime,Amazon Music,4,32,9,2,12
+yahoo,web,amazon prime,amazon prime membership,5,32,9,3,23
+yahoo,web,amazon prime,amazon prime video streaming,6,32,9,4,28
+yahoo,web,amazon prime,amazon prime books,7,32,9,3,18
+yahoo,web,amazon prime,amazon prime day,8,32,9,3,16
+yahoo,web,olx,OLX,0,32,10,1,3
+yahoo,web,olx,www.olx.com,1,32,10,1,11
+yahoo,web,olx,olx.ro,2,32,10,1,6
+yahoo,web,olx,olx.pt,3,32,10,1,6
+yahoo,web,olx,olx.ba,4,32,10,1,6
+yahoo,web,olx,olx.pl,5,32,10,1,6
+yahoo,web,olx,olx indonesia,6,32,10,2,13
+yahoo,web,olx,olx.co.id,7,32,10,1,9
+yahoo,web,olx,olx.bg,8,32,10,1,6
+yahoo,web,olx,olx.com pakistan,9,32,10,2,16
+yahoo,web,sarkari result,sarkariresult.com,0,32,10,1,17
+yahoo,web,sarkari result,sarkari result,1,32,10,2,14
+yahoo,web,sarkari result,sarkari result 2022,2,32,10,3,19
+yahoo,web,sarkari result,sarkari result online form,3,32,10,4,26
+yahoo,web,sarkari result,sarkariresult.com jobs,4,32,10,2,22
+yahoo,web,sarkari result,sarkari result admit card,5,32,10,4,25
+yahoo,web,sarkari result,sarkariresult.com admit card,6,32,10,3,28
+yahoo,web,sarkari result,sarkari result hindi,7,32,10,3,20
+yahoo,web,sarkari result,sarkari result ccc,8,32,10,3,18
+yahoo,web,sarkari result,sarkari result info,9,32,10,3,19
+yahoo,web,le bon coin,Leboncoin,0,32,10,1,9
+yahoo,web,le bon coin,leboncoin.fr,1,32,10,1,12
+yahoo,web,le bon coin,le bon coin annonces,2,32,10,4,20
+yahoo,web,le bon coin,leboncoin.fr toute la france,3,32,10,4,28
+yahoo,web,le bon coin,leboncoin.fr immobilier,4,32,10,2,23
+yahoo,web,le bon coin,le bon coin immobilier,5,32,10,4,22
+yahoo,web,le bon coin,le bon coin belgique,6,32,10,4,20
+yahoo,web,le bon coin,leboncoin.com,7,32,10,1,13
+yahoo,web,le bon coin,le bon coin bretagne,8,32,10,4,20
+yahoo,web,le bon coin,le bon coin voiture,9,32,10,4,19
+yahoo,web,weather tomorrow,weather tomorrow,0,32,10,2,16
+yahoo,web,weather tomorrow,weather tomorrow nyc,1,32,10,3,20
+yahoo,web,weather tomorrow,weather tomorrow at my location,2,32,10,5,31
+yahoo,web,weather tomorrow,weather tomorrow hourly,3,32,10,3,23
+yahoo,web,weather tomorrow,weather tomorrow morning,4,32,10,3,24
+yahoo,web,weather tomorrow,weather tomorrow buffalo ny,5,32,10,4,27
+yahoo,web,weather tomorrow,weather tomorrow all day,6,32,10,4,24
+yahoo,web,weather tomorrow,weather tomorrow night,7,32,10,3,22
+yahoo,web,weather tomorrow,weather tomorrow near me,8,32,10,4,24
+yahoo,web,weather tomorrow,weather tomorrow hourly forecast,9,32,10,4,32
+yahoo,web,facebook login,facebook login,0,32,10,2,14
+yahoo,web,facebook login,facebook login in my account,1,32,10,5,28
+yahoo,web,facebook login,facebook login and password page,2,32,10,5,32
+yahoo,web,facebook login,facebook login page my facebook,3,32,10,5,31
+yahoo,web,facebook login,facebook login in facebook sign up,4,32,10,6,34
+yahoo,web,facebook login,facebook login problems,5,32,10,3,23
+yahoo,web,facebook login,facebook login news feed,6,32,10,4,24
+yahoo,web,facebook login,facebook login page user,7,32,10,4,24
+yahoo,web,facebook login,facebook login page my facebook friends,8,32,10,6,39
+yahoo,web,facebook login,facebook login home page full site fac,9,32,10,7,38
+amazon,ecom,youtube,8K UHD 4320p,0,42,15,3,12
+amazon,ecom,youtube,4K 2160p,1,42,15,2,8
+amazon,ecom,youtube,FHD 1080p,2,42,15,2,9
+amazon,ecom,youtube,HD 720p,3,42,15,2,7
+amazon,ecom,youtube,youtube camera,4,35,15,2,14
+amazon,ecom,youtube,youtube camera in Electronics,5,35,15,4,29
+amazon,ecom,youtube,youtube camera for vlogging,6,35,15,4,27
+amazon,ecom,youtube,youtube,7,35,15,1,7
+amazon,ecom,youtube,youtube starter kit,8,35,15,3,19
+amazon,ecom,youtube,youtube microphone,9,35,15,2,18
+amazon,ecom,youtube,youtube lighting,10,35,15,2,16
+amazon,ecom,youtube,youtube tv streaming device,11,35,15,4,27
+amazon,ecom,youtube,youtuber kit for beginners,12,35,15,4,26
+amazon,ecom,youtube,youtube secrets,13,35,15,2,15
+amazon,ecom,youtube,youtube play button,14,35,15,3,19
+amazon,ecom,facebook,facebook portal,0,35,11,2,15
+amazon,ecom,facebook,facebook portal in Electronics,1,35,11,4,30
+amazon,ecom,facebook,facebook portal tv,2,35,11,3,18
+amazon,ecom,facebook,facebook,3,35,11,1,8
+amazon,ecom,facebook,facebook portal go,4,35,11,3,18
+amazon,ecom,facebook,facebook portal 10 inch,5,35,11,4,23
+amazon,ecom,facebook,facebook glasses,6,35,11,2,16
+amazon,ecom,facebook,facebook portal plus,7,35,11,3,20
+amazon,ecom,facebook,facebook portal plus 15.6,8,35,11,4,25
+amazon,ecom,facebook,facebook jail repeat offender tshirt,9,35,11,5,36
+amazon,ecom,facebook,facebook jail repeat offender,10,35,11,4,29
+amazon,ecom,whatsapp web,whatsapp web,0,35,4,2,12
+amazon,ecom,whatsapp web,whatsapp web in Apps & Games,1,35,4,6,28
+amazon,ecom,whatsapp web,whatsapp web plus,2,35,4,3,17
+amazon,ecom,whatsapp web,webcam whatsapp tv,3,35,4,3,18
+amazon,ecom,google,google play gift card email delivery,0,35,11,6,36
+amazon,ecom,google,google play gift card email delivery in Gift Cards,1,35,11,9,50
+amazon,ecom,google,google play gift card,2,35,11,4,21
+amazon,ecom,google,google nest,3,35,11,2,11
+amazon,ecom,google,google pixel 6 case,4,35,11,4,19
+amazon,ecom,google,google chromecast,5,35,11,2,17
+amazon,ecom,google,google play,6,35,11,2,11
+amazon,ecom,google,google home,7,35,11,2,11
+amazon,ecom,google,google nest thermostat,8,35,11,3,22
+amazon,ecom,google,google pixel 6 pro case,9,35,11,5,23
+amazon,ecom,google,google,10,35,11,1,6
+amazon,ecom,gmail,gmail,0,35,11,1,5
+amazon,ecom,gmail,gmail in Apps & Games,1,35,11,5,21
+amazon,ecom,gmail,gmail.com,2,35,11,1,9
+amazon,ecom,gmail,gmail for dummies 2022,3,35,11,4,22
+amazon,ecom,gmail,gmail sign in,4,35,11,3,13
+amazon,ecom,gmail,gmail for dummies 2021,5,35,11,4,22
+amazon,ecom,gmail,gmail.com login,6,35,11,2,15
+amazon,ecom,gmail,gmail for dummies,7,35,11,3,17
+amazon,ecom,gmail,gmai,8,35,11,1,4
+amazon,ecom,gmail,gmail for seniors,9,35,11,3,17
+amazon,ecom,gmail,gmail google gift cards,10,35,11,4,23
+amazon,ecom,amazon,amazon gift card,0,35,11,3,16
+amazon,ecom,amazon,amazon gift card in Gift Cards,1,35,11,6,30
+amazon,ecom,amazon,amazon,2,35,11,1,6
+amazon,ecom,amazon,amazon fire stick,3,35,11,3,17
+amazon,ecom,amazon,amazon fresh groceries delivery,4,35,11,4,31
+amazon,ecom,amazon,amazon prime,5,35,11,2,12
+amazon,ecom,amazon,amazon smile,6,35,11,2,12
+amazon,ecom,amazon,amazon basics,7,35,11,2,13
+amazon,ecom,amazon,amazon gift cards digital,8,35,11,4,25
+amazon,ecom,amazon,amazon warehouse sale clearance,9,35,11,4,31
+amazon,ecom,amazon,amazon fire tablet,10,35,11,3,18
+amazon,ecom,translate,Under $25,0,42,16,2,9
+amazon,ecom,translate,$25 to $50,1,42,16,3,10
+amazon,ecom,translate,$50 to $100,2,42,16,3,11
+amazon,ecom,translate,$100 to $200,3,42,16,3,12
+amazon,ecom,translate,$200 & Above,4,42,16,3,12
+amazon,ecom,translate,translator device,5,35,16,2,17
+amazon,ecom,translate,translator device in Office Products,6,35,16,5,36
+amazon,ecom,translate,translator,7,35,16,1,10
+amazon,ecom,translate,translator earbuds,8,35,16,2,18
+amazon,ecom,translate,translation device,9,35,16,2,18
+amazon,ecom,translate,translator device no wifi needed,10,35,16,5,32
+amazon,ecom,translate,translators devices for all languages,11,35,16,5,37
+amazon,ecom,translate,translate device,12,35,16,2,16
+amazon,ecom,translate,translation earbuds,13,35,16,2,19
+amazon,ecom,translate,translation headphones,14,35,16,2,22
+amazon,ecom,translate,translating myself and others by jhumpa lahiri,15,35,16,7,46
+amazon,ecom,google translate,google translating earbuds,0,35,10,3,26
+amazon,ecom,google translate,google translate,1,35,10,2,16
+amazon,ecom,google translate,google translate glasses,2,35,10,3,24
+amazon,ecom,google translate,google translator,3,35,10,2,17
+amazon,ecom,google translate,google translation glasses,4,35,10,3,26
+amazon,ecom,google translate,google translate earbuds,5,35,10,3,24
+amazon,ecom,google translate,google translating glasses,6,35,10,3,26
+amazon,ecom,google translate,google translate app,7,35,10,3,20
+amazon,ecom,google translate,google translator device,8,35,10,3,24
+amazon,ecom,google translate,google translate device,9,35,10,3,23
+amazon,ecom,traductor,traductor de idiomas en tiempo real,0,35,10,6,35
+amazon,ecom,traductor,traductor de voz instantaneo,1,35,10,4,28
+amazon,ecom,traductor,traductor,2,35,10,1,9
+amazon,ecom,traductor,traductores instantaneos inteligentes,3,35,10,3,37
+amazon,ecom,traductor,traductor de idiomas en tiempo real sin internet,4,35,10,8,48
+amazon,ecom,traductor,traductor de idiomas,5,35,10,3,20
+amazon,ecom,traductor,traductor de voz instantaneo sin internet,6,35,10,6,41
+amazon,ecom,traductor,traductor de ingles a espanol,7,35,10,5,29
+amazon,ecom,traductor,traductores,8,35,10,1,11
+amazon,ecom,traductor,traductor earbuds,9,35,10,2,17
+amazon,ecom,hotmail,hotmail.com,0,35,10,1,11
+amazon,ecom,hotmail,hotmail,1,35,10,1,7
+amazon,ecom,hotmail,hotmail.com login,2,35,10,2,17
+amazon,ecom,hotmail,hotmail.com sign in,3,35,10,3,19
+amazon,ecom,hotmail,hotmail sign in,4,35,10,3,15
+amazon,ecom,hotmail,hotmail.com outlook,5,35,10,2,19
+amazon,ecom,hotmail,hotmail glasses,6,35,10,2,15
+amazon,ecom,hotmail,hotmail gaming chair,7,35,10,3,20
+amazon,ecom,hotmail,hotmail.fr,8,35,10,1,10
+amazon,ecom,hotmail,hotmail the perfect fit leggin,9,35,10,5,30
+amazon,ecom,instagram,instagram decal for car,0,35,10,4,23
+amazon,ecom,instagram,instagram stickers,1,35,10,2,18
+amazon,ecom,instagram,instagram,2,35,10,1,9
+amazon,ecom,instagram,instagram photo booth frame,3,35,10,4,27
+amazon,ecom,instagram,instagram lighting ring,4,35,10,3,23
+amazon,ecom,instagram,instagram decal,5,35,10,2,15
+amazon,ecom,instagram,instagram for dummies 2022,6,35,10,4,26
+amazon,ecom,instagram,instagram stickers for cars,7,35,10,4,27
+amazon,ecom,instagram,instagram outfits for women,8,35,10,4,27
+amazon,ecom,instagram,instagram follower counter,9,35,10,3,26
+amazon,ecom,weather,Up to $25,0,42,15,3,9
+amazon,ecom,weather,$25 to $50,1,42,15,3,10
+amazon,ecom,weather,$50 to $100,2,42,15,3,11
+amazon,ecom,weather,$100 to $200,3,42,15,3,12
+amazon,ecom,weather,$200 & above,4,42,15,3,12
+amazon,ecom,weather,weather station,5,35,15,2,15
+amazon,ecom,weather,weather radio,6,35,15,2,13
+amazon,ecom,weather,weathertech floor mats,7,35,15,3,22
+amazon,ecom,weather,weather stripping,8,35,15,2,17
+amazon,ecom,weather,weathertech cup phone holder for car,9,35,15,6,36
+amazon,ecom,weather,weathertech,10,35,15,1,11
+amazon,ecom,weather,weather stripping door seal,11,35,15,4,27
+amazon,ecom,weather,weather stations wireless indoor outdoor,12,35,15,5,40
+amazon,ecom,weather,weather tech cup holder for iphone,13,35,15,6,34
+amazon,ecom,weather,weather station with rain gauge and wind speed,14,35,15,8,46
+amazon,ecom,netflix,netflix gift cards,0,35,11,3,18
+amazon,ecom,netflix,netflix gift cards in Gift Cards,1,35,11,6,32
+amazon,ecom,netflix,netflix,2,35,11,1,7
+amazon,ecom,netflix,netflix gift cards e-mail delivery,3,35,11,5,34
+amazon,ecom,netflix,netflix subscription 1 year,4,35,11,4,27
+amazon,ecom,netflix,netflix gift cards e-mail delivery 1 year,5,35,11,7,41
+amazon,ecom,netflix,netflix book,6,35,11,2,12
+amazon,ecom,netflix,netflix card,7,35,11,2,12
+amazon,ecom,netflix,netflix tv,8,35,11,2,10
+amazon,ecom,netflix,netflix coloring book,9,35,11,3,21
+amazon,ecom,netflix,netflix remote control for tv,10,35,11,5,29
+amazon,ecom,yahoo,yahoo,0,35,10,1,5
+amazon,ecom,yahoo,yahoo chocolate milk,1,35,10,3,20
+amazon,ecom,yahoo,yahoo chocolate milk 32 pack,2,35,10,5,28
+amazon,ecom,yahoo,yahoo.com,3,35,10,1,9
+amazon,ecom,yahoo,yahoo chocolate drink,4,35,10,3,21
+amazon,ecom,yahoo,yahoo chocolate milk ebt eligible,5,35,10,5,33
+amazon,ecom,yahoo,yahoo strawberry milk,6,35,10,3,21
+amazon,ecom,yahoo,yahoo mail,7,35,10,2,10
+amazon,ecom,yahoo,yahoo drink,8,35,10,2,11
+amazon,ecom,yahoo,yahoo heart rate monitor,9,35,10,4,24
+amazon,ecom,twitter,twitter car audio,0,35,10,3,17
+amazon,ecom,twitter,twitter tapestry,1,35,10,2,16
+amazon,ecom,twitter,twittering birds never fly,2,35,10,4,26
+amazon,ecom,twitter,twitter,3,35,10,1,7
+amazon,ecom,twitter,twitter quote tapestry,4,35,10,3,22
+amazon,ecom,twitter,twitter flags,5,35,10,2,13
+amazon,ecom,twitter,twitter for dummies 2022,6,35,10,4,24
+amazon,ecom,twitter,twittering birds never fly vol 7,7,35,10,6,32
+amazon,ecom,twitter,twitter quote flags,8,35,10,3,19
+amazon,ecom,twitter,twitter flags for room teen,9,35,10,5,27
+amazon,ecom,yahoo mail,yahoo mail,0,35,11,2,10
+amazon,ecom,yahoo mail,yahoo mail in Apps & Games,1,35,11,6,26
+amazon,ecom,yahoo mail,yahoo mail login,2,35,11,3,16
+amazon,ecom,yahoo mail,yahoo mail inbox,3,35,11,3,16
+amazon,ecom,yahoo mail,yahoo mail login sign in,4,35,11,5,24
+amazon,ecom,yahoo mail,yahoo mail app,5,35,11,3,14
+amazon,ecom,yahoo mail,yahoo mail sign in,6,35,11,4,18
+amazon,ecom,yahoo mail,yahoo mail.com,7,35,11,2,14
+amazon,ecom,yahoo mail,my yahoo mail,8,35,11,3,13
+amazon,ecom,yahoo mail,mail yahoo com,9,35,11,3,14
+amazon,ecom,yahoo mail,why apple mail isn t as popular as gmail or yahoo mail,10,35,11,12,54
+amazon,ecom,google maps,google maps gps navigation,0,35,10,4,26
+amazon,ecom,google maps,google maps,1,35,10,2,11
+amazon,ecom,google maps,google maps gps,2,35,10,3,15
+amazon,ecom,google maps,google maps gps navigation for car,3,35,10,6,34
+amazon,ecom,google maps,google maps for car,4,35,10,4,19
+amazon,ecom,google maps,google maps gps tracking,5,35,10,4,24
+amazon,ecom,google maps,google maps hud,6,35,10,3,15
+amazon,ecom,google maps,google maps watch,7,35,10,3,17
+amazon,ecom,google maps,google maps handheld gps devices,8,35,10,5,32
+amazon,ecom,google maps,google maps navigation for car,9,35,10,5,30
+amazon,ecom,whatsapp,whatsapp video call device,0,35,10,4,26
+amazon,ecom,whatsapp,whatsapp,1,35,10,1,8
+amazon,ecom,whatsapp,whatsapp phone,2,35,10,2,14
+amazon,ecom,whatsapp,whatsapp download,3,35,10,2,17
+amazon,ecom,whatsapp,whatsapp messenger,4,35,10,2,18
+amazon,ecom,whatsapp,whatsapp app,5,35,10,2,12
+amazon,ecom,whatsapp,whatsapp sim card,6,35,10,3,17
+amazon,ecom,whatsapp,whatsapp tablet,7,35,10,2,15
+amazon,ecom,whatsapp,whatsapp download install,8,35,10,3,25
+amazon,ecom,whatsapp,whatsapp messenger download app free,9,35,10,5,36
+amazon,ecom,fb,fbsport,0,35,10,1,7
+amazon,ecom,fb,fb county,1,35,10,2,9
+amazon,ecom,fb,fbi,2,35,10,1,3
+amazon,ecom,fb,fbi badge,3,35,10,2,9
+amazon,ecom,fb,fbsport inflatable paddle board,4,35,10,4,31
+amazon,ecom,fb,fb sport paddle board,5,35,10,4,21
+amazon,ecom,fb,fbi shirt,6,35,10,2,9
+amazon,ecom,fb,fbi jacket,7,35,10,2,10
+amazon,ecom,fb,fbi hat,8,35,10,2,7
+amazon,ecom,fb,fba labels,9,35,10,2,10
+amazon,ecom,roblox,roblox gift card,0,35,10,3,16
+amazon,ecom,roblox,roblox,1,35,10,1,6
+amazon,ecom,roblox,roblox digital gift card,2,35,10,4,24
+amazon,ecom,roblox,roblox gift card digital code,3,35,10,5,29
+amazon,ecom,roblox,roblox toys,4,35,10,2,11
+amazon,ecom,roblox,roblox birthday party supplies,5,35,10,4,30
+amazon,ecom,roblox,roblox card,6,35,10,2,11
+amazon,ecom,roblox,roblox party supplies,7,35,10,3,21
+amazon,ecom,roblox,roblox gift card 20,8,35,10,4,19
+amazon,ecom,roblox,roblox gift card 25,9,35,10,4,19
+amazon,ecom,ebay,ebags,0,35,10,1,5
+amazon,ecom,ebay,ebanel numb520,1,35,10,2,14
+amazon,ecom,ebay,ebags packing cubes,2,35,10,3,19
+amazon,ecom,ebay,ebay gift card email delivery,3,35,10,5,29
+amazon,ecom,ebay,ebay,4,35,10,1,4
+amazon,ecom,ebay,ebags mother lode travel backpack,5,35,10,5,33
+amazon,ecom,ebay,ebay gift card,6,35,10,3,14
+amazon,ecom,ebay,ebanel,7,35,10,1,6
+amazon,ecom,ebay,ebanel urea cream 40 percent for feet,8,35,10,7,37
+amazon,ecom,ebay,ebags backpack,9,35,10,2,14
+amazon,ecom,outlook,outlook for dummies 2022,0,35,11,4,24
+amazon,ecom,outlook,outlook for dummies 2022 in Books,1,35,11,6,33
+amazon,ecom,outlook,outlook 2021 software,2,35,11,3,21
+amazon,ecom,outlook,outlook 2019 software for pc,3,35,11,5,28
+amazon,ecom,outlook,outlook,4,35,11,1,7
+amazon,ecom,outlook,outlook 2019,5,35,11,2,12
+amazon,ecom,outlook,outlook for dummies,6,35,11,3,19
+amazon,ecom,outlook,outlook 365,7,35,11,2,11
+amazon,ecom,outlook,outlook 2021 download,8,35,11,3,21
+amazon,ecom,outlook,outlook cheat sheet laminated 2021,9,35,11,5,34
+amazon,ecom,outlook,outlook software,10,35,11,2,16
+amazon,ecom,tradutor,tradutor instantaneo,0,35,10,2,20
+amazon,ecom,tradutor,tradutor,1,35,10,1,8
+amazon,ecom,tradutor,tradutor earbuds,2,35,10,2,16
+amazon,ecom,tradutor,tradutor portugues e ingles,3,35,10,4,27
+amazon,ecom,tradutor,tradutor language,4,35,10,2,17
+amazon,ecom,tradutor,tradutor ingles,5,35,10,2,15
+amazon,ecom,tradutor,tradutor portátil,6,35,10,2,17
+amazon,ecom,tradutor,tradutor de chuvas mia couto,7,35,10,5,28
+amazon,ecom,tradutor,tradutores,8,35,10,1,10
+amazon,ecom,tradutor,tradutor audifonos,9,35,10,2,18
+amazon,ecom,google classroom,google classroom,0,35,11,2,16
+amazon,ecom,google classroom,google classroom in Apps & Games,1,35,11,6,32
+amazon,ecom,google classroom,google classroom for dummies 2021,2,35,11,5,33
+amazon,ecom,google classroom,google classroom for teachers,3,35,11,4,29
+amazon,ecom,google classroom,google classroom book,4,35,11,3,21
+amazon,ecom,google classroom,google classroom for dummies,5,35,11,4,28
+amazon,ecom,google classroom,google classroom free app,6,35,11,4,25
+amazon,ecom,google classroom,google classroom app,7,35,11,3,20
+amazon,ecom,google classroom,google classroom laptop,8,35,11,3,23
+amazon,ecom,google classroom,google classroom tablet,9,35,11,3,23
+amazon,ecom,google classroom,google classroom app download,10,35,11,4,29
+amazon,ecom,walmart,walmart,0,35,10,1,7
+amazon,ecom,walmart,walmart gift cards,1,35,10,3,18
+amazon,ecom,walmart,walmart.com online shopping,2,35,10,3,27
+amazon,ecom,walmart,walmart gift cards email delivery,3,35,10,5,33
+amazon,ecom,walmart,walmart.com,4,35,10,1,11
+amazon,ecom,walmart,walmart gift cards through amazon,5,35,10,5,33
+amazon,ecom,walmart,walmart egift gift card,6,35,10,4,23
+amazon,ecom,walmart,walmart family mobile phones,7,35,10,4,28
+amazon,ecom,walmart,walmart hat,8,35,10,2,11
+amazon,ecom,walmart,walmart vest,9,35,10,2,12
+amazon,ecom,maps,maps of meaning,0,35,11,3,15
+amazon,ecom,maps,maps of meaning in Books,1,35,11,5,24
+amazon,ecom,maps,maps,2,35,11,1,4
+amazon,ecom,maps,maps of meaning jordan peterson book,3,35,11,6,36
+amazon,ecom,maps,maps of the united states,4,35,11,5,25
+amazon,ecom,maps,maps of the world,5,35,11,4,17
+amazon,ecom,maps,maps for kids,6,35,11,3,13
+amazon,ecom,maps,maps book,7,35,11,2,9
+amazon,ecom,maps,maps of narrative practice,8,35,11,4,26
+amazon,ecom,maps,maps for kids 8-12,9,35,11,4,18
+amazon,ecom,maps,maps of italy,10,35,11,3,13
+amazon,ecom,yt,yoga mat,0,35,10,2,8
+amazon,ecom,yt,yeti tumbler,1,35,10,2,12
+amazon,ecom,yt,yeti,2,35,10,1,4
+amazon,ecom,yt,yeti water bottles,3,35,10,3,18
+amazon,ecom,yt,yeti cooler,4,35,10,2,11
+amazon,ecom,yt,yeti rambler,5,35,10,2,12
+amazon,ecom,yt,yeezy slides,6,35,10,2,12
+amazon,ecom,yt,yoga pants,7,35,10,2,10
+amazon,ecom,yt,yonanas frozen treat maker,8,35,10,4,26
+amazon,ecom,yt,yard games,9,35,10,2,10
+amazon,ecom,satta,satta,0,35,11,1,5
+amazon,ecom,satta,satta in Prime Video,1,35,11,4,20
+amazon,ecom,satta,sattan ginger oil,2,35,11,3,17
+amazon,ecom,satta,sattar,3,35,11,1,6
+amazon,ecom,satta,sattam,4,35,11,1,6
+amazon,ecom,satta,satta 3,5,35,11,2,7
+amazon,ecom,satta,satta incense,6,35,11,2,13
+amazon,ecom,satta,sattawa chai,7,35,11,2,12
+amazon,ecom,satta,sattaro,8,35,11,1,7
+amazon,ecom,satta,satta vida,9,35,11,2,10
+amazon,ecom,satta,sattalight phone,10,35,11,2,16
+amazon,ecom,pinterest,pinterest,0,35,11,1,9
+amazon,ecom,pinterest,pinterest in Apps & Games,1,35,11,5,25
+amazon,ecom,pinterest,pinterest room decor,2,35,11,3,20
+amazon,ecom,pinterest,pinterest clothes aesthetic,3,35,11,3,27
+amazon,ecom,pinterest,pinterest clothes,4,35,11,2,17
+amazon,ecom,pinterest,pinterest headphones,5,35,11,2,20
+amazon,ecom,pinterest,pinterest aesthetic,6,35,11,2,19
+amazon,ecom,pinterest,pinterest hoodies,7,35,11,2,17
+amazon,ecom,pinterest,pinterest room decor aesthetic,8,35,11,4,30
+amazon,ecom,pinterest,pinterest dress,9,35,11,2,15
+amazon,ecom,pinterest,pinterest.com,10,35,11,1,13
+amazon,ecom,speed test,speed tester,0,35,10,2,12
+amazon,ecom,speed test,speed test,1,35,10,2,10
+amazon,ecom,speed test,speed tester mph,2,35,10,3,16
+amazon,ecom,speed test,speed test baseball,3,35,10,3,19
+amazon,ecom,speed test,speed tester tennis,4,35,10,3,19
+amazon,ecom,speed test,speed tester baseball,5,35,10,3,21
+amazon,ecom,speed test,speed test internet,6,35,10,3,19
+amazon,ecom,speed test,speed test wifi,7,35,10,3,15
+amazon,ecom,speed test,speed test ookla,8,35,10,3,16
+amazon,ecom,speed test,speed test math facts,9,35,10,4,21
+amazon,ecom,nba,nba 2k22 vc,0,35,11,3,11
+amazon,ecom,nba,nba 2k22 vc in Video Games,1,35,11,6,26
+amazon,ecom,nba,nba 2k22,2,35,11,2,8
+amazon,ecom,nba,nba 2k22 nintendo switch,3,35,11,4,24
+amazon,ecom,nba,nba 2k22 ps4,4,35,11,3,12
+amazon,ecom,nba,nba jerseys for men,5,35,11,4,19
+amazon,ecom,nba,nba basketball,6,35,11,2,14
+amazon,ecom,nba,nba shorts,7,35,11,2,10
+amazon,ecom,nba,nba 2k22 xbox one,8,35,11,4,17
+amazon,ecom,nba,nba,9,35,11,1,3
+amazon,ecom,nba,nba 2k22 ps5,10,35,11,3,12
+amazon,ecom,flipkart,flipkart,0,35,11,1,8
+amazon,ecom,flipkart,flipkart in Apps & Games,1,35,11,5,24
+amazon,ecom,flipkart,flipkart gift card,2,35,11,3,18
+amazon,ecom,flipkart,flipkart smartbuy,3,35,11,2,17
+amazon,ecom,flipkart,flipkart india,4,35,11,2,14
+amazon,ecom,flipkart,flipkartsellershub,5,35,11,1,18
+amazon,ecom,flipkart,flipkart.com,6,35,11,1,12
+amazon,ecom,flipkart,flipkart printed tape,7,35,11,3,21
+amazon,ecom,flipkart,flipkart smartbuy laptop stand,8,35,11,4,30
+amazon,ecom,flipkart,flipkart shoes,9,35,11,2,14
+amazon,ecom,flipkart,flipkart paper,10,35,11,2,14
+amazon,ecom,bbc news,bbc news,0,35,11,2,8
+amazon,ecom,bbc news,bbc news in Prime Video,1,35,11,5,23
+amazon,ecom,bbc news,bbc news app,2,35,11,3,12
+amazon,ecom,bbc news,bbc news shirt,3,35,11,3,14
+amazon,ecom,bbc news,bbc news live,4,35,11,3,13
+amazon,ecom,bbc news,bbc news cap,5,35,11,3,12
+amazon,ecom,bbc news,bbc news channel,6,35,11,3,16
+amazon,ecom,bbc news,bbc news l,7,35,11,3,10
+amazon,ecom,bbc news,bbc world news,8,35,11,3,14
+amazon,ecom,bbc news,bbc 880 news,9,35,11,3,12
+amazon,ecom,bbc news,bbc world news live,10,35,11,4,19
+amazon,ecom,ikea,ikea,0,35,11,1,4
+amazon,ecom,ikea,ikea in Home & Kitchen,1,35,11,5,22
+amazon,ecom,ikea,ikea bags,2,35,11,2,9
+amazon,ecom,ikea,ikea bags with zipper extra large heavy duty,3,35,11,8,44
+amazon,ecom,ikea,ikea desk,4,35,11,2,9
+amazon,ecom,ikea,ikea high chair,5,35,11,3,15
+amazon,ecom,ikea,ikea dresser,6,35,11,2,12
+amazon,ecom,ikea,ikea shelves,7,35,11,2,12
+amazon,ecom,ikea,ikea high chair accessories,8,35,11,4,27
+amazon,ecom,ikea,ikea shelf,9,35,11,2,10
+amazon,ecom,ikea,ikea alex drawer,10,35,11,3,16
+amazon,ecom,news,newsboy hats for men,0,35,11,4,20
+amazon,ecom,news,newsboy hats for men in Prime Wardrobe,1,35,11,7,38
+amazon,ecom,news,newsprint packing paper,2,35,11,3,23
+amazon,ecom,news,newspaper frame,3,35,11,2,15
+amazon,ecom,news,newsboy hats for women,4,35,11,4,22
+amazon,ecom,news,newsboy hat,5,35,11,2,11
+amazon,ecom,news,newsprint paper,6,35,11,2,15
+amazon,ecom,news,newsprint,7,35,11,1,9
+amazon,ecom,news,newspaper paper,8,35,11,2,15
+amazon,ecom,news,newspaper,9,35,11,1,9
+amazon,ecom,news,newshe wedding rings for women,10,35,11,5,30
+amazon,ecom,classroom,classroom decor,0,35,10,2,15
+amazon,ecom,classroom,classroom supplies,1,35,10,2,18
+amazon,ecom,classroom,classroom,2,35,10,1,9
+amazon,ecom,classroom,classroom rug,3,35,10,2,13
+amazon,ecom,classroom,classroom prizes,4,35,10,2,16
+amazon,ecom,classroom,classroom organization,5,35,10,2,22
+amazon,ecom,classroom,classroom storage,6,35,10,2,17
+amazon,ecom,classroom,classroom calendar,7,35,10,2,18
+amazon,ecom,classroom,classroom decorations,8,35,10,2,21
+amazon,ecom,classroom,classroom doorbell,9,35,10,2,18
+amazon,ecom,twitch,twitch gift card,0,35,11,3,16
+amazon,ecom,twitch,twitch gift card in Gift Cards,1,35,11,6,30
+amazon,ecom,twitch,twitch,2,35,11,1,6
+amazon,ecom,twitch,twitch gift card digital,3,35,11,4,24
+amazon,ecom,twitch,twitch merch,4,35,11,2,12
+amazon,ecom,twitch,twitch streaming equipment,5,35,11,3,26
+amazon,ecom,twitch,twitch hoodie,6,35,11,2,13
+amazon,ecom,twitch,twitch streaming,7,35,11,2,16
+amazon,ecom,twitch,twitch shirt,8,35,11,2,12
+amazon,ecom,twitch,twitch hat,9,35,11,2,10
+amazon,ecom,twitch,twitch neon sign,10,35,11,3,16
+amazon,ecom,home depot,home depot gift cards,0,35,11,4,21
+amazon,ecom,home depot,home depot gift cards in Gift Cards,1,35,11,7,35
+amazon,ecom,home depot,home depot,2,35,11,2,10
+amazon,ecom,home depot,home depot gift card email delivery,3,35,11,6,35
+amazon,ecom,home depot,home depot bucket,4,35,11,3,17
+amazon,ecom,home depot,home depot gift cards 100,5,35,11,5,25
+amazon,ecom,home depot,home depot.com,6,35,11,2,14
+amazon,ecom,home depot,home depot gift cards through amazon,7,35,11,6,36
+amazon,ecom,home depot,home depot apron,8,35,11,3,16
+amazon,ecom,home depot,home depot gift card 50,9,35,11,5,23
+amazon,ecom,home depot,home depot gift cards 25,10,35,11,5,24
+amazon,ecom,amazon prime,Action & Adventure,0,36,23,3,18
+amazon,ecom,amazon prime,Comedy,1,36,23,1,6
+amazon,ecom,amazon prime,Documentary,2,36,23,1,11
+amazon,ecom,amazon prime,Kids & Family,3,36,23,3,13
+amazon,ecom,amazon prime,Drama,4,36,23,1,5
+amazon,ecom,amazon prime,Mystery & Thrillers,5,36,23,3,19
+amazon,ecom,amazon prime,Horror,6,36,23,1,6
+amazon,ecom,amazon prime,Romance,7,36,23,1,7
+amazon,ecom,amazon prime,Science Fiction,8,36,23,2,15
+amazon,ecom,amazon prime,Anime,9,36,23,1,5
+amazon,ecom,amazon prime,Foreign,10,36,23,1,7
+amazon,ecom,amazon prime,Fantasy,11,36,23,1,7
+amazon,ecom,amazon prime,amazon prime,12,35,23,2,12
+amazon,ecom,amazon prime,amazon prime in Prime Video,13,35,23,5,27
+amazon,ecom,amazon prime,amazon prime com login,14,35,23,4,22
+amazon,ecom,amazon prime,amazon prime movies,15,35,23,3,19
+amazon,ecom,amazon prime,amazon prime gift card,16,35,23,4,22
+amazon,ecom,amazon prime,amazon prime membership,17,35,23,3,23
+amazon,ecom,amazon prime,amazon prime shopping online,18,35,23,4,28
+amazon,ecom,amazon prime,amazon prime gift,19,35,23,3,17
+amazon,ecom,amazon prime,amazon prime login my account,20,35,23,5,29
+amazon,ecom,amazon prime,amazon prime membership gift subscription,21,35,23,5,41
+amazon,ecom,amazon prime,amazon prime tv,22,35,23,3,15
+amazon,ecom,olx,olx,0,35,6,1,3
+amazon,ecom,olx,olx oil,1,35,6,2,7
+amazon,ecom,olx,olx conditioner,2,35,6,2,15
+amazon,ecom,olx,olx coconut,3,35,6,2,11
+amazon,ecom,olx,olx hair products,4,35,6,3,17
+amazon,ecom,olx,olxplex 9,5,35,6,2,9
+amazon,ecom,le bon coin,le bon coin,0,35,1,3,11
+amazon,ecom,weather tomorrow,weather tomorrow,0,35,10,2,16
+amazon,ecom,weather tomorrow,weather today and tomorrow,1,35,10,4,26
+amazon,ecom,weather tomorrow,weather report forecast tomorrow,2,35,10,4,32
+amazon,ecom,weather tomorrow,weather today and tomorrow tempe az,3,35,10,6,35
+amazon,ecom,weather tomorrow,weather today and tomorrow near me,4,35,10,6,34
+amazon,ecom,weather tomorrow,what's the weather tomorrow,5,35,10,4,27
+amazon,ecom,weather tomorrow,weather in chambersburg pa tomorrow,6,35,10,5,35
+amazon,ecom,weather tomorrow,what is the weather gonna be tomorrow in souix falls,7,35,10,10,52
+amazon,ecom,weather tomorrow,what to the weather be in beton harbor tomorrow,8,35,10,9,47
+amazon,ecom,weather tomorrow,sapling cold weather protector delivery tomorrow,9,35,10,6,48
+amazon,ecom,facebook login,facebook login in,0,35,2,3,17
+amazon,ecom,facebook login,facebook login in in Prime Video,1,35,2,6,32
+ebay,ecom,youtube,youtube premium,0,31,12,2,15
+ebay,ecom,youtube,youtube premium – Websites & Businesses for Sale,1,57,12,8,48
+ebay,ecom,youtube,youtube premium – Video Media Accessories,2,57,12,6,41
+ebay,ecom,youtube,youtube,3,31,12,1,7
+ebay,ecom,youtube,youtube playbutton,4,31,12,2,18
+ebay,ecom,youtube,youtube tv,5,31,12,2,10
+ebay,ecom,youtube,youtube channel,6,31,12,2,15
+ebay,ecom,youtube,youtube channel for sale,7,31,12,4,24
+ebay,ecom,youtube,youtube camera,8,31,12,2,14
+ebay,ecom,youtube,youtube certified mechanic,9,31,12,3,26
+ebay,ecom,youtube,youtube subscribers,10,31,12,2,19
+ebay,ecom,youtube,youtube plaque,11,31,12,2,14
+ebay,ecom,facebook,face mask,0,31,12,2,9
+ebay,ecom,facebook,"face mask – Costume, Reenactment & Theater Apparel",1,57,12,8,50
+ebay,ecom,facebook,"face mask – Healthcare, Lab & Dental",2,31,12,7,36
+ebay,ecom,facebook,factory unlocked cell phones smartphones,3,57,12,5,40
+ebay,ecom,facebook,factory manufactured,4,31,12,2,20
+ebay,ecom,facebook,face mask disposable,5,31,12,3,20
+ebay,ecom,facebook,face shield,6,31,12,2,11
+ebay,ecom,facebook,face mask washable,7,31,12,3,18
+ebay,ecom,facebook,facial steamer,8,31,12,2,14
+ebay,ecom,facebook,factory five,9,31,12,2,12
+ebay,ecom,facebook,faconnable,10,31,12,1,10
+ebay,ecom,facebook,facebook portal,11,31,12,2,15
+ebay,ecom,whatsapp web,whatsapp web,0,31,1,2,12
+ebay,ecom,google,google pixel 6 pro,0,31,13,4,18
+ebay,ecom,google,google pixel 6 pro – Cell Phones & Smartphones,1,57,13,9,46
+ebay,ecom,google,google pixel 6 pro – Cell Phone Accessories,2,57,13,8,43
+ebay,ecom,google,google pixel 5,3,31,13,3,14
+ebay,ecom,google,google pixel 6,4,31,13,3,14
+ebay,ecom,google,google pixel,5,31,13,2,12
+ebay,ecom,google,google pixel 4,6,31,13,3,14
+ebay,ecom,google,google pixel 3,7,31,13,3,14
+ebay,ecom,google,google pixel 4 xl,8,31,13,4,17
+ebay,ecom,google,google pixel 4a,9,31,13,3,15
+ebay,ecom,google,google pixel 3 xl,10,31,13,4,17
+ebay,ecom,google,google home mini,11,31,13,3,16
+ebay,ecom,google,,12,64,13,0,0
+ebay,ecom,gmail,gmail email,0,31,5,2,11
+ebay,ecom,gmail,gmail email – Websites & Businesses for Sale,1,57,5,8,44
+ebay,ecom,gmail,gmail,2,31,5,1,5
+ebay,ecom,gmail,gmail.com,3,31,5,1,9
+ebay,ecom,gmail,gmail accounts,4,31,5,2,14
+ebay,ecom,amazon,amazon amazon,0,31,12,2,13
+ebay,ecom,amazon,"amazon amazon – TV, Video & Home Audio Electronics",1,57,12,9,50
+ebay,ecom,amazon,amazon amazon – Surveillance & Smart Home Electronics,2,57,12,8,53
+ebay,ecom,amazon,amazon fire stick,3,31,12,3,17
+ebay,ecom,amazon,amazon gift card,4,31,12,3,16
+ebay,ecom,amazon,amazon fire stick 4k,5,31,12,4,20
+ebay,ecom,amazon,amazon fire tablet,6,31,12,3,18
+ebay,ecom,amazon,amazon echo,7,31,12,2,11
+ebay,ecom,amazon,amazon fire hd 10,8,31,12,4,17
+ebay,ecom,amazon,amazon echo dot 3rd generation,9,31,12,5,30
+ebay,ecom,amazon,amazon peccy pin,10,31,12,3,16
+ebay,ecom,amazon,amazon fire stick remote,11,31,12,4,24
+ebay,ecom,translate,translater english to spanish,0,31,7,4,29
+ebay,ecom,translate,translater english to spanish – Office Equipment & Supplies,1,57,7,9,59
+ebay,ecom,translate,translate,2,31,7,1,9
+ebay,ecom,translate,google translate,3,31,7,2,16
+ebay,ecom,translate,language translater,4,31,7,2,19
+ebay,ecom,translate,voice translater,5,31,7,2,16
+ebay,ecom,translate,english translated,6,31,7,2,18
+ebay,ecom,google translate,google translate,0,31,1,2,16
+ebay,ecom,traductor,traductor ingles a espanol,0,31,11,4,26
+ebay,ecom,traductor,traductor ingles a espanol – Office Equipment & Supplies,1,57,11,9,56
+ebay,ecom,traductor,traductor de idiomas tiempo real,2,31,11,5,32
+ebay,ecom,traductor,traductor ingles español,3,31,11,3,24
+ebay,ecom,traductor,traductor de idiomas,4,31,11,3,20
+ebay,ecom,traductor,traductor instantaneo de voz,5,31,11,4,28
+ebay,ecom,traductor,traductor de palabras,6,31,11,3,21
+ebay,ecom,traductor,traductor,7,31,11,1,9
+ebay,ecom,traductor,traductor ingles a spanish,8,31,11,4,26
+ebay,ecom,traductor,traductor de código morse,9,31,11,4,25
+ebay,ecom,traductor,idioma traductor,10,31,11,2,16
+ebay,ecom,hotmail,hotmail.com,0,31,2,1,11
+ebay,ecom,hotmail,hotmail,1,31,2,1,7
+ebay,ecom,instagram,instagram account,0,31,12,2,17
+ebay,ecom,instagram,instagram account – Fiction & Nonfiction Books,1,57,12,7,46
+ebay,ecom,instagram,instagram account – Video Games,2,31,12,5,31
+ebay,ecom,instagram,instagram sticker,3,31,12,2,17
+ebay,ecom,instagram,instagram followers,4,31,12,2,19
+ebay,ecom,instagram,instagram decal,5,31,12,2,15
+ebay,ecom,instagram,instagram car decal,6,31,12,3,19
+ebay,ecom,instagram,instagram,7,31,12,1,9
+ebay,ecom,instagram,instagram account for sale,8,31,12,4,26
+ebay,ecom,instagram,instagram likes,9,31,12,2,15
+ebay,ecom,instagram,instagram username,10,31,12,2,18
+ebay,ecom,instagram,instagram car sticker,11,31,12,3,21
+ebay,ecom,weather,weather tech floor mats,0,31,12,4,23
+ebay,ecom,weather,weather tech floor mats – Auto Parts & Accessories,1,57,12,9,50
+ebay,ecom,weather,weather tech floor mats – Rugs & Carpets,2,57,12,8,40
+ebay,ecom,weather,weather station,3,31,12,2,15
+ebay,ecom,weather,weather radio,4,31,12,2,13
+ebay,ecom,weather,weather stations wireless indoor outdoor,5,57,12,5,40
+ebay,ecom,weather,weather tech cup phone holder,6,31,12,5,29
+ebay,ecom,weather,weather stripping door seal strip,7,31,12,5,33
+ebay,ecom,weather,weathervanes lightning rods,8,31,12,3,27
+ebay,ecom,weather,weatherproof vintage,9,31,12,2,20
+ebay,ecom,weather,weather guard tool box,10,31,12,4,22
+ebay,ecom,weather,weathervane,11,31,12,1,11
+ebay,ecom,netflix,netflix 1 year,0,31,12,3,14
+ebay,ecom,netflix,"netflix 1 year – TV, Video & Home Audio Electronics",1,57,12,10,51
+ebay,ecom,netflix,netflix 1 year – Automotive Tools & Supplies,2,57,12,8,44
+ebay,ecom,netflix,netflix 1 month,3,31,12,3,15
+ebay,ecom,netflix,netflix soundwave,4,31,12,2,17
+ebay,ecom,netflix,netflix,5,31,12,1,7
+ebay,ecom,netflix,netflix bumblebee,6,31,12,2,17
+ebay,ecom,netflix,netflix account 1 month,7,31,12,4,23
+ebay,ecom,netflix,netflix premium,8,31,12,2,15
+ebay,ecom,netflix,netflix wii disc,9,31,12,3,16
+ebay,ecom,netflix,netflix optimus prime,10,31,12,3,21
+ebay,ecom,netflix,netflix 4k,11,31,12,2,10
+ebay,ecom,yahoo,yahoo – Magazines,0,31,11,3,17
+ebay,ecom,yahoo,yahoo – Websites & Businesses for Sale,1,31,11,7,38
+ebay,ecom,yahoo,yahoo mail,2,31,11,2,10
+ebay,ecom,yahoo,yahoo.com,3,31,11,1,9
+ebay,ecom,yahoo,yahoo email,4,31,11,2,11
+ebay,ecom,yahoo,yahoo news,5,31,11,2,10
+ebay,ecom,yahoo,yahoo keyboard,6,31,11,2,14
+ebay,ecom,yahoo,yahoo hat,7,31,11,2,9
+ebay,ecom,yahoo,yahoo buckaroo,8,31,11,2,14
+ebay,ecom,yahoo,yahoo button,9,31,11,2,12
+ebay,ecom,yahoo,yahoo magazine,10,31,11,2,14
+ebay,ecom,twitter,twitter speaker,0,31,12,2,15
+ebay,ecom,twitter,twitter speaker – Auto Parts & Accessories,1,57,12,7,42
+ebay,ecom,twitter,"twitter speaker – TV, Video & Home Audio Electronics",2,57,12,9,52
+ebay,ecom,twitter,twittering birds never fly,3,31,12,4,26
+ebay,ecom,twitter,twitter,4,31,12,1,7
+ebay,ecom,twitter,twitter followers,5,31,12,2,17
+ebay,ecom,twitter,twitter car,6,31,12,2,11
+ebay,ecom,twitter,twitter bike,7,31,12,2,12
+ebay,ecom,twitter,twitter shirt,8,31,12,2,13
+ebay,ecom,twitter,twittering birds never fly manga,9,31,12,5,32
+ebay,ecom,twitter,twitter sticker,10,31,12,2,15
+ebay,ecom,twitter,twitter hat,11,31,12,2,11
+ebay,ecom,yahoo mail,yahoo mail,0,31,1,2,10
+ebay,ecom,google maps,google maps – Websites & Businesses for Sale,0,57,2,8,44
+ebay,ecom,google maps,google maps gps,1,31,2,3,15
+ebay,ecom,whatsapp,whatsapp – Cell Phone Cards & SIM Cards,0,57,7,8,39
+ebay,ecom,whatsapp,whatsapp – Home Décor,1,31,7,4,21
+ebay,ecom,whatsapp,whatsapp app,2,31,7,2,12
+ebay,ecom,whatsapp,whatsapp web,3,31,7,2,12
+ebay,ecom,whatsapp,whatsapp phone,4,31,7,2,14
+ebay,ecom,whatsapp,smart watch whatsapp,5,31,7,3,20
+ebay,ecom,whatsapp,gb whatsapp,6,31,7,2,11
+ebay,ecom,fb,fbi challenge coin,0,31,12,3,18
+ebay,ecom,fb,fbi challenge coin – Militaria,1,31,12,5,30
+ebay,ecom,fb,fbi challenge coin – Collectible Historical Memorabilia,2,57,12,7,55
+ebay,ecom,fb,fbi badge,3,31,12,2,9
+ebay,ecom,fb,f b rogers silver co,4,31,12,5,20
+ebay,ecom,fb,fb county,5,31,12,2,9
+ebay,ecom,fb,fbm bmx,6,31,12,2,7
+ebay,ecom,fb,fbi patches,7,31,12,2,11
+ebay,ecom,fb,f body oil pan,8,31,12,4,14
+ebay,ecom,fb,f b rogers silver co 1883,9,31,12,6,25
+ebay,ecom,fb,fbi,10,31,12,1,3
+ebay,ecom,fb,fbi national academy,11,31,12,3,20
+ebay,ecom,roblox,roblox account,0,31,12,2,14
+ebay,ecom,roblox,roblox account – Video Game Merchandise,1,57,12,6,39
+ebay,ecom,roblox,roblox account – Sports Trading Cards & Accessories,2,57,12,8,51
+ebay,ecom,roblox,roblox toy code,3,31,12,3,15
+ebay,ecom,roblox,roblox limited,4,31,12,2,14
+ebay,ecom,roblox,roblox,5,31,12,1,6
+ebay,ecom,roblox,roblox code,6,31,12,2,11
+ebay,ecom,roblox,roblox toys,7,31,12,2,11
+ebay,ecom,roblox,roblox face code,8,31,12,3,16
+ebay,ecom,roblox,roblox adopt me,9,31,12,3,15
+ebay,ecom,roblox,roblox pet simulator x,10,31,12,4,22
+ebay,ecom,roblox,roblox gift card,11,31,12,3,16
+ebay,ecom,ebay,ebay motors,0,31,13,2,11
+ebay,ecom,ebay,ebay motors – Cars & Trucks,1,31,13,6,27
+ebay,ecom,ebay,ebay motors' used cars,2,31,13,4,22
+ebay,ecom,ebay,ebay gift card digital,3,31,13,4,22
+ebay,ecom,ebay,ebay shipping supplies,4,31,13,3,22
+ebay,ecom,ebay,ebay chile,5,31,13,2,10
+ebay,ecom,ebay,ebay motors parts,6,31,13,3,17
+ebay,ecom,ebay,ebay refurbished,7,31,13,2,16
+ebay,ecom,ebay,ebay motors classic cars for sale,8,31,13,6,33
+ebay,ecom,ebay,ebay motors motorcycles,9,31,13,3,23
+ebay,ecom,ebay,ebay mexico,10,31,13,2,11
+ebay,ecom,ebay,ebay bucks – in Customer Service,11,31,13,6,32
+ebay,ecom,ebay,eBay – ineBay Stores,12,31,13,4,20
+ebay,ecom,outlook,outlook 2019,0,31,12,2,12
+ebay,ecom,outlook,outlook 2019 – Computer Software,1,31,12,5,32
+ebay,ecom,outlook,"outlook 2019 – Textbooks, Educational & Reference Books",2,57,12,8,55
+ebay,ecom,outlook,outlook microsoft email,3,31,12,3,23
+ebay,ecom,outlook,outlook 2016,4,31,12,2,12
+ebay,ecom,outlook,outlook 2021,5,31,12,2,12
+ebay,ecom,outlook,outlook,6,31,12,1,7
+ebay,ecom,outlook,outlook 2010,7,31,12,2,12
+ebay,ecom,outlook,outlook 2007,8,31,12,2,12
+ebay,ecom,outlook,outlook 365,9,31,12,2,11
+ebay,ecom,outlook,outlook.com,10,31,12,1,11
+ebay,ecom,outlook,outlook magazine,11,31,12,2,16
+ebay,ecom,tradutor,tradutor de idiomas,0,31,3,3,19
+ebay,ecom,tradutor,tradutor de idiomas – Office Equipment & Supplies,1,57,3,8,49
+ebay,ecom,tradutor,tradutor,2,31,3,1,8
+ebay,ecom,walmart,walmart gift card,0,31,12,3,17
+ebay,ecom,walmart,walmart gift card – Gift Cards,1,31,12,6,30
+ebay,ecom,walmart,walmart gift card – Collectible Credit & Charge Cards,2,57,12,9,53
+ebay,ecom,walmart,walmart vest,3,31,12,2,12
+ebay,ecom,walmart,walmart pins,4,31,12,2,12
+ebay,ecom,walmart,walmart,5,31,12,1,7
+ebay,ecom,walmart,walmart exclusive vinyl,6,31,12,3,23
+ebay,ecom,walmart,walmart family mobile cell phones,7,31,12,5,33
+ebay,ecom,walmart,walmart mystery boxes pokemon,8,31,12,4,29
+ebay,ecom,walmart,walmart hat,9,31,12,2,11
+ebay,ecom,walmart,walmart lapel pins,10,31,12,3,18
+ebay,ecom,walmart,walmart pokemon mystery hanger,11,31,12,4,30
+ebay,ecom,maps,map sensor,0,31,11,2,10
+ebay,ecom,maps,map sensor – Auto Parts & Accessories,1,31,11,7,37
+ebay,ecom,maps,maps of meaning,2,31,11,3,15
+ebay,ecom,maps,maps,3,31,11,1,4
+ebay,ecom,maps,maps of meaning jordan peterson,4,31,11,5,31
+ebay,ecom,maps,map sensor 3 bar,5,31,11,4,16
+ebay,ecom,maps,maps stamps,6,31,11,2,11
+ebay,ecom,maps,map sensor 4 bar,7,31,11,4,16
+ebay,ecom,maps,mapsa music box,8,31,11,3,15
+ebay,ecom,maps,maps of the ancient sea kings,9,31,11,6,29
+ebay,ecom,maps,maps on stamps,10,31,11,3,14
+ebay,ecom,yt,ytx14-bs battery,0,31,12,2,16
+ebay,ecom,yt,ytx14-bs battery – Auto Parts & Accessories,1,57,12,7,43
+ebay,ecom,yt,ytx14-bs battery – Multipurpose Batteries & Power,2,57,12,7,49
+ebay,ecom,yt,y the last man 1,3,31,12,5,16
+ebay,ecom,yt,ytx20l-bs battery,4,31,12,2,17
+ebay,ecom,yt,ytx5l-bs battery,5,31,12,2,16
+ebay,ecom,yt,ytx12-bs battery,6,31,12,2,16
+ebay,ecom,yt,ytx9-bs battery,7,31,12,2,15
+ebay,ecom,yt,yt mountain bike,8,31,12,3,16
+ebay,ecom,yt,yt3000 craftsman lawn mower parts,9,31,12,5,33
+ebay,ecom,yt,ytx7a-bs battery,10,31,12,2,16
+ebay,ecom,yt,y the last man,11,31,12,4,14
+ebay,ecom,satta,satta – Men's Clothing,0,31,10,4,22
+ebay,ecom,satta,satellite,1,31,10,1,9
+ebay,ecom,satta,satellite phone,2,31,10,2,15
+ebay,ecom,satta,satellite dish,3,31,10,2,14
+ebay,ecom,satta,satellite finder,4,31,10,2,16
+ebay,ecom,satta,satellite speakers,5,31,10,2,18
+ebay,ecom,satta,satellite tv receivers,6,31,10,3,22
+ebay,ecom,satta,satellite receiver,7,31,10,2,18
+ebay,ecom,satta,satellite dish antenna,8,31,10,3,22
+ebay,ecom,satta,satellite girl and milk cow,9,31,10,5,27
+ebay,ecom,pinterest,pinterest – Fiction & Nonfiction Books,0,31,3,6,38
+ebay,ecom,pinterest,pinterest – Websites & Businesses for Sale,1,57,3,7,42
+ebay,ecom,pinterest,the house that pinterest built,2,31,3,5,30
+ebay,ecom,speed test,speed test,0,31,1,2,10
+ebay,ecom,nba,nba jersey,0,31,12,2,10
+ebay,ecom,nba,nba jersey – Sports Fan Apparel & Souvenirs,1,57,12,8,43
+ebay,ecom,nba,nba jersey – Men's Clothing,2,31,12,5,27
+ebay,ecom,nba,nba hoops blaster box,3,31,12,4,21
+ebay,ecom,nba,nba cards,4,31,12,2,9
+ebay,ecom,nba,nba box break,5,31,12,3,13
+ebay,ecom,nba,nba shorts,6,31,12,2,10
+ebay,ecom,nba,nba street vol 2 ps2,7,31,12,5,20
+ebay,ecom,nba,nba hobby box,8,31,12,3,13
+ebay,ecom,nba,nba,9,31,12,1,3
+ebay,ecom,nba,nba rookie cards,10,31,12,3,16
+ebay,ecom,nba,nba socks,11,31,12,2,9
+ebay,ecom,flipkart,flipkart,0,31,1,1,8
+ebay,ecom,bbc news,bbc news,0,31,1,2,8
+ebay,ecom,ikea,ikea – Home Furniture,0,31,11,4,21
+ebay,ecom,ikea,ikea – Bedding,1,31,11,3,14
+ebay,ecom,ikea,ikea bag,2,31,11,2,8
+ebay,ecom,ikea,ikea duvet cover queen,3,31,11,4,22
+ebay,ecom,ikea,ikea desk,4,31,11,2,9
+ebay,ecom,ikea,ikea curtains,5,31,11,2,13
+ebay,ecom,ikea,ikea lamp,6,31,11,2,9
+ebay,ecom,ikea,ikea billy bookcase,7,31,11,3,19
+ebay,ecom,ikea,ikea duvet cover,8,31,11,3,16
+ebay,ecom,ikea,ikea fabric,9,31,11,2,11
+ebay,ecom,ikea,ike amiibo,10,31,11,2,10
+ebay,ecom,news,new super mario bros wii,0,31,13,5,24
+ebay,ecom,news,new super mario bros wii – Video Games,1,57,13,8,38
+ebay,ecom,news,new super mario bros wii – Original Video Game Cases & Boxes,2,57,13,12,60
+ebay,ecom,news,new super mario bros ds,3,31,13,5,23
+ebay,ecom,news,newsboy hat,4,31,13,2,11
+ebay,ecom,news,new super mario bros 2 3ds,5,31,13,6,26
+ebay,ecom,news,new super mario bros u deluxe,6,31,13,6,29
+ebay,ecom,news,new super mario bros 2,7,31,13,5,22
+ebay,ecom,news,newsboy cap,8,31,13,2,11
+ebay,ecom,news,new super mario bros,9,31,13,4,20
+ebay,ecom,news,new super mario bros. u new super luigi u - wii u,10,57,13,12,49
+ebay,ecom,news,new super mario bros u,11,31,13,5,22
+ebay,ecom,news,newsletter preferences – in Customer Service,12,57,13,6,44
+ebay,ecom,classroom,classroom of the elite,0,31,12,4,22
+ebay,ecom,classroom,classroom of the elite – Collectible Animation Art & Merchandise,1,57,12,10,64
+ebay,ecom,classroom,"classroom of the elite – Comic Books, Manga & Memorabilia",2,57,12,10,57
+ebay,ecom,classroom,classroom of the elite light novel,3,31,12,6,34
+ebay,ecom,classroom,classroom of the elite vol 5,4,31,12,6,28
+ebay,ecom,classroom,classroom of the elite light novel english,5,57,12,7,42
+ebay,ecom,classroom,classroom decorations,6,31,12,2,21
+ebay,ecom,classroom,classroom of the elite light novel vol 5,7,31,12,8,40
+ebay,ecom,classroom,classroom of the elite volume 5,8,31,12,6,31
+ebay,ecom,classroom,classroom of the elite figure,9,31,12,5,29
+ebay,ecom,classroom,classroom jeopardy,10,31,12,2,18
+ebay,ecom,classroom,classroom supplies,11,31,12,2,18
+ebay,ecom,twitch,twitch gift card,0,31,11,3,16
+ebay,ecom,twitch,twitch gift card – Gift Cards,1,31,11,6,29
+ebay,ecom,twitch,twitch hoodie,2,31,11,2,13
+ebay,ecom,twitch,twitch toy story,3,31,11,3,16
+ebay,ecom,twitch,twitch,4,31,11,1,6
+ebay,ecom,twitch,twitch bait,5,31,11,2,11
+ebay,ecom,twitch,twitchin rap,6,31,11,2,12
+ebay,ecom,twitch,twitches dvd,7,31,11,2,12
+ebay,ecom,twitch,twitch streaming,8,31,11,2,16
+ebay,ecom,twitch,twitch prime,9,31,11,2,12
+ebay,ecom,twitch,twitch shirt,10,31,11,2,12
+ebay,ecom,home depot,home depot coupons,0,31,13,3,18
+ebay,ecom,home depot,home depot coupons – Coupons,1,31,13,5,28
+ebay,ecom,home depot,home depot coupons – Gift Cards,2,31,13,6,31
+ebay,ecom,home depot,home depot gift card,3,31,13,4,20
+ebay,ecom,home depot,home depot,4,31,13,2,10
+ebay,ecom,home depot,home depot coupons 15 off,5,31,13,5,25
+ebay,ecom,home depot,home depot 15 off,6,31,13,4,17
+ebay,ecom,home depot,home depot online coupon,7,31,13,4,24
+ebay,ecom,home depot,home depot 10,8,31,13,3,13
+ebay,ecom,home depot,home depot 10 off coupon,9,31,13,5,24
+ebay,ecom,home depot,home depot apron,10,31,13,3,16
+ebay,ecom,home depot,home depot 15,11,31,13,3,13
+ebay,ecom,home depot,HOME DEPOT – ineBay Stores,12,31,13,5,26
+ebay,ecom,olx,olx usa,0,31,2,2,7
+ebay,ecom,olx,olx,1,31,2,1,3
+etsy,ecom,youtube,youtube,0,34,12,1,7
+etsy,ecom,youtube,yoga,1,34,12,1,4
+etsy,ecom,youtube,you are my sunshine,2,34,12,4,19
+etsy,ecom,youtube,yoga mat,3,34,12,2,8
+etsy,ecom,youtube,yoga wall decor,4,34,12,3,15
+etsy,ecom,youtube,yoga pants,5,34,12,2,10
+etsy,ecom,youtube,yoga shirt,6,34,12,2,10
+etsy,ecom,youtube,young wild and three,7,34,12,4,20
+etsy,ecom,youtube,you are my sunshine svg,8,34,12,5,23
+etsy,ecom,youtube,yoga gifts,9,34,12,2,10
+etsy,ecom,youtube,yorkie,10,34,12,1,6
+etsy,ecom,youtube,find shop names containing yo,11,40,12,5,29
+etsy,ecom,facebook,facebook svg,0,34,12,2,12
+etsy,ecom,facebook,facebook,1,34,12,1,8
+etsy,ecom,facebook,facebook banner,2,34,12,2,15
+etsy,ecom,facebook,facebook cover,3,34,12,2,14
+etsy,ecom,facebook,facebook logo svg,4,34,12,3,17
+etsy,ecom,facebook,facebook cover template,5,34,12,3,23
+etsy,ecom,facebook,facebook logo,6,34,12,2,13
+etsy,ecom,facebook,facebook template,7,34,12,2,17
+etsy,ecom,facebook,facebook cover photo,8,34,12,3,20
+etsy,ecom,facebook,facebook jail svg,9,34,12,3,17
+etsy,ecom,facebook,facebook cover photo template,10,34,12,4,29
+etsy,ecom,facebook,find shop names containing facebook,11,40,12,5,35
+etsy,ecom,whatsapp web,whatsapp web template,0,34,12,3,21
+etsy,ecom,whatsapp web,whatsapp web design,1,34,12,3,19
+etsy,ecom,whatsapp web,whatsapp webcam,2,34,12,2,15
+etsy,ecom,whatsapp web,whatsapp web site,3,34,12,3,17
+etsy,ecom,whatsapp web,whatsapp webshop,4,34,12,2,16
+etsy,ecom,whatsapp web,whatsapp website template,5,34,12,3,25
+etsy,ecom,whatsapp web,whatsapp web designer,6,34,12,3,21
+etsy,ecom,whatsapp web,whatsapp website,7,34,12,2,16
+etsy,ecom,whatsapp web,whatsapp web instagram,8,34,12,3,22
+etsy,ecom,whatsapp web,whatsapp web theme,9,34,12,3,18
+etsy,ecom,whatsapp web,whatsapp web site template,10,34,12,4,26
+etsy,ecom,whatsapp web,find shop names containing whatsapp web,11,40,12,6,39
+etsy,ecom,google,gold name necklace,0,34,12,3,18
+etsy,ecom,google,gold ring,1,34,12,2,9
+etsy,ecom,google,golf,2,34,12,1,4
+etsy,ecom,google,gold necklace,3,34,12,2,13
+etsy,ecom,google,gold earrings,4,34,12,2,13
+etsy,ecom,google,gold chain,5,34,12,2,10
+etsy,ecom,google,gold bar,6,34,12,2,8
+etsy,ecom,google,golf gifts for men,7,34,12,4,18
+etsy,ecom,google,goth,8,34,12,1,4
+etsy,ecom,google,gold bracelet,9,34,12,2,13
+etsy,ecom,google,gold hoop earrings,10,34,12,3,18
+etsy,ecom,google,find shop names containing go,11,40,12,5,29
+etsy,ecom,gmail,gmail.com,0,34,11,1,9
+etsy,ecom,gmail,gmail,1,34,11,1,5
+etsy,ecom,gmail,gmail email signature,2,34,11,3,21
+etsy,ecom,gmail,gmail template,3,34,11,2,14
+etsy,ecom,gmail,gmail account,4,34,11,2,13
+etsy,ecom,gmail,gmail whatsapp yedegi iphone,5,34,11,4,28
+etsy,ecom,gmail,gmail theme,6,34,11,2,11
+etsy,ecom,gmail,gmailyellow religious cross,7,34,11,3,27
+etsy,ecom,gmail,gmail email,8,34,11,2,11
+etsy,ecom,gmail,gmail email signature template,9,34,11,4,30
+etsy,ecom,gmail,find shop names containing gmail,10,40,11,5,32
+etsy,ecom,amazon,amazonite,0,34,12,1,9
+etsy,ecom,amazon,amazon,1,34,12,1,6
+etsy,ecom,amazon,amazonite necklace,2,34,12,2,18
+etsy,ecom,amazon,amazon.com,3,34,12,1,10
+etsy,ecom,amazon,amazonite ring,4,34,12,2,14
+etsy,ecom,amazon,amazonite bracelet,5,34,12,2,18
+etsy,ecom,amazon,amazon flex,6,34,12,2,11
+etsy,ecom,amazon,amazon frogbit,7,34,12,2,14
+etsy,ecom,amazon,amazon svg,8,34,12,2,10
+etsy,ecom,amazon,amazonite beads,9,34,12,2,15
+etsy,ecom,amazon,amazonite earrings,10,34,12,2,18
+etsy,ecom,amazon,find shop names containing amazon,11,40,12,5,33
+etsy,ecom,translate,translator,0,34,11,1,10
+etsy,ecom,translate,translate,1,34,11,1,9
+etsy,ecom,translate,translator tshirt,2,34,11,2,17
+etsy,ecom,translate,translate chinese,3,34,11,2,17
+etsy,ecom,translate,translated quran,4,34,11,2,16
+etsy,ecom,translate,translate text,5,34,11,2,14
+etsy,ecom,translate,translate spanish,6,34,11,2,17
+etsy,ecom,translate,translator shirt,7,34,11,2,16
+etsy,ecom,translate,translation service,8,34,11,2,19
+etsy,ecom,translate,translate english to arabic,9,34,11,4,27
+etsy,ecom,translate,find shop names containing translat,10,40,11,5,35
+etsy,ecom,google translate,google translate,0,34,2,2,16
+etsy,ecom,google translate,find shop names containing google translate,1,40,2,6,43
+etsy,ecom,traductor,traductor,0,34,2,1,9
+etsy,ecom,traductor,find shop names containing traducto,1,40,2,5,35
+etsy,ecom,hotmail,hotmail.com,0,34,3,1,11
+etsy,ecom,hotmail,hotmail,1,34,3,1,7
+etsy,ecom,hotmail,find shop names containing hotmail,2,40,3,5,34
+etsy,ecom,instagram,instagram highlight covers,0,34,12,3,26
+etsy,ecom,instagram,instagram template,1,34,12,2,18
+etsy,ecom,instagram,instagram svg,2,34,12,2,13
+etsy,ecom,instagram,instagram,3,34,12,1,9
+etsy,ecom,instagram,instagram presets,4,34,12,2,17
+etsy,ecom,instagram,instagram highlights,5,34,12,2,20
+etsy,ecom,instagram,instant download,6,34,12,2,16
+etsy,ecom,instagram,instagram decal,7,34,12,2,15
+etsy,ecom,instagram,instagram sticker,8,34,12,2,17
+etsy,ecom,instagram,instagram template canva,9,34,12,3,24
+etsy,ecom,instagram,instagram post,10,34,12,2,14
+etsy,ecom,instagram,find shop names containing insta,11,40,12,5,32
+etsy,ecom,weather,weather vane,0,34,12,2,12
+etsy,ecom,weather,weathervane,1,34,12,1,11
+etsy,ecom,weather,weather station,2,34,12,2,15
+etsy,ecom,weather,weather,3,34,12,1,7
+etsy,ecom,weather,weather stickers,4,34,12,2,16
+etsy,ecom,weather,weather clipart,5,34,12,2,15
+etsy,ecom,weather,weathervane for roof,6,34,12,3,20
+etsy,ecom,weather,weather cards,7,34,12,2,13
+etsy,ecom,weather,weathered heather,8,34,12,2,17
+etsy,ecom,weather,weathered raindrop,9,34,12,2,18
+etsy,ecom,weather,weathering with you,10,34,12,3,19
+etsy,ecom,weather,find shop names containing weather,11,40,12,5,34
+etsy,ecom,netflix,netflix svg,0,34,12,2,11
+etsy,ecom,netflix,netflix,1,34,12,1,7
+etsy,ecom,netflix,netflix and chill,2,34,12,3,17
+etsy,ecom,netflix,netflix account,3,34,12,2,15
+etsy,ecom,netflix,netflix video template,4,34,12,3,22
+etsy,ecom,netflix,netflix stickers,5,34,12,2,16
+etsy,ecom,netflix,netflix premium,6,34,12,2,15
+etsy,ecom,netflix,netflix trash truck,7,34,12,3,19
+etsy,ecom,netflix,netflix anniversary,8,34,12,2,19
+etsy,ecom,netflix,netflix dvd,9,34,12,2,11
+etsy,ecom,netflix,netflix and chill svg,10,34,12,4,21
+etsy,ecom,netflix,find shop names containing netfli,11,40,12,5,33
+etsy,ecom,yahoo,yahoo.com,0,34,8,1,9
+etsy,ecom,yahoo,yahoo,1,34,8,1,5
+etsy,ecom,yahoo,yahoo news,2,34,8,2,10
+etsy,ecom,yahoo,yahoo mail,3,34,8,2,10
+etsy,ecom,yahoo,yahoomail.com,4,34,8,1,13
+etsy,ecom,yahoo,yahoo.mail,5,34,8,1,10
+etsy,ecom,yahoo,yahoo email signature,6,34,8,3,21
+etsy,ecom,yahoo,find shop names containing yahoo,7,40,8,5,32
+etsy,ecom,twitter,twitter banner,0,34,12,2,14
+etsy,ecom,twitter,twitter,1,34,12,1,7
+etsy,ecom,twitter,twitter post,2,34,12,2,12
+etsy,ecom,twitter,twitter followers,3,34,12,2,17
+etsy,ecom,twitter,twitter header,4,34,12,2,14
+etsy,ecom,twitter,twitter logo svg,5,34,12,3,16
+etsy,ecom,twitter,twitter tapestry,6,34,12,2,16
+etsy,ecom,twitter,twitter post templates,7,34,12,3,22
+etsy,ecom,twitter,twitter shirt,8,34,12,2,13
+etsy,ecom,twitter,twitter decal,9,34,12,2,13
+etsy,ecom,twitter,twitter svg,10,34,12,2,11
+etsy,ecom,twitter,find shop names containing twitte,11,40,12,5,33
+etsy,ecom,yahoo mail,yahoo mail,0,34,2,2,10
+etsy,ecom,yahoo mail,find shop names containing yahoo mai,1,40,2,6,36
+etsy,ecom,google maps,google map qr code,0,34,3,4,18
+etsy,ecom,google maps,google maps,1,34,3,2,11
+etsy,ecom,google maps,find shop names containing google map,2,40,3,6,37
+etsy,ecom,whatsapp,whatsapp stickers,0,34,9,2,17
+etsy,ecom,whatsapp,whatsapp,1,34,9,1,8
+etsy,ecom,whatsapp,whatsapp emoji,2,34,9,2,14
+etsy,ecom,whatsapp,whatsapp status template,3,34,9,3,24
+etsy,ecom,whatsapp,whatsapp wedding invitation,4,34,9,3,27
+etsy,ecom,whatsapp,whatsapp telegram,5,34,9,2,17
+etsy,ecom,whatsapp,whatsapp invitation,6,34,9,2,19
+etsy,ecom,whatsapp,whatsapp invitation rsvp,7,34,9,3,24
+etsy,ecom,whatsapp,find shop names containing whatsapp,8,40,9,5,35
+etsy,ecom,fb,fbomb mom,0,34,12,2,9
+etsy,ecom,fb,fbi,1,34,12,1,3
+etsy,ecom,fb,fbi badge,2,34,12,2,9
+etsy,ecom,fb,fbf,3,34,12,1,3
+etsy,ecom,fb,fbi jacket,4,34,12,2,10
+etsy,ecom,fb,fbomb mom png,5,34,12,3,13
+etsy,ecom,fb,fbomb mom with tattoos pretty eyes and thick thighs svg,6,34,12,10,55
+etsy,ecom,fb,fbf svg,7,34,12,2,7
+etsy,ecom,fb,fbomb mom svg,8,34,12,3,13
+etsy,ecom,fb,fbaa sticker,9,34,12,2,12
+etsy,ecom,fb,fbi svg,10,34,12,2,7
+etsy,ecom,fb,find shop names containing fb,11,40,12,5,29
+etsy,ecom,roblox,roblox svg,0,34,12,2,10
+etsy,ecom,roblox,roblox,1,34,12,1,6
+etsy,ecom,roblox,roblox png,2,34,12,2,10
+etsy,ecom,roblox,roblox cake topper,3,34,12,3,18
+etsy,ecom,roblox,roblox birthday shirt,4,34,12,3,21
+etsy,ecom,roblox,roblox font,5,34,12,2,11
+etsy,ecom,roblox,roblox birthday invitation,6,34,12,3,26
+etsy,ecom,roblox,roblox birthday,7,34,12,2,15
+etsy,ecom,roblox,roblox shirt,8,34,12,2,12
+etsy,ecom,roblox,roblox account,9,34,12,2,14
+etsy,ecom,roblox,roblox invitation,10,34,12,2,17
+etsy,ecom,roblox,find shop names containing roblox,11,40,12,5,33
+etsy,ecom,ebay,ebay.com,0,34,12,1,8
+etsy,ecom,ebay,ebay,1,34,12,1,4
+etsy,ecom,ebay,ebay thank you cards,2,34,12,4,20
+etsy,ecom,ebay,ebay online shopping,3,34,12,3,20
+etsy,ecom,ebay,ebay template,4,34,12,2,13
+etsy,ecom,ebay,ebay seller inventory pdf,5,34,12,4,25
+etsy,ecom,ebay,ebay motors,6,34,12,2,11
+etsy,ecom,ebay,ebay store banner,7,34,12,3,17
+etsy,ecom,ebay,ebay sticker,8,34,12,2,12
+etsy,ecom,ebay,ebay listing template,9,34,12,3,21
+etsy,ecom,ebay,ebay spreadsheet,10,34,12,2,16
+etsy,ecom,ebay,find shop names containing ebay,11,40,12,5,31
+etsy,ecom,outlook,outlook,0,34,7,1,7
+etsy,ecom,outlook,outlook signature,1,34,7,2,17
+etsy,ecom,outlook,outlookmesh,2,34,7,1,11
+etsy,ecom,outlook,outlook.com,3,34,7,1,11
+etsy,ecom,outlook,outlook template,4,34,7,2,16
+etsy,ecom,outlook,outlook planner,5,34,7,2,15
+etsy,ecom,outlook,find shop names containing outlo,6,40,7,5,32
+etsy,ecom,tradutor,tradutor earrings,0,34,12,2,17
+etsy,ecom,tradutor,tradutor necklace,1,34,12,2,17
+etsy,ecom,tradutor,tradutor bag,2,34,12,2,12
+etsy,ecom,tradutor,tradutor shirt,3,34,12,2,14
+etsy,ecom,tradutor,tradutor bracelet,4,34,12,2,17
+etsy,ecom,tradutor,tradutor mask,5,34,12,2,13
+etsy,ecom,tradutor,tradutor,6,34,12,1,8
+etsy,ecom,tradutor,tradutor fabric,7,34,12,2,15
+etsy,ecom,tradutor,tradutors,8,34,12,1,9
+etsy,ecom,tradutor,tradutora,9,34,12,1,9
+etsy,ecom,tradutor,tradutoro,10,34,12,1,9
+etsy,ecom,tradutor,find shop names containing tradutor,11,40,12,5,35
+etsy,ecom,walmart,walmart.com,0,34,12,1,11
+etsy,ecom,walmart,walmart,1,34,12,1,7
+etsy,ecom,walmart,walmart pins,2,34,12,2,12
+etsy,ecom,walmart,walmart svg,3,34,12,2,11
+etsy,ecom,walmart,walmart logo svg,4,34,12,3,16
+etsy,ecom,walmart,walmart vest,5,34,12,2,12
+etsy,ecom,walmart,walmart patch,6,34,12,2,13
+etsy,ecom,walmart,walmart spark svg,7,34,12,3,17
+etsy,ecom,walmart,walmart badge reel,8,34,12,3,18
+etsy,ecom,walmart,walmart png,9,34,12,2,11
+etsy,ecom,walmart,walmart apparel,10,34,12,2,15
+etsy,ecom,walmart,find shop names containing walma,11,40,12,5,32
+etsy,ecom,maps,maps and prints,0,34,12,3,15
+etsy,ecom,maps,maps,1,34,12,1,4
+etsy,ecom,maps,maps as a gift,2,34,12,4,14
+etsy,ecom,maps,maps as art,3,34,12,3,11
+etsy,ecom,maps,maps of the world,4,34,12,4,17
+etsy,ecom,maps,maps poster,5,34,12,2,11
+etsy,ecom,maps,maps of europe,6,34,12,3,14
+etsy,ecom,maps,maps with pins,7,34,12,3,14
+etsy,ecom,maps,maps middle earth,8,34,12,3,17
+etsy,ecom,maps,maps wall art,9,34,12,3,13
+etsy,ecom,maps,maps of italy,10,34,12,3,13
+etsy,ecom,maps,find shop names containing maps,11,40,12,5,31
+etsy,ecom,yt,yttrium fluorite,0,34,12,2,16
+etsy,ecom,yt,yttd,1,34,12,1,4
+etsy,ecom,yt,ytk,2,34,12,1,3
+etsy,ecom,yt,yttd plush,3,34,12,2,10
+etsy,ecom,yt,yttd pin,4,34,12,2,8
+etsy,ecom,yt,yttd poster,5,34,12,2,11
+etsy,ecom,yt,yttd cosplay,6,34,12,2,12
+etsy,ecom,yt,ytp,7,34,12,1,3
+etsy,ecom,yt,yttrium aluminum garnet,8,34,12,3,23
+etsy,ecom,yt,yt,9,34,12,1,2
+etsy,ecom,yt,yttd collar,10,34,12,2,11
+etsy,ecom,yt,find shop names containing yt,11,40,12,5,29
+etsy,ecom,satta,satanic,0,34,12,1,7
+etsy,ecom,satta,satchel,1,34,12,1,7
+etsy,ecom,satta,satanic necklace,2,34,12,2,16
+etsy,ecom,satta,satan,3,34,12,1,5
+etsy,ecom,satta,satanic dress,4,34,12,2,13
+etsy,ecom,satta,satta,5,34,12,1,5
+etsy,ecom,satta,satanic earrings,6,34,12,2,16
+etsy,ecom,satta,satta shirt,7,34,12,2,11
+etsy,ecom,satta,sailor moon,8,34,12,2,11
+etsy,ecom,satta,satanic jewelry,9,34,12,2,15
+etsy,ecom,satta,satanic art,10,34,12,2,11
+etsy,ecom,satta,find shop names containing satta,11,40,12,5,32
+etsy,ecom,pinterest,pinterest templates,0,34,12,2,19
+etsy,ecom,pinterest,pinterest,1,34,12,1,9
+etsy,ecom,pinterest,pinterest hoodies,2,34,12,2,17
+etsy,ecom,pinterest,pinterest hoodie,3,34,12,2,16
+etsy,ecom,pinterest,pinterest pins,4,34,12,2,14
+etsy,ecom,pinterest,pinterest pin templates,5,34,12,3,23
+etsy,ecom,pinterest,pinterest inspired necklace,6,34,12,3,27
+etsy,ecom,pinterest,pinterest canva templates,7,34,12,3,25
+etsy,ecom,pinterest,pinterest decor,8,34,12,2,15
+etsy,ecom,pinterest,pinterest templates wellness,9,34,12,3,28
+etsy,ecom,pinterest,pinterest ebook,10,34,12,2,15
+etsy,ecom,pinterest,find shop names containing pinterest,11,40,12,5,36
+etsy,ecom,speed test,speed test,0,34,2,2,10
+etsy,ecom,speed test,find shop names containing speed tes,1,40,2,6,36
+etsy,ecom,nba,nba jersey,0,34,12,2,10
+etsy,ecom,nba,nba,1,34,12,1,3
+etsy,ecom,nba,nba shorts,2,34,12,2,10
+etsy,ecom,nba,nba shirt,3,34,12,2,9
+etsy,ecom,nba,nba graphic tee,4,34,12,3,15
+etsy,ecom,nba,nba poster,5,34,12,2,10
+etsy,ecom,nba,nba hat,6,34,12,2,7
+etsy,ecom,nba,nba youngboy,7,34,12,2,12
+etsy,ecom,nba,nba vintage t shirt,8,34,12,4,19
+etsy,ecom,nba,nba cards,9,34,12,2,9
+etsy,ecom,nba,nba t shirt,10,34,12,3,11
+etsy,ecom,nba,find shop names containing nba,11,40,12,5,30
+etsy,ecom,flipkart,flipkart ring,0,34,12,2,13
+etsy,ecom,flipkart,flipkart svg,1,34,12,2,12
+etsy,ecom,flipkart,flipkart hat,2,34,12,2,12
+etsy,ecom,flipkart,flipkart png,3,34,12,2,12
+etsy,ecom,flipkart,flipkart necklace,4,34,12,2,17
+etsy,ecom,flipkart,flipkart mask,5,34,12,2,13
+etsy,ecom,flipkart,flipkart earrings,6,34,12,2,17
+etsy,ecom,flipkart,flipkart bag,7,34,12,2,12
+etsy,ecom,flipkart,flipkart fabric,8,34,12,2,15
+etsy,ecom,flipkart,flipkarts,9,34,12,1,9
+etsy,ecom,flipkart,flipkart shirt,10,34,12,2,14
+etsy,ecom,flipkart,find shop names containing flipkart,11,40,12,5,35
+etsy,ecom,bbc news,bbc news,0,34,2,2,8
+etsy,ecom,bbc news,find shop names containing bbc news,1,40,2,6,35
+etsy,ecom,ikea,ikebana vase,0,34,12,2,12
+etsy,ecom,ikea,ikea,1,34,12,1,4
+etsy,ecom,ikea,ikebana,2,34,12,1,7
+etsy,ecom,ikea,ikat pillow,3,34,12,2,11
+etsy,ecom,ikea,ikat fabric,4,34,12,2,11
+etsy,ecom,ikea,ikea hack,5,34,12,2,9
+etsy,ecom,ikea,ikea high chair footrest,6,34,12,4,24
+etsy,ecom,ikea,ikat,7,34,12,1,4
+etsy,ecom,ikea,ikea lamp,8,34,12,2,9
+etsy,ecom,ikea,ikea kallax,9,34,12,2,11
+etsy,ecom,ikea,ikat dress,10,34,12,2,10
+etsy,ecom,ikea,find shop names containing ik,11,40,12,5,29
+etsy,ecom,news,newsboy cap,0,34,12,2,11
+etsy,ecom,news,newsies,1,34,12,1,7
+etsy,ecom,news,newspaper,2,34,12,1,9
+etsy,ecom,news,newsletter template,3,34,12,2,19
+etsy,ecom,news,newspaper wedding program,4,34,12,3,25
+etsy,ecom,news,newsletter,5,34,12,1,10
+etsy,ecom,news,newspaper frame,6,34,12,2,15
+etsy,ecom,news,newspaper template,7,34,12,2,18
+etsy,ecom,news,newsletter template editable,8,34,12,3,28
+etsy,ecom,news,newsboy hat,9,34,12,2,11
+etsy,ecom,news,newspaper box,10,34,12,2,13
+etsy,ecom,news,find shop names containing news,11,40,12,5,31
+etsy,ecom,classroom,classroom decor elementary,0,34,12,3,26
+etsy,ecom,classroom,classroom decor,1,34,12,2,15
+etsy,ecom,classroom,classroom sign,2,34,12,2,14
+etsy,ecom,classroom,classroom,3,34,12,1,9
+etsy,ecom,classroom,classroom decor bundle,4,34,12,3,22
+etsy,ecom,classroom,classroom door sign,5,34,12,3,19
+etsy,ecom,classroom,classroom posters,6,34,12,2,17
+etsy,ecom,classroom,classroom theme,7,34,12,2,15
+etsy,ecom,classroom,classroom decor middle school,8,34,12,4,29
+etsy,ecom,classroom,classroom rug,9,34,12,2,13
+etsy,ecom,classroom,classroom decor high school,10,34,12,4,27
+etsy,ecom,classroom,find shop names containing classroo,11,40,12,5,35
+etsy,ecom,twitch,twitch overlay,0,34,12,2,14
+etsy,ecom,twitch,twitch emotes,1,34,12,2,13
+etsy,ecom,twitch,twitch,2,34,12,1,6
+etsy,ecom,twitch,twitch panels,3,34,12,2,13
+etsy,ecom,twitch,twitch badges,4,34,12,2,13
+etsy,ecom,twitch,twitch alerts,5,34,12,2,13
+etsy,ecom,twitch,twitch banner,6,34,12,2,13
+etsy,ecom,twitch,twitch sub badges,7,34,12,3,17
+etsy,ecom,twitch,twitch overlay package,8,34,12,3,22
+etsy,ecom,twitch,twitch bit badges,9,34,12,3,17
+etsy,ecom,twitch,twitch animated emotes,10,34,12,3,22
+etsy,ecom,twitch,find shop names containing twitc,11,40,12,5,32
+etsy,ecom,home depot,home depot coupon,0,34,12,3,17
+etsy,ecom,home depot,home depot,1,34,12,2,10
+etsy,ecom,home depot,home depot shirt,2,34,12,3,16
+etsy,ecom,home depot,home depot svg,3,34,12,3,14
+etsy,ecom,home depot,home depot sticker,4,34,12,3,18
+etsy,ecom,home depot,home depot apron,5,34,12,3,16
+etsy,ecom,home depot,home depot 10,6,34,12,3,13
+etsy,ecom,home depot,home depot in store,7,34,12,4,19
+etsy,ecom,home depot,home depot online,8,34,12,3,17
+etsy,ecom,home depot,home depot online coupon,9,34,12,4,24
+etsy,ecom,home depot,home depot 15,10,34,12,3,13
+etsy,ecom,home depot,find shop names containing home depo,11,40,12,6,36
+etsy,ecom,olx,olxi,0,34,12,1,4
+etsy,ecom,olx,olx jersey,1,34,12,2,10
+etsy,ecom,olx,olxa,2,34,12,1,4
+etsy,ecom,olx,olx,3,34,12,1,3
+etsy,ecom,olx,olxia,4,34,12,1,5
+etsy,ecom,olx,olxiv,5,34,12,1,5
+etsy,ecom,olx,olxen,6,34,12,1,5
+etsy,ecom,olx,olga,7,34,12,1,4
+etsy,ecom,olx,olxie,8,34,12,1,5
+etsy,ecom,olx,olxf,9,34,12,1,4
+etsy,ecom,olx,olxu,10,34,12,1,4
+etsy,ecom,olx,find shop names containing olx,11,40,12,5,30
+target,ecom,youtube,youtube camera,0,48,3,2,14
+target,ecom,youtube,youtubers life 2,1,48,3,3,16
+target,ecom,youtube,youtuber toys,2,48,3,2,13
+target,ecom,facebook,facebook portal tv,0,48,2,3,18
+target,ecom,facebook,facebook portal,1,48,2,2,15
+target,ecom,whatsapp web,who whats wear dress,0,48,10,4,20
+target,ecom,whatsapp web,who whats wear,1,48,10,3,14
+target,ecom,whatsapp web,whats do you meme,2,48,10,4,17
+target,ecom,whatsapp web,who whats wear top,3,48,10,4,18
+target,ecom,whatsapp web,who whats wear shorts,4,48,10,4,21
+target,ecom,whatsapp web,who whats wear sweatpants,5,48,10,4,25
+target,ecom,whatsapp web,whats going on,6,48,10,3,14
+target,ecom,whatsapp web,whats the meme,7,48,10,3,14
+target,ecom,whatsapp web,who what wear pants,8,48,10,4,19
+target,ecom,whatsapp web,who what wear skirt,9,48,10,4,19
+target,ecom,google,google play gift card,0,48,10,4,21
+target,ecom,google,google nest,1,48,10,2,11
+target,ecom,google,google play gift card email delivery,2,48,10,6,36
+target,ecom,google,google play card,3,48,10,3,16
+target,ecom,google,google play,4,48,10,2,11
+target,ecom,google,google pixel 6,5,48,10,3,14
+target,ecom,google,google chromecast with google tv,6,48,10,5,32
+target,ecom,google,google nest thermostat,7,48,10,3,22
+target,ecom,google,google home,8,48,10,2,11
+target,ecom,google,google,9,48,10,1,6
+target,ecom,gmail,gentle non gmo powder infant formula,0,48,10,6,36
+target,ecom,gmail,non gmo snacks,1,48,10,3,14
+target,ecom,gmail,gentle non gmo powder,2,48,10,4,21
+target,ecom,gmail,non gmo popcorn,3,48,10,3,15
+target,ecom,gmail,non gmo,4,48,10,2,7
+target,ecom,gmail,similac alimentum non gmo,5,48,10,4,25
+target,ecom,gmail,non gmo pretzels,6,48,10,3,16
+target,ecom,gmail,non gmo crackers,7,48,10,3,16
+target,ecom,gmail,enfamil neuropro non gmo,8,48,10,4,24
+target,ecom,gmail,non gmo chips,9,48,10,3,13
+target,ecom,amazon,amazon firestick,0,48,10,2,16
+target,ecom,amazon,digital amazon gift card,1,48,10,4,24
+target,ecom,amazon,amazon fire tablet 10,2,48,10,4,21
+target,ecom,amazon,amazon fire tablet,3,48,10,3,18
+target,ecom,amazon,amazon fire tv stick,4,48,10,4,20
+target,ecom,amazon,amazon firestick 4k max,5,48,10,4,23
+target,ecom,amazon,gift card amazon,6,48,10,3,16
+target,ecom,amazon,amazon firestick 4k,7,48,10,3,19
+target,ecom,amazon,amazon fire kids tablet,8,48,10,4,23
+target,ecom,amazon,amazon echo,9,48,10,2,11
+target,ecom,translate,translucent powder,0,48,10,2,18
+target,ecom,translate,coty airspun translucent powder,1,48,10,4,31
+target,ecom,translate,translucent setting powder,2,48,10,3,26
+target,ecom,translate,no7 translucent powder,3,48,10,3,22
+target,ecom,translate,loose face powder translucent,4,48,10,4,29
+target,ecom,translate,airspun translucent powder,5,48,10,3,26
+target,ecom,translate,y weave translucent,6,48,10,3,19
+target,ecom,translate,covergirl translucent light powder,7,48,10,4,34
+target,ecom,translate,translucent storage baskets,8,48,10,3,27
+target,ecom,translate,wet n wild translucent powder,9,48,10,5,29
+target,ecom,google translate,google chromecast with google tv,0,48,4,5,32
+target,ecom,google translate,google tv,1,48,4,2,9
+target,ecom,google translate,google toddler,2,48,4,2,14
+target,ecom,google translate,chromecast with google tv 4k,3,48,4,5,28
+target,ecom,traductor,polvo traducido,0,48,1,2,15
+target,ecom,hotmail,hot chocolate bomb,0,48,10,3,18
+target,ecom,hotmail,hot dog buns,1,48,10,3,12
+target,ecom,hotmail,hot dogs,2,48,10,2,8
+target,ecom,hotmail,hot wheels,3,48,10,2,10
+target,ecom,hotmail,hot pockets,4,48,10,2,11
+target,ecom,hotmail,hot wheels track,5,48,10,3,16
+target,ecom,hotmail,hot cheetos,6,48,10,2,11
+target,ecom,hotmail,hot wheels cars,7,48,10,3,15
+target,ecom,hotmail,hot wheels monster trucks,8,48,10,4,25
+target,ecom,hotmail,hot sauce,9,48,10,2,9
+target,ecom,instagram,fujifilm instax mini 11,0,48,10,4,23
+target,ecom,instagram,polaroid film instax mini,1,48,10,4,25
+target,ecom,instagram,fujifilm instax mini film,2,48,10,4,25
+target,ecom,instagram,instant coffee,3,48,10,2,14
+target,ecom,instagram,instant pot,4,48,10,2,11
+target,ecom,instagram,starbucks instant coffee,5,48,10,3,24
+target,ecom,instagram,sally hansen insta dri,6,48,10,4,22
+target,ecom,instagram,tasters choice instant coffee,7,48,10,4,29
+target,ecom,instagram,instant oatmeal,8,48,10,2,15
+target,ecom,instagram,poloriaid instant camera,9,48,10,3,24
+target,ecom,weather,iris weathertight plastic storage bin,0,48,10,5,37
+target,ecom,weather,noaa weather radio,1,48,10,3,18
+target,ecom,weather,weather radio,2,48,10,2,13
+target,ecom,weather,sweater weather candle,3,48,10,3,22
+target,ecom,weather,nightstand weathered oak,4,48,10,3,24
+target,ecom,weather,weather stripping,5,48,10,2,17
+target,ecom,weather,under the weather pod,6,48,10,4,21
+target,ecom,weather,adorandak chair all weather,7,48,10,4,27
+target,ecom,weather,weather station,8,48,10,2,15
+target,ecom,weather,all weather outdoor patio furniture,9,48,10,5,35
+target,ecom,netflix,netflix gift card,0,48,5,3,17
+target,ecom,netflix,netflix,1,48,5,1,7
+target,ecom,netflix,ice cream netflix,2,48,5,3,17
+target,ecom,netflix,netflix ecard,3,48,5,2,13
+target,ecom,netflix,netflix toys,4,48,5,2,12
+target,ecom,yahoo,yahoo chocolate milk,0,48,1,3,20
+target,ecom,twitter,twitch gift card,0,48,2,3,16
+target,ecom,twitter,twitch,1,48,2,1,6
+target,ecom,yahoo mail,yahoo chocolate milk,0,48,1,3,20
+target,ecom,google maps,google max,0,48,10,2,10
+target,ecom,google maps,googles play gift card,1,48,10,4,22
+target,ecom,google maps,googles nest,2,48,10,2,12
+target,ecom,google maps,googles nest thermostat,3,48,10,3,23
+target,ecom,google maps,googles nest hub,4,48,10,3,16
+target,ecom,google maps,googles nest doorbell,5,48,10,3,21
+target,ecom,google maps,kids googles goggle,6,48,10,3,19
+target,ecom,google maps,googles home mini,7,48,10,3,17
+target,ecom,google maps,googles juniors,8,48,10,2,15
+target,ecom,google maps,googles nest audio,9,48,10,3,18
+target,ecom,whatsapp,who whats wear dress,0,48,10,4,20
+target,ecom,whatsapp,who whats wear,1,48,10,3,14
+target,ecom,whatsapp,whats do you meme,2,48,10,4,17
+target,ecom,whatsapp,who whats wear top,3,48,10,4,18
+target,ecom,whatsapp,who whats wear shorts,4,48,10,4,21
+target,ecom,whatsapp,who whats wear sweatpants,5,48,10,4,25
+target,ecom,whatsapp,whats going on,6,48,10,3,14
+target,ecom,whatsapp,whats the meme,7,48,10,3,14
+target,ecom,whatsapp,who what wear pants,8,48,10,4,19
+target,ecom,whatsapp,who what wear skirt,9,48,10,4,19
+target,ecom,fb,xterra fb150,0,48,3,2,12
+target,ecom,fb,fb1597c,1,48,3,1,7
+target,ecom,fb,fbi book,2,48,3,2,8
+target,ecom,roblox,roblox giftcard,0,48,10,2,15
+target,ecom,roblox,roblox,1,48,10,1,6
+target,ecom,roblox,roblox toys,2,48,10,2,11
+target,ecom,roblox,roblox robux gift card,3,48,10,4,22
+target,ecom,roblox,boys roblox shirts,4,48,10,3,18
+target,ecom,roblox,digital roblox gift card,5,48,10,4,24
+target,ecom,roblox,roblox bee swarm simulator toys,6,48,10,5,31
+target,ecom,roblox,roblox card,7,48,10,2,11
+target,ecom,roblox,roblox shirt,8,48,10,2,12
+target,ecom,roblox,roblox giftcard 25,9,48,10,3,18
+target,ecom,ebay,ebay gift card,0,48,5,3,14
+target,ecom,ebay,ebay gift card email delivery,1,48,5,5,29
+target,ecom,ebay,ebay,2,48,5,1,4
+target,ecom,ebay,ebay card,3,48,5,2,9
+target,ecom,ebay,egift card ebay,4,48,5,3,15
+target,ecom,outlook,secret outlast deodorant,0,48,10,3,24
+target,ecom,outlook,multi plug wall outlets,1,48,10,4,23
+target,ecom,outlook,outlet covers,2,48,10,2,13
+target,ecom,outlook,baby outlet covers,3,48,10,3,18
+target,ecom,outlook,outlet extender,4,48,10,2,15
+target,ecom,outlook,outlet,5,48,10,1,6
+target,ecom,outlook,outlet adapter,6,48,10,2,14
+target,ecom,outlook,light timer for outlet,7,48,10,4,22
+target,ecom,outlook,outlet timer,8,48,10,2,12
+target,ecom,outlook,secret outlast,9,48,10,2,14
+target,ecom,tradutor,john deere ride on tractor,0,48,10,5,26
+target,ecom,tradutor,tractor toys,1,48,10,2,12
+target,ecom,tradutor,john deere tractor toys,2,48,10,4,23
+target,ecom,tradutor,lego tractor,3,48,10,2,12
+target,ecom,tradutor,tractor,4,48,10,1,7
+target,ecom,tradutor,tractor ride on,5,48,10,3,15
+target,ecom,tradutor,john deer tractor,6,48,10,3,17
+target,ecom,tradutor,tractor baby clothes,7,48,10,3,20
+target,ecom,tradutor,tractors book,8,48,10,2,13
+target,ecom,tradutor,kids riding tractors,9,48,10,3,20
+target,ecom,walmart,wall shelf,0,48,10,2,10
+target,ecom,walmart,womens wallets,1,48,10,2,14
+target,ecom,walmart,wall mirror,2,48,10,2,11
+target,ecom,walmart,peel and stick wallpaper,3,48,10,4,24
+target,ecom,walmart,baby walker,4,48,10,2,11
+target,ecom,walmart,wall clock,5,48,10,2,10
+target,ecom,walmart,mens wallet,6,48,10,2,11
+target,ecom,walmart,wall hooks,7,48,10,2,10
+target,ecom,walmart,baby walkers for boys,8,48,10,4,21
+target,ecom,walmart,wall decor,9,48,10,2,10
+target,ecom,maps,maps,0,48,10,1,4
+target,ecom,maps,maple syrup,1,48,10,2,11
+target,ecom,maps,sugar free maple syrup,2,48,10,4,22
+target,ecom,maps,pure maple syrup,3,48,10,3,16
+target,ecom,maps,organic maple syrup,4,48,10,3,19
+target,ecom,maps,maple brown sugar oatmeal,5,48,10,4,25
+target,ecom,maps,unsweetened maple syrup,6,48,10,3,23
+target,ecom,maps,maples rugs,7,48,10,2,11
+target,ecom,maps,bts map of the soul 7,8,48,10,6,21
+target,ecom,maps,world map,9,48,10,2,9
+target,ecom,yt,jonathan y table lamp,0,48,10,4,21
+target,ecom,yt,all you lively bralettes,1,48,10,4,24
+target,ecom,yt,all you lively bras,2,48,10,4,19
+target,ecom,yt,thank you cards,3,48,10,3,15
+target,ecom,yt,yogurt pouches,4,48,10,2,14
+target,ecom,yt,toys for 1 year old,5,48,10,5,19
+target,ecom,yt,womens yoga pants,6,48,10,3,17
+target,ecom,yt,chobani flips yogurt,7,48,10,3,20
+target,ecom,yt,yogurt,8,48,10,1,6
+target,ecom,yt,greek yogurt,9,48,10,2,12
+target,ecom,satta,ellie sattler,0,48,1,2,13
+target,ecom,pinterest,pinter paper,0,48,2,2,12
+target,ecom,pinterest,pinter ink,1,48,2,2,10
+target,ecom,speed test,lego speed champions,0,48,10,3,20
+target,ecom,speed test,mens speed stick deodorant,1,48,10,4,26
+target,ecom,speed test,lady speed stick deodorant,2,48,10,4,26
+target,ecom,speed test,speed stick,3,48,10,2,11
+target,ecom,speed test,lady speed stick,4,48,10,3,16
+target,ecom,speed test,menne ns speed stick,5,48,10,4,20
+target,ecom,speed test,menken speed stick,6,48,10,3,18
+target,ecom,speed test,lego speed champions mercedes,7,48,10,4,29
+target,ecom,speed test,lego speed champions lamborghini,8,48,10,4,32
+target,ecom,speed test,need for speed nintendo switch,9,48,10,5,30
+target,ecom,nba,nba 2k22 vc,0,48,10,3,11
+target,ecom,nba,nba trading cards,1,48,10,3,17
+target,ecom,nba,nba 2k22,2,48,10,2,8
+target,ecom,nba,nba cards,3,48,10,2,9
+target,ecom,nba,nba 2k22 vc xbox,4,48,10,4,16
+target,ecom,nba,nba 2k22 nintendo switch,5,48,10,4,24
+target,ecom,nba,nba 2k22 vc card,6,48,10,4,16
+target,ecom,nba,nba basketball cards box,7,48,10,4,24
+target,ecom,nba,nba 2k22 vc ps5,8,48,10,4,15
+target,ecom,nba,nba basketball size 7,9,48,10,4,21
+target,ecom,flipkart,womens flip flops,0,48,10,3,17
+target,ecom,flipkart,mens flip flops,1,48,10,3,15
+target,ecom,flipkart,girls flip flops,2,48,10,3,16
+target,ecom,flipkart,flip flops,3,48,10,2,10
+target,ecom,flipkart,boys flip flops,4,48,10,3,15
+target,ecom,flipkart,kids flip flops,5,48,10,3,15
+target,ecom,flipkart,chobani flips yogurt,6,48,10,3,20
+target,ecom,flipkart,womens flip flops sandals,7,48,10,4,25
+target,ecom,flipkart,chobani flip,8,48,10,2,12
+target,ecom,flipkart,toddler flip flops,9,48,10,3,18
+target,ecom,bbc news,sherlock bbc,0,48,1,2,12
+target,ecom,ikea,ikea,0,48,1,1,4
+target,ecom,news,a news day womens pants,0,48,10,5,23
+target,ecom,news,a news day dress,1,48,10,4,16
+target,ecom,news,a news day womens tops,2,48,10,5,22
+target,ecom,news,a news day tank top,3,48,10,5,19
+target,ecom,news,a news day tshirts,4,48,10,4,18
+target,ecom,news,a news day womens dress,5,48,10,5,23
+target,ecom,news,a news day sandals,6,48,10,4,18
+target,ecom,news,a news day womens shorts,7,48,10,5,24
+target,ecom,news,a news day pants,8,48,10,4,16
+target,ecom,news,a news day shirts,9,48,10,4,17
+target,ecom,classroom,teacher classroom decor,0,48,10,3,23
+target,ecom,classroom,classroom,1,48,10,1,9
+target,ecom,classroom,classroom book bins,2,48,10,3,19
+target,ecom,classroom,teacher classroom supplies,3,48,10,3,26
+target,ecom,classroom,classroom storage bins,4,48,10,3,22
+target,ecom,classroom,teacher supplies and classroom decorations,5,48,10,5,42
+target,ecom,classroom,classroom organization,6,48,10,2,22
+target,ecom,classroom,classroom decor,7,48,10,2,15
+target,ecom,classroom,classroom supplies,8,48,10,2,18
+target,ecom,classroom,classroom caddy,9,48,10,2,15
+target,ecom,twitch,twitch gift card,0,48,2,3,16
+target,ecom,twitch,twitch,1,48,2,1,6
+target,ecom,home depot,home depot gift card,0,48,3,4,20
+target,ecom,home depot,home depot egift card,1,48,3,4,21
+target,ecom,home depot,home depot,2,48,3,2,10
+target,ecom,olx,old spice deodorant,0,48,10,3,19
+target,ecom,olx,toys for 1 year old,1,48,10,5,19
+target,ecom,olx,old spice body wash,2,48,10,4,19
+target,ecom,olx,baby toys for 1 year old,3,48,10,6,24
+target,ecom,olx,toys for 3 year old boys,4,48,10,6,24
+target,ecom,olx,old bay goldfish,5,48,10,3,16
+target,ecom,olx,toys for 2 year old boys,6,48,10,6,24
+target,ecom,olx,toys for 5 year old boy,7,48,10,6,23
+target,ecom,olx,toys for 2 year old girl,8,48,10,6,24
+target,ecom,olx,toys for 1 year old boy,9,48,10,6,23
